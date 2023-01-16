@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<title>USER REGISTRATION</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />    
+</head>
+<body >
+<div class="container" >
+    <div class="row" style="padding:50px;">
+        <p><h1>USER REGISTRATION</h1></p>
+        <form action="/submit" method="POST">
+            <div class="mb-3">
+              <label class="form-label">First name:</label>
+              <input type="text" id="fname" name="fname" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Last name:</label>
+                <input type="text" id="lname" name="lname" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email:</label>
+                <input type="text" id="email" name="email" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Password:</label>
+                <input type="password" id="passwd" name="passwd" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Confirm Password:</label>
+                <input type="password" id="passwd2" name="passwd2" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Phone Number:</label>
+                <input type="number" id="phonenumber" name="phonenumber" class="form-control">
+            </div>
+            <br/><br/>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+   </div>
+</div>
+</body>
+</html>
