@@ -1,0 +1,5 @@
+vintage_id;make;model;year;color;power_of_engine;mileage;price;availability;image_url;owner_id
+1;Dodge;Challenger;1968;Black;340.00;134000;123500.00;f;https://i.pinimg.com/originals/ff/a8/c2/ffa8c2e18fe62b52b675aed0279ec106.jpgl;6
+2;Chevrelot;Camaro;1968;Black;340.00;134000;123500.00;f;https://i.pinimg.com/originals/ff/a8/c2/ffa8c2e18fe62b52b675aed0279ec106.jpgl;6
+4;ferrari;enzo;1968;Black;340.00;134000;123500.00;t;https://i.pinimg.com/originals/ff/a8/c2/ffa8c2e18fe62b52b675aed0279ec106.jpgl;6
+3;Chevrelot;Camaro;1968;Black;340.00;134000;123500.00;f;https://i.pinimg.com/originals/ff/a8/c2/ffa8c2e18fe62b52b675aed0279ec106.jpgl;6

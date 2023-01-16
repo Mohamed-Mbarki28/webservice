@@ -1,0 +1,1367 @@
+model;price;mileage;date_added;power_of_engine;number_of_previous_owners;transmission_type;fuel_type;fuel_consumption;co2_emissions;id;availability;owner_id;color
+Toyota agya;€ 21,500.-;134,000 km;05/2011;103 kW (140 hp);- (Previous Owners);Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1904;t;;
+SEAT Alhambra ;20000;10000;06/2019;110 kW (150 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);137 g/km (comb.);1585;t;7;red
+Toyota corolla;€ 21,500.-;134,000 km;05/2011;103 kW (140 hp);- (Previous Owners);Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1905;t;;
+Toyota Prado;30000;20000;06/2011;103 kW (140 hp);1;Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1898;f;14;black
+Citroen C4 ;€ 9,290.-;173,035 km;06/2013;82 kW (111 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1586;t;6;Blue  
+SEAT Alhambra ;€ 21,980.-;148,200 km;10/2018;110 kW (150 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);135 g/km (comb.);1587;t;14;Blue  
+Audi A3 ;€ 22,480.-;76,500 km;03/2019;85 kW (116 hp);5;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1702;t;13;Blue  
+Mercedes-Benz Vito ;€ 35,988.-;44,205 km;07/2020;100 kW (136 hp);2;Manual;Diesel;- (l/100 km);197 g/km (comb.);1588;t;8;Blue  
+SEAT Alhambra ;€ 29,980.-;123,300 km;10/2019;110 kW (150 hp);3;Manual;Diesel;5.6 l/100 km (comb.);162 g/km (comb.);1589;t;9;Blue  
+SEAT Alhambra ;€ 22,980.-;158,100 km;07/2019;110 kW (150 hp);2;Manual;Diesel;5 l/100 km (comb.);135 g/km (comb.);1590;t;;Blue  
+SEAT Leon ;€ 13,500.-;80,000 km;10/2017;85 kW (116 hp);3;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1591;t;;Blue  
+Land Rover Range Rover Velar ;€ 41,490.-;105,701 km;04/2019;132 kW (179 hp);5;Automatic;Diesel;5.4 l/100 km (comb.);- (g/km);1592;t;;Blue  
+SEAT Alhambra ;€ 22,480.-;164,100 km;04/2020;110 kW (150 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);137 g/km (comb.);1593;t;;Blue  
+Renault Master ;€ 32,388.-;45,966 km;06/2019;125 kW (170 hp);1;Manual;Diesel;- (l/100 km);187 g/km (comb.);1595;t;;Blue  
+Mercedes-Benz Sprinter ;€ 45,588.-;54,251 km;07/2020;105 kW (143 hp);1;Manual;Diesel;- (l/100 km);206 g/km (comb.);1597;t;;Blue  
+Volkswagen Polo ;€ 14,480.-;37,631 km;12/2018;70 kW (95 hp);1;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1598;t;;Blue  
+Volkswagen Polo ;€ 14,480.-;115,700 km;12/2018;70 kW (95 hp);4;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1599;t;;Blue  
+BMW 525 ;€ 4,500.-;239,500 km;02/2007;130 kW (177 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1600;t;;Blue  
+Renault Master ;€ 32,388.-;27,060 km;09/2019;96 kW (131 hp);5;Manual;Diesel;- (l/100 km);204 g/km (comb.);1602;t;;Blue  
+Volkswagen Polo ;€ 17,480.-;78,000 km;04/2019;70 kW (95 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1606;t;;Blue  
+Mercedes-Benz Sprinter ;€ 45,588.-;69,307 km;06/2020;105 kW (143 hp);1;Manual;Diesel;- (l/100 km);206 g/km (comb.);1607;t;;Blue  
+Lexus NX 300 ;€ 29,749.-;99,729 km;10/2018;145 kW (197 hp);2;Automatic;Electric/Gasoline;5.4 l/100 km (comb.);- (g/km);1609;t;;Blue  
+Ford Transit ;€ 43,188.-;11,624 km;01/2021;96 kW (131 hp);2;Manual;Diesel;- (l/100 km);224 g/km (comb.);1611;t;;Blue  
+Toyota C-HR ;€ 24,490.-;56,000 km;01/2021;135 kW (184 hp);3;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1612;t;;Blue  
+Mercedes-Benz Marco Polo ;€ 100,436.-;41,781 km;06/2020;140 kW (190 hp);1;Automatic;Diesel;- (l/100 km);235 g/km (comb.);1613;t;;Blue  
+Mercedes-Benz V 250 ;€ 99,990.-;4,374 km;08/2021;140 kW (190 hp);1;Automatic;Diesel;- (l/100 km);218 g/km (comb.);1615;t;;Blue  
+Citroen C3 ;€ 15,900.-;74,743 km;03/2019;81 kW (110 hp);5;Automatic;Gasoline;4.9 l/100 km (comb.);- (g/km);1616;t;;Blue  
+Peugeot 308 ;€ 37,300.-;15,097 km;12/2021;165 kW (224 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1618;t;;Blue  
+Volkswagen Golf ;€ 18,980.-;123,500 km;01/2019;110 kW (150 hp);1;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1620;t;;Blue  
+Peugeot 308 ;€ 29,900.-;5,870 km;12/2021;96 kW (131 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1621;t;;Blue  
+Peugeot 308 ;€ 24,900.-;40,808 km;07/2021;96 kW (131 hp);2;Automatic;Diesel;3.5 l/100 km (comb.);- (g/km);1622;t;;Blue  
+Peugeot 208 ;€ 20,900.-;16,205 km;02/2020;75 kW (102 hp);1;Automatic;Gasoline;4.3 l/100 km (comb.);- (g/km);1623;t;;Blue  
+Peugeot 508 ;€ 57,800.-;13,156 km;02/2022;265 kW (360 hp);5;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1624;t;;Blue  
+Peugeot 308 ;€ 31,900.-;6,587 km;02/2022;96 kW (131 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);1625;t;;Blue  
+Peugeot 308 ;€ 29,900.-;5,032 km;12/2021;96 kW (131 hp);3;Automatic;Diesel;- (l/100 km);- (g/km);1626;t;;Blue  
+Peugeot 508 ;€ 52,900.-;16,000 km;04/2021;265 kW (360 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1627;t;;Blue  
+BMW X1 ;€ 27,990.-;25,000 km;05/2018;110 kW (150 hp);5;Manual;Diesel;4.6 l/100 km (comb.);- (g/km);1628;t;;Blue  
+Mercedes-Benz V 250 ;€ 57,388.-;84,960 km;06/2018;140 kW (190 hp);3;Automatic;Diesel;- (l/100 km);158 g/km (comb.);1629;t;;Blue  
+Fiat Punto Evo ;€ 4,800.-;132,023 km;03/2009;55 kW (75 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1630;t;;Blue  
+Toyota Avensis ;€ 16,500.-;74,787 km;06/2017;105 kW (143 hp);2;Manual;Diesel;4.5 l/100 km (comb.);- (g/km);1631;t;;Blue  
+Citroen C4 Cactus ;€ 10,900.-;104,535 km;04/2016;73 kW (99 hp);3;Automatic;Diesel;3.4 l/100 km (comb.);- (g/km);1632;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;44,416 km;09/2019;120 kW (163 hp);2;Manual;Diesel;- (l/100 km);210 g/km (comb.);1634;t;;Blue  
+BMW ;€ 22,630.-;100,463 km;08/2016;135 kW (184 hp);2;Automatic;Others;- (l/100 km);45 g/km (comb.);1636;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;38,063 km;09/2019;120 kW (163 hp);4;Manual;Diesel;- (l/100 km);210 g/km (comb.);1637;t;;Blue  
+Mercedes-Benz B 200 ;€ 13,680.-;162,977 km;09/2015;100 kW (136 hp);1;Manual;Diesel;- (l/100 km);112 g/km (comb.);1638;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;47,042 km;09/2019;120 kW (163 hp);2;Manual;Diesel;- (l/100 km);210 g/km (comb.);1640;t;;Blue  
+Opel Astra ;€ 1,750.-;120 km;10/2004;55 kW (75 hp);1;Manual;Diesel;4.8 l/100 km (comb.);130 g/km (comb.);1642;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;34,956 km;09/2019;120 kW (163 hp);2;Manual;Diesel;- (l/100 km);210 g/km (comb.);1643;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;47,399 km;09/2019;120 kW (163 hp);4;Manual;Diesel;- (l/100 km);210 g/km (comb.);1645;t;;Blue  
+Volkswagen Golf ;€ 17,480.-;117,500 km;01/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1647;t;;Blue  
+Toyota camrssssssy;€ 21,500.-;134,000 km;05/2011;103 kW (140 hp);- (Previous Owners);Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1901;t;;Blue  
+Mercedes-Benz ML 270 ;€ 8,980.-;151,232 km;09/2003;120 kW (163 hp);1;Automatic;Diesel;9.1 l/100 km (comb.);241 g/km (comb.);570;t;;Blue  
+Alfa Romeo 159 ;€ 4,500.-;294,000 km;07/2011;100 kW (136 hp);3;Manual;Diesel;5.2 l/100 km (comb.);137 g/km (comb.);1648;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;116,500 km;06/2020;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1651;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;100,900 km;07/2020;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1653;t;;Blue  
+Volkswagen Golf ;€ 20,980.-;108,500 km;02/2019;110 kW (150 hp);5;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1654;t;;Blue  
+Volkswagen Golf ;€ 12,980.-;185,700 km;07/2018;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1658;t;;Blue  
+Volkswagen Golf ;€ 15,870.-;160,900 km;05/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1659;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;56,500 km;07/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1660;t;;Blue  
+Volkswagen Golf ;€ 15,980.-;129,000 km;11/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1666;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;46,500 km;09/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1667;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;63,500 km;03/2019;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1671;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;87,000 km;02/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1674;t;;Blue  
+Volkswagen Golf ;€ 15,480.-;148,900 km;07/2018;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1675;t;;Blue  
+Audi A4 ;€ 25,480.-;74,700 km;08/2019;110 kW (150 hp);2;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1680;t;;Blue  
+Audi A4 ;€ 29,980.-;73,900 km;01/2020;100 kW (136 hp);3;Automatic;Diesel;4 l/100 km (comb.);102 g/km (comb.);1681;t;;Blue  
+Audi A4 ;€ 27,980.-;104,000 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1683;t;;Blue  
+Audi A4 ;€ 29,980.-;36,900 km;01/2019;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1684;t;;Blue  
+Audi A4 ;€ 27,980.-;94,600 km;02/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1685;t;;Blue  
+Audi A4 ;€ 28,980.-;78,000 km;02/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1689;t;;Blue  
+Audi A4 ;€ 28,980.-;70,000 km;03/2019;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1690;t;;Blue  
+Audi A4 ;€ 29,480.-;52,300 km;01/2019;110 kW (150 hp);1;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1693;t;;Blue  
+Volvo S60 ;€ 5,499.-;217,617 km;01/2009;103 kW (140 hp);3;Manual;Gasoline;8.8 l/100 km (comb.);209 g/km (comb.);1694;t;;Blue  
+Audi A4 ;€ 31,480.-;58,500 km;04/2019;140 kW (190 hp);5;Automatic;Diesel;4.5 l/100 km (comb.);116 g/km (comb.);1696;t;;Blue  
+Audi A3 ;€ 24,480.-;44,500 km;01/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);115 g/km (comb.);1698;t;;Blue  
+Audi A3 ;€ 19,480.-;132,300 km;03/2018;110 kW (150 hp);4;Automatic;Diesel;4.4 l/100 km (comb.);115 g/km (comb.);1699;t;;Blue  
+Audi A3 ;€ 22,980.-;49,900 km;03/2020;85 kW (116 hp);5;Manual;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1701;t;;Blue  
+Audi A3 ;€ 21,980.-;64,500 km;02/2019;85 kW (116 hp);3;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1703;t;;Blue  
+Audi A3 ;€ 22,480.-;60,500 km;04/2019;85 kW (116 hp);4;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1704;t;;Blue  
+Audi A3 ;€ 22,980.-;63,900 km;01/2019;85 kW (116 hp);1;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1705;t;;Blue  
+Audi A3 ;€ 22,480.-;59,300 km;01/2019;85 kW (116 hp);2;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1706;t;;Blue  
+Audi A3 ;€ 20,980.-;65,400 km;07/2019;81 kW (110 hp);2;Automatic;Diesel;3.7 l/100 km (comb.);102 g/km (comb.);1707;t;;Blue  
+Audi A3 ;€ 19,480.-;112,900 km;11/2018;85 kW (116 hp);1;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1708;t;;Blue  
+Audi A3 ;€ 17,480.-;88,700 km;06/2018;85 kW (116 hp);5;Manual;Diesel;4 l/100 km (comb.);104 g/km (comb.);1711;t;;Blue  
+Audi A3 ;€ 18,980.-;69,000 km;04/2018;85 kW (116 hp);5;Manual;Diesel;4 l/100 km (comb.);104 g/km (comb.);1712;t;;Blue  
+Audi A3 ;€ 20,480.-;54,200 km;08/2019;85 kW (116 hp);1;Manual;Gasoline;4.4 l/100 km (comb.);103 g/km (comb.);1713;t;;Blue  
+Audi A3 ;€ 22,480.-;62,900 km;03/2019;85 kW (116 hp);1;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1714;t;;Blue  
+Skoda Octavia ;€ 21,980.-;137,400 km;12/2018;135 kW (184 hp);4;Automatic;Diesel;4.9 l/100 km (comb.);118 g/km (comb.);1715;t;;Blue  
+Opel Crossland X ;€ 18,000.-;47,000 km;12/2019;88 kW (120 hp);3;Automatic;Diesel;4 l/100 km (comb.);104 g/km (comb.);1719;t;;Blue  
+Mercedes-Benz A 180 ;€ 17,600.-;168,000 km;03/2013;80 kW (109 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);- (g/km);1721;t;;Blue  
+Skoda Octavia ;€ 19,980.-;134,500 km;06/2019;110 kW (150 hp);2;Automatic;Diesel;4.6 l/100 km (comb.);115 g/km (comb.);1722;t;;Blue  
+Renault Laguna ;€ 4,990.-;92,963 km;06/2010;110 kW (150 hp);5;Manual;Diesel;6.1 l/100 km (comb.);- (g/km);1724;t;;Blue  
+Skoda Octavia ;€ 19,980.-;110,100 km;06/2020;85 kW (116 hp);5;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1726;t;;Blue  
+Skoda Octavia ;€ 16,970.-;155,500 km;08/2019;85 kW (116 hp);3;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1727;t;;Blue  
+Skoda Octavia ;€ 14,980.-;141,100 km;01/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1729;t;;Blue  
+Audi A3 ;€ 22,980.-;43,000 km;05/2019;85 kW (116 hp);5;Manual;Diesel;4.4 l/100 km (comb.);118 g/km (comb.);1700;f;;Blue  
+Skoda Octavia ;€ 15,480.-;138,000 km;11/2018;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1730;t;;Blue  
+Toyota Auris ;€ 14,990.-;149,000 km;02/2018;100 kW (136 hp);3;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1736;t;;Blue  
+Hyundai i30 ;€ 15,950.-;82,073 km;01/2016;137 kW (186 hp);2;Manual;Gasoline;7.3 l/100 km (comb.);- (g/km);1737;t;;Blue  
+Volkswagen Passat Variant ;€ 16,870.-;161,700 km;08/2019;110 kW (150 hp);5;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);1746;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;120,500 km;03/2019;110 kW (150 hp);4;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1747;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;117,000 km;03/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1748;t;;Blue  
+Honda HR-V ;€ 34,990.-;26,000 km;03/2022;79 kW (107 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1749;t;;Blue  
+Volkswagen Passat ;€ 21,980.-;131,500 km;09/2019;110 kW (150 hp);2;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);1750;t;;Blue  
+Volkswagen Passat ;€ 22,980.-;116,500 km;07/2019;110 kW (150 hp);5;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1751;t;;Blue  
+Volkswagen Passat ;€ 20,980.-;149,000 km;01/2019;110 kW (150 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1752;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;106,000 km;07/2019;110 kW (150 hp);3;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1755;t;;Blue  
+Audi Q7 ;€ 34,900.-;165,100 km;04/2016;155 kW (211 hp);2;Automatic;Diesel;5.5 l/100 km (comb.);- (g/km);1760;t;;Blue  
+Volvo XC60 ;€ 64,900.-;29,735 km;11/2021;287 kW (390 hp);4;Automatic;Electric/Gasoline;- (l/100 km);56 g/km (comb.);1761;t;;Blue  
+Citroen Berlingo ;€ 9,985.-;126,000 km;05/2014;68 kW (92 hp);3;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1770;t;;Blue  
+Mercedes-Benz CLS ;€ 18,985.-;194,000 km;04/2014;150 kW (204 hp);5;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1771;t;;Blue  
+Skoda Octavia ;€ 8,485.-;169,800 km;06/2011;125 kW (170 hp);4;Manual;Diesel;- (l/100 km);- (g/km);1772;t;;Blue  
+Renault Scenic ;€ 9,985.-;149,000 km;06/2013;81 kW (110 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);105 g/km (comb.);1773;t;;Blue  
+Mercedes-Benz C 200 ;€ 20,985.-;115,000 km;01/2016;100 kW (136 hp);5;Automatic;Diesel;4.3 l/100 km (comb.);109 g/km (comb.);1774;t;;Blue  
+Mitsubishi Outlander ;€ 19,875.-;132,000 km;02/2015;89 kW (121 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1777;t;;Blue  
+Mitsubishi Outlander ;€ 19,875.-;132,000 km;02/2015;89 kW (121 hp);1;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1778;t;;Blue  
+Porsche Panamera ;€ 46,985.-;122,000 km;05/2014;245 kW (333 hp);3;Automatic;Electric/Gasoline;3.1 l/100 km (comb.);73 g/km (comb.);1779;t;;Blue  
+Porsche Cayenne ;€ 124,585.-;46,500 km;10/2019;404 kW (549 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1780;t;;Blue  
+Renault Grand Scenic ;€ 9,985.-;149,000 km;06/2013;81 kW (110 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);105 g/km (comb.);1782;t;;Blue  
+BMW X5 ;€ 32,875.-;166,000 km;09/2016;180 kW (245 hp);3;Automatic;Electric/Gasoline;3.3 l/100 km (comb.);78 g/km (comb.);1785;t;;Blue  
+Nissan Murano ;€ 8,485.-;169,800 km;02/2008;172 kW (234 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1786;t;;Blue  
+Hyundai TUCSON ;€ 6,485.-;121,000 km;08/2009;103 kW (140 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1787;t;;Blue  
+Opel Meriva ;€ 6,485.-;119,000 km;10/2010;88 kW (120 hp);2;Manual;Gasoline;5.6 l/100 km (comb.);133 g/km (comb.);1788;t;;Blue  
+BMW X3 ;€ 14,985.-;156,000 km;01/2014;135 kW (184 hp);5;Manual;Diesel;5.6 l/100 km (comb.);148 g/km (comb.);1790;t;;Blue  
+Opel Insignia ;€ 5,885.-;196,000 km;09/2011;103 kW (140 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1791;t;;Blue  
+Audi A5 ;€ 12,985.-;139,800 km;06/2010;118 kW (160 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1792;t;;Blue  
+Audi RS4 ;€ 36,985.-;112,900 km;03/2013;331 kW (450 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1795;t;;Blue  
+Mercedes-Benz CLS 250 ;€ 18,985.-;194,000 km;04/2014;150 kW (204 hp);3;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1796;t;;Blue  
+Mercedes-Benz E 200 ;€ 12,985.-;166,000 km;07/2011;135 kW (184 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1797;t;;Blue  
+Mercedes-Benz E 200 ;€ 12,985.-;166,000 km;07/2011;135 kW (184 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1798;t;;Blue  
+Dodge RAM ;€ 29,985.-;145,000 km;07/2012;291 kW (396 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1800;t;;Blue  
+Chevrolet Astro ;€ 12,985.-;172,000 km;09/1997;139 kW (189 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1801;t;;Blue  
+Nissan Murano ;€ 8,485.-;169,800 km;02/2008;172 kW (234 hp);3;Automatic;LPG;- (l/100 km);- (g/km);1802;t;;Blue  
+Audi Q5 ;€ 14,250.-;179,000 km;04/2010;155 kW (211 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1803;t;;Blue  
+Mazda RX-8 ;€ 9,985.-;65,000 km;04/2004;170 kW (231 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1804;t;;Blue  
+Mercedes-Benz V 220 ;€ 4,985.-;443,000 km;03/2001;90 kW (122 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1805;t;;Blue  
+Land Rover Range Rover Sport ;€ 39,875.-;129,500 km;03/2016;225 kW (306 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);1806;t;;Blue  
+Ferrari 458 ;€ 179,458.-;54,300 km;04/2011;416 kW (566 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1807;t;;Blue  
+Subaru Forester ;€ 34,985.-;13,600 km;03/2021;110 kW (150 hp);5;Automatic;Gasoline;6.7 l/100 km (comb.);154 g/km (comb.);1809;t;;Blue  
+Subaru Forester ;€ 34,985.-;13,600 km;03/2021;110 kW (150 hp);2;Automatic;Electric/Gasoline;6.7 l/100 km (comb.);154 g/km (comb.);1810;t;;Blue  
+Land Rover Discovery Sport ;€ 19,985.-;150,000 km;02/2017;110 kW (150 hp);2;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1811;t;;Blue  
+Volvo V70 ;€ 8,985.-;182,000 km;12/2009;107 kW (145 hp);2;Manual;Ethanol;- (l/100 km);- (g/km);1812;t;;Blue  
+Toyota agya;€ 21,500.-;134,000 km;05/2011;103 kW (140 hp);- (Previous Owners);Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1902;t;;Blue  
+Volvo V70 ;€ 4,385.-;346,000 km;10/2006;136 kW (185 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1813;t;;Blue  
+Lamborghini Huracan ;€ 238,580.-;17,400 km;04/2017;426 kW (579 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1814;t;;Blue  
+Lexus LS 460 ;€ 29,985.-;33,800 km;01/2007;280 kW (381 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1815;t;;Blue  
+Hyundai H-1 ;€ 29,970.-;87,600 km;07/2018;125 kW (170 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1816;t;;Blue  
+Land Rover Discovery Sport ;€ 21,485.-;136,000 km;08/2017;110 kW (150 hp);3;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1817;t;;Blue  
+Dodge Journey ;€ 7,985.-;120,000 km;09/2011;103 kW (140 hp);4;Manual;Diesel;- (l/100 km);- (g/km);1821;t;;Blue  
+Audi A6 ;€ 15,985.-;165,000 km;03/2014;120 kW (163 hp);1;Manual;Diesel;4.7 l/100 km (comb.);125 g/km (comb.);1822;t;;Blue  
+Volvo V70 ;€ 8,985.-;182,000 km;12/2009;107 kW (145 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1824;t;;Blue  
+Mercedes-Benz E 280 ;€ 5,000.-;355,300 km;05/2008;140 kW (190 hp);1;Automatic;Diesel;6.9 l/100 km (comb.);183 g/km (comb.);1829;t;;Blue  
+Kia Rio ;€ 10,000.-;125,000 km;10/2017;74 kW (101 hp);4;Manual;Gasoline;4.5 l/100 km (comb.);102 g/km (comb.);1830;t;;Blue  
+Peugeot 207 ;€ 5,000.-;180,000 km;12/2009;70 kW (95 hp);5;Manual;Gasoline;6.1 l/100 km (comb.);145 g/km (comb.);1832;t;;Blue  
+Suzuki SJ Samurai ;€ 3,800.-;124,000 km;04/1999;51 kW (69 hp);3;Manual;Gasoline;8.5 l/100 km (comb.);- (g/km);1833;t;;Blue  
+Mercedes-Benz GLC 220 ;€ 54,000.-;32,000 km;12/2020;143 kW (194 hp);5;Semi-automatic;Diesel;5.5 l/100 km (comb.);- (g/km);1834;t;;Blue  
+Mitsubishi L200 ;€ 17,499.-;218,000 km;03/2011;131 kW (178 hp);5;Automatic;Diesel;9.4 l/100 km (comb.);- (g/km);1835;t;;Blue  
+Peugeot 206 ;€ 3,890.-;84,000 km;08/2009;55 kW (75 hp);5;Manual;Gasoline;6.3 l/100 km (comb.);150 g/km (comb.);1837;t;;Blue  
+Mercedes-Benz C 200 ;€ 4,790.-;213,000 km;06/2004;120 kW (163 hp);3;Automatic;Gasoline;8.9 l/100 km (comb.);214 g/km (comb.);1840;t;;Blue  
+BMW X1 ;€ 23,000.-;164,000 km;07/2018;110 kW (150 hp);5;Automatic;Diesel;4.6 l/100 km (comb.);121 g/km (comb.);1846;t;;Blue  
+Fiat Panda ;€ 6,900.-;135,000 km;06/2006;44 kW (60 hp);4;Manual;Gasoline;6.6 l/100 km (comb.);155 g/km (comb.);1847;t;;Blue  
+Bentley Arnage ;€ 22,500.-;173,000 km;02/2000;- kW (- hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1848;t;;Blue  
+Land Rover Range Rover Velar ;€ 104,900.-;77,675 km;10/2019;405 kW (551 hp);2;Automatic;Gasoline;11.8 l/100 km (comb.);0 g/km (comb.);1849;t;;Blue  
+Peugeot 807 ;€ 5,300.-;226,369 km;02/2011;100 kW (136 hp);2;Manual;Diesel;6.1 l/100 km (comb.);- (g/km);1850;t;;Blue  
+Mercedes-Benz B 180 ;€ 32,000.-;33,500 km;06/2020;85 kW (116 hp);1;Automatic;Diesel;3 l/100 km (comb.);101 g/km (comb.);1851;t;;Blue  
+Lotus Elise ;€ 60,000.-;42,000 km;07/2008;163 kW (222 hp);4;Manual;Gasoline;8.5 l/100 km (comb.);- (g/km);1852;t;;Blue  
+Audi Allroad ;€ 24,990.-;194,900 km;11/2016;236 kW (321 hp);5;Automatic;- (Fuel type);- (l/100 km);- (g/km);1853;t;;Blue  
+Subaru Impreza ;€ 12,000.-;168,000 km;09/2003;195 kW (265 hp);5;Manual;Gasoline;11.1 l/100 km (comb.);- (g/km);1856;t;;Blue  
+Citroen Méhari ;€ 13,000.-;66,000 km;12/1984;24 kW (33 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1857;t;;Blue  
+Subaru Impreza ;€ 12,000.-;168,000 km;09/2003;195 kW (265 hp);5;Manual;Gasoline;11.1 l/100 km (comb.);- (g/km);1858;t;;Blue  
+Citroen Méhari ;€ 13,000.-;66,000 km;12/1984;24 kW (33 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1859;t;;Blue  
+Porsche 996 ;€ 32,000.-;250,000 km;11/1999;300 kW (408 hp);5;Manual;Gasoline;13.1 l/100 km (comb.);- (g/km);1864;t;;Blue  
+SEAT Leon ;€ 17,300.-;53,800 km;07/2017;92 kW (125 hp);4;Manual;Gasoline;5.2 l/100 km (comb.);- (g/km);1865;t;;Blue  
+Volkswagen Polo ;€ 15,500.-;22,000 km;04/2021;66 kW (90 hp);3;Manual;CNG;- (l/100 km);- (g/km);1867;t;;Blue  
+Fiat Ducato ;€ 5,000.-;295,000 km;09/2011;74 kW (101 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1869;t;;Blue  
+Audi Q5 ;€ 12,500.-;210,000 km;10/2010;125 kW (170 hp);5;Semi-automatic;Diesel;7 l/100 km (comb.);184 g/km (comb.);1873;t;;Blue  
+Audi A1 ;€ 25,490.-;14,500 km;11/2020;81 kW (110 hp);1;Automatic;Gasoline;5.8 l/100 km (comb.);132 g/km (comb.);1875;t;;Blue  
+Audi A1 ;€ 25,490.-;14,500 km;11/2020;81 kW (110 hp);4;Automatic;Gasoline;5.8 l/100 km (comb.);132 g/km (comb.);1876;t;;Blue  
+Abarth 595 Pista ;€ 19,790.-;43,890 km;06/2018;118 kW (160 hp);2;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);1877;t;;Blue  
+MINI Cooper S ;€ 22,900.-;123,791 km;08/2016;170 kW (231 hp);1;Automatic;Gasoline;5.4 l/100 km (comb.);126 g/km (comb.);1880;t;;Blue  
+Mercedes-Benz Sprinter ;€ 9,000.-;377,824 km;06/2008;80 kW (109 hp);4;Manual;Diesel;10 l/100 km (comb.);266 g/km (comb.);1881;t;;Blue  
+Volkswagen Passat Variant ;€ 1,790.-;292,000 km;10/2003;96 kW (131 hp);1;Manual;Diesel;- (l/100 km);- (g/km);1882;t;;Blue  
+Volkswagen Golf ;€ 10,500.-;159,000 km;09/2013;77 kW (105 hp);4;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1885;t;;Blue  
+Mercedes-Benz V 250 ;€ 39,800.-;135,000 km;09/2014;140 kW (190 hp);3;Automatic;Diesel;6 l/100 km (comb.);- (g/km);1886;t;;Blue  
+Jeep Compass ;€ 19,000.-;92,000 km;07/2018;88 kW (120 hp);4;Manual;Diesel;4.4 l/100 km (comb.);- (g/km);1887;t;;Blue  
+Mercedes-Benz Vito ;€ 26,500.-;80,000 km;12/2018;84 kW (114 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1890;t;;Blue  
+Renault Twingo ;€ 7,500.-;57,921 km;10/2016;52 kW (71 hp);3;Manual;Gasoline;4.7 l/100 km (comb.);105 g/km (comb.);1891;t;;Blue  
+Fiat Panda ;€ 6,500.-;93,864 km;07/2005;44 kW (60 hp);5;Manual;Gasoline;6.6 l/100 km (comb.);155 g/km (comb.);1892;t;;Blue  
+Volvo C70 ;€ 5,950.-;291,100 km;02/1998;175 kW (238 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1894;t;;Blue  
+Alfa Romeo Spider ;€ 15,500.-;36,000 km;06/1990;88 kW (120 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);1897;t;;Blue  
+Tesla Model 3 ;€ 61,500.-;35,876 km;06/2021;377 kW (513 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);571;t;;Blue  
+Mercedes-Benz E 200 ;€ 37,900.-;94,288 km;05/2018;110 kW (150 hp);3;Automatic;Diesel;4.3 l/100 km (comb.);112 g/km (comb.);637;t;;Blue  
+Audi A5 ;€ 34,950.-;87,500 km;03/2019;170 kW (231 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);640;t;;Blue  
+Citroen C3 ;€ 9,500.-;179,999 km;05/2017;73 kW (99 hp);5;Manual;Diesel;3.7 l/100 km (comb.);- (g/km);641;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);2;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);642;t;;Blue  
+Citroen Jumper ;€ 9,999.-;228,766 km;05/2013;81 kW (110 hp);3;Manual;Diesel;7.1 l/100 km (comb.);188 g/km (comb.);643;t;;Blue  
+Land Rover Range Rover ;€ 35,990.-;332,671 km;06/2013;250 kW (340 hp);3;Automatic;Diesel;8.7 l/100 km (comb.);229 g/km (comb.);645;t;;Blue  
+Mercedes-Benz A 220 ;€ 26,890.-;56,000 km;07/2019;140 kW (190 hp);5;Automatic;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);646;t;;Blue  
+Lamborghini Huracan ;€ 238,580.-;17,400 km;04/2017;426 kW (579 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);647;t;;Blue  
+Land Rover Discovery Sport ;€ 16,999.-;149,950 km;10/2015;110 kW (150 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);648;t;;Blue  
+Porsche 991 ;€ 79,950.-;97,535 km;01/2012;257 kW (349 hp);5;Automatic;Gasoline;8.2 l/100 km (comb.);- (g/km);649;t;;Blue  
+BMW 530 ;€ 9,000.-;154,500 km;07/1989;138 kW (188 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);593;t;;Blue  
+Alpine A110 ;€ 67,900.-;6,384 km;01/2022;185 kW (252 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);694;t;;Blue  
+Jaguar E-Pace ;€ 25,200.-;162,200 km;09/2018;132 kW (179 hp);1;Automatic;Diesel;5.2 l/100 km (comb.);138 g/km (comb.);695;t;;Blue  
+Audi Q5 ;€ 21,990.-;177,000 km;02/2017;140 kW (190 hp);5;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);696;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);2;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);749;t;;Blue  
+Volkswagen T5 Multivan ;€ 23,000.-;90,000 km;12/2012;132 kW (179 hp);4;Automatic;Diesel;8.3 l/100 km (comb.);- (g/km);751;t;;Blue  
+Kia Optima ;€ 24,900.-;39,153 km;04/2019;151 kW (205 hp);1;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);754;t;;Blue  
+Citroen Berlingo ;€ 9,990.-;125,000 km;08/2015;73 kW (99 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);755;t;;Blue  
+BMW 740 ;€ 53,390.-;84,756 km;04/2017;240 kW (326 hp);4;Automatic;Electric/Gasoline;2 l/100 km (comb.);- (g/km);758;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 42,680.-;37,367 km;03/2018;270 kW (367 hp);5;Automatic;Gasoline;8 l/100 km (comb.);183 g/km (comb.);761;t;;Blue  
+Audi RS5 ;€ 55,890.-;80,000 km;02/2018;331 kW (450 hp);5;Automatic;Gasoline;8.7 l/100 km (comb.);197 g/km (comb.);762;t;;Blue  
+Abarth 595 Pista ;€ 16,300.-;53,754 km;04/2018;118 kW (160 hp);5;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);763;t;;Blue  
+Mercedes-Benz E 300 ;€ 29,900.-;74,900 km;06/2017;180 kW (245 hp);2;Automatic;Gasoline;6.3 l/100 km (comb.);- (g/km);868;t;;Blue  
+BMW 535 ;€ 20,999.-;169,790 km;07/2012;225 kW (306 hp);3;Automatic;Gasoline;8 l/100 km (comb.);190 g/km (comb.);871;t;;Blue  
+Opel Crossland ;€ 13,500.-;100,920 km;04/2019;75 kW (102 hp);2;Manual;Diesel;4 l/100 km (comb.);- (g/km);872;t;;Blue  
+Audi A7 ;€ 25,990.-;180,000 km;11/2016;160 kW (218 hp);2;Automatic;Diesel;4.7 l/100 km (comb.);- (g/km);873;t;;Blue  
+BMW 530 ;€ 31,499.-;104,305 km;06/2019;185 kW (252 hp);2;Automatic;Electric/Gasoline;- (l/100 km);47 g/km (comb.);875;t;;Blue  
+Audi A1 ;€ 9,990.-;176,500 km;09/2011;77 kW (105 hp);3;Manual;Diesel;- (l/100 km);- (g/km);877;t;;Blue  
+Audi A1 ;€ 9,990.-;176,500 km;09/2011;77 kW (105 hp);4;Manual;Diesel;- (l/100 km);- (g/km);878;t;;Blue  
+Mercedes-Benz CLK 280 ;€ 13,777.-;116,000 km;06/2006;170 kW (231 hp);2;Manual;Gasoline;- (l/100 km);0 g/km (comb.);879;t;;Blue  
+BMW M5 ;€ 71,999.-;49,313 km;07/2018;441 kW (600 hp);1;Automatic;Gasoline;10.5 l/100 km (comb.);241 g/km (comb.);880;t;;Blue  
+Mercedes-Benz E 220 ;€ 10,000.-;300,000 km;03/2013;125 kW (170 hp);2;Automatic;Diesel;4.8 l/100 km (comb.);- (g/km);883;t;;Blue  
+Audi S8 ;€ 49,800.-;106,000 km;12/2015;445 kW (605 hp);2;Automatic;Gasoline;10 l/100 km (comb.);231 g/km (comb.);889;t;;Blue  
+Audi SQ7 ;€ 48,990.-;203,393 km;03/2017;320 kW (435 hp);4;Automatic;Diesel;7.2 l/100 km (comb.);- (g/km);891;t;;Blue  
+Jaguar ;€ 49,995.-;35,995 km;02/2018;221 kW (300 hp);2;Automatic;Gasoline;- (l/100 km);163 g/km (comb.);892;t;;Blue  
+Mercedes-Benz CLS 350 ;€ 13,200.-;140,500 km;06/2007;215 kW (292 hp);1;Automatic;Gasoline;9.1 l/100 km (comb.);- (g/km);895;t;;Blue  
+Citroen C3 Aircross ;€ 13,500.-;101,990 km;01/2019;75 kW (102 hp);3;Manual;Diesel;4 l/100 km (comb.);- (g/km);896;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);4;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);897;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);1;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);898;t;;Blue  
+Mercedes-Benz S 650 ;€ 131,800.-;38,000 km;08/2018;463 kW (630 hp);1;Automatic;Gasoline;12.7 l/100 km (comb.);289 g/km (comb.);899;t;;Blue  
+Porsche 993 ;€ 154,950.-;168,852 km;04/1995;300 kW (408 hp);5;Manual;Gasoline;;301 g/km (comb.);825;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 35,995.-;95,859 km;09/2017;270 kW (367 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);940;t;;Blue  
+BMW M4 ;€ 51,900.-;59,000 km;05/2017;317 kW (431 hp);2;Automatic;Gasoline;8.3 l/100 km (comb.);- (g/km);942;t;;Blue  
+Audi A5 ;€ 30,800.-;121,000 km;04/2017;200 kW (272 hp);5;Automatic;Diesel;5.2 l/100 km (comb.);136 g/km (comb.);943;t;;Blue  
+Mercedes-Benz SLK 350 ;€ 29,880.-;50,000 km;07/2011;225 kW (306 hp);5;Automatic;Gasoline;7.1 l/100 km (comb.);167 g/km (comb.);944;t;;Blue  
+SEAT Ibiza ;€ 3,998.-;197,000 km;09/2013;63 kW (86 hp);2;Manual;Gasoline;5.9 l/100 km (comb.);- (g/km);945;t;;Blue  
+Audi A4 ;€ 1,999.-;197,250 km;06/1998;121 kW (165 hp);2;Manual;Gasoline;9.5 l/100 km (comb.);226 g/km (comb.);946;t;;Blue  
+Dacia Lodgy ;€ 5,990.-;200,000 km;04/2015;79 kW (107 hp);4;Manual;Diesel;4 l/100 km (comb.);105 g/km (comb.);991;t;;Blue  
+Volkswagen Passat Variant ;€ 25,990.-;109,000 km;08/2019;176 kW (239 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);150 g/km (comb.);992;t;;Blue  
+Mercedes-Benz E 350 ;€ 36,800.-;116,000 km;03/2019;210 kW (286 hp);5;Automatic;Diesel;5.2 l/100 km (comb.);138 g/km (comb.);994;t;;Blue  
+Audi A5 ;€ 26,897.-;110,600 km;07/2016;180 kW (245 hp);3;Automatic;Diesel;5.7 l/100 km (comb.);151 g/km (comb.);995;t;;Blue  
+Mercedes-Benz E 200 ;€ 37,900.-;94,288 km;05/2018;110 kW (150 hp);3;Automatic;Diesel;4.3 l/100 km (comb.);112 g/km (comb.);996;t;;Blue  
+Mercedes-Benz GLK 350 ;€ 20,840.-;135,184 km;09/2012;195 kW (265 hp);5;Automatic;Diesel;7 l/100 km (comb.);183 g/km (comb.);998;t;;Blue  
+Citroen C3 ;€ 9,500.-;179,999 km;05/2017;73 kW (99 hp);5;Manual;Diesel;3.7 l/100 km (comb.);- (g/km);1002;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);1;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1003;t;;Blue  
+Citroen Jumper ;€ 9,999.-;228,766 km;05/2013;81 kW (110 hp);5;Manual;Diesel;7.1 l/100 km (comb.);188 g/km (comb.);1004;t;;Blue  
+BMW 216 ;€ 16,490.-;99,000 km;03/2019;85 kW (116 hp);2;Manual;Diesel;- (l/100 km);- (g/km);904;t;;Blue  
+BMW M4 ;€ 124,900.-;6,211 km;12/2022;375 kW (510 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1050;t;;Blue  
+Mazda RX-8 ;€ 9,985.-;65,000 km;04/2004;170 kW (231 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1102;t;;Blue  
+Land Rover Discovery Sport ;€ 19,985.-;150,000 km;02/2017;110 kW (150 hp);1;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1107;t;;Blue  
+Mercedes-Benz G 500 ;€ 82,900.-;110,000 km;01/2006;218 kW (296 hp);4;Automatic;Gasoline;15.5 l/100 km (comb.);- (g/km);1108;t;;Blue  
+Nissan Qashqai ;€ 11,500.-;172,436 km;06/2015;81 kW (110 hp);3;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1109;t;;Blue  
+Volkswagen T5 Multivan ;€ 23,000.-;90,000 km;12/2012;132 kW (179 hp);5;Automatic;Diesel;8.3 l/100 km (comb.);- (g/km);1111;t;;Blue  
+Kia Optima ;€ 24,900.-;39,153 km;04/2019;151 kW (205 hp);3;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);1114;t;;Blue  
+Citroen Berlingo ;€ 9,990.-;125,000 km;08/2015;73 kW (99 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1116;t;;Blue  
+BMW 740 ;€ 53,390.-;84,756 km;04/2017;240 kW (326 hp);1;Automatic;Electric/Gasoline;2 l/100 km (comb.);- (g/km);1118;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 42,680.-;37,367 km;03/2018;270 kW (367 hp);2;Automatic;Gasoline;8 l/100 km (comb.);183 g/km (comb.);1120;t;;Blue  
+Audi A3 ;€ 699.-;360,360 km;07/1997;74 kW (101 hp);1;Manual;Gasoline;- (l/100 km);0 g/km (comb.);989;t;;Blue  
+Peugeot 508 ;€ 12,990.-;118,800 km;06/2017;88 kW (120 hp);5;Automatic;Diesel;4.2 l/100 km (comb.);- (g/km);1196;t;;Blue  
+Jeep Renegade ;€ 15,990.-;86,290 km;11/2018;88 kW (120 hp);2;Manual;Gasoline;5.7 l/100 km (comb.);- (g/km);1197;t;;Blue  
+Opel Astra ;€ 13,990.-;43,025 km;02/2019;77 kW (105 hp);5;Manual;Gasoline;4.3 l/100 km (comb.);- (g/km);1198;t;;Blue  
+SEAT Arona ;€ 17,480.-;73,900 km;09/2020;70 kW (95 hp);4;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1199;t;;Blue  
+BMW 118 ;€ 23,400.-;41,222 km;07/2019;110 kW (150 hp);4;Automatic;Diesel;4.4 l/100 km (comb.);- (g/km);1200;t;;Blue  
+SEAT Arona ;€ 18,980.-;23,400 km;11/2020;70 kW (95 hp);3;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1201;t;;Blue  
+Mercedes-Benz Vito ;€ 35,988.-;43,710 km;06/2020;100 kW (136 hp);1;Manual;Diesel;- (l/100 km);194 g/km (comb.);1202;t;;Blue  
+Citroen C4 ;€ 8,250.-;178,131 km;10/2012;80 kW (109 hp);4;Manual;Diesel;5.4 l/100 km (comb.);- (g/km);1203;t;;Blue  
+SEAT Alhambra ;€ 27,480.-;141,200 km;06/2019;110 kW (150 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);137 g/km (comb.);1204;t;;Blue  
+Citroen C4 ;€ 9,290.-;173,035 km;06/2013;82 kW (111 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1205;t;;Blue  
+SEAT Alhambra ;€ 21,980.-;148,200 km;10/2018;110 kW (150 hp);2;Automatic;Diesel;5.7 l/100 km (comb.);135 g/km (comb.);1206;t;;Blue  
+Mercedes-Benz Vito ;€ 35,988.-;44,205 km;07/2020;100 kW (136 hp);4;Manual;Diesel;- (l/100 km);197 g/km (comb.);1207;t;;Blue  
+SEAT Alhambra ;€ 29,980.-;123,300 km;10/2019;110 kW (150 hp);4;Manual;Diesel;5.6 l/100 km (comb.);162 g/km (comb.);1208;t;;Blue  
+SEAT Alhambra ;€ 22,980.-;158,100 km;07/2019;110 kW (150 hp);3;Manual;Diesel;5 l/100 km (comb.);135 g/km (comb.);1209;t;;Blue  
+SEAT Leon ;€ 13,500.-;80,000 km;10/2017;85 kW (116 hp);3;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1210;t;;Blue  
+Land Rover Range Rover Velar ;€ 41,490.-;105,701 km;04/2019;132 kW (179 hp);2;Automatic;Diesel;5.4 l/100 km (comb.);- (g/km);1211;t;;Blue  
+SEAT Alhambra ;€ 22,480.-;164,100 km;04/2020;110 kW (150 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);137 g/km (comb.);1212;t;;Blue  
+Renault Master ;€ 32,388.-;45,966 km;06/2019;125 kW (170 hp);5;Manual;Diesel;- (l/100 km);187 g/km (comb.);1214;t;;Blue  
+Mercedes-Benz Sprinter ;€ 45,588.-;54,251 km;07/2020;105 kW (143 hp);4;Manual;Diesel;- (l/100 km);206 g/km (comb.);1216;t;;Blue  
+Volkswagen Polo ;€ 14,480.-;37,631 km;12/2018;70 kW (95 hp);1;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1217;t;;Blue  
+Volkswagen Polo ;€ 14,480.-;37,631 km;12/2018;70 kW (95 hp);2;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1218;t;;Blue  
+Volkswagen Polo ;€ 14,480.-;115,700 km;12/2018;70 kW (95 hp);1;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1219;t;;Blue  
+Renault Master ;€ 32,388.-;27,060 km;09/2019;96 kW (131 hp);3;Manual;Diesel;- (l/100 km);204 g/km (comb.);1222;t;;Blue  
+Volkswagen Polo ;€ 17,480.-;78,000 km;04/2019;70 kW (95 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1226;t;;Blue  
+Dacia Duster ;€ 11,990.-;105,446 km;03/2017;81 kW (110 hp);1;Manual;Diesel;- (l/100 km);115 g/km (comb.);1127;t;;Blue  
+Ford Transit ;€ 43,188.-;11,624 km;01/2021;96 kW (131 hp);4;Manual;Diesel;- (l/100 km);224 g/km (comb.);1231;t;;Blue  
+Toyota C-HR ;€ 24,490.-;56,000 km;01/2021;135 kW (184 hp);1;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1232;t;;Blue  
+Mercedes-Benz Marco Polo ;€ 100,436.-;41,781 km;06/2020;140 kW (190 hp);4;Automatic;Diesel;- (l/100 km);235 g/km (comb.);1233;t;;Blue  
+Mercedes-Benz V 250 ;€ 99,990.-;4,374 km;08/2021;140 kW (190 hp);2;Automatic;Diesel;- (l/100 km);218 g/km (comb.);1235;t;;Blue  
+Citroen C3 ;€ 15,900.-;74,743 km;03/2019;81 kW (110 hp);5;Automatic;Gasoline;4.9 l/100 km (comb.);- (g/km);1236;t;;Blue  
+Peugeot 308 ;€ 37,300.-;15,097 km;12/2021;165 kW (224 hp);2;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1238;t;;Blue  
+Opel Corsa ;€ 16,200.-;36,540 km;12/2018;66 kW (90 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1239;t;;Blue  
+Volkswagen Golf ;€ 18,980.-;123,500 km;01/2019;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1240;t;;Blue  
+Peugeot 308 ;€ 29,900.-;5,870 km;12/2021;96 kW (131 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1241;t;;Blue  
+Peugeot 308 ;€ 24,900.-;40,808 km;07/2021;96 kW (131 hp);2;Automatic;Diesel;3.5 l/100 km (comb.);- (g/km);1242;t;;Blue  
+Peugeot 208 ;€ 20,900.-;16,205 km;02/2020;75 kW (102 hp);2;Automatic;Gasoline;4.3 l/100 km (comb.);- (g/km);1243;t;;Blue  
+Peugeot 508 ;€ 57,800.-;13,156 km;02/2022;265 kW (360 hp);4;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1244;t;;Blue  
+Peugeot 308 ;€ 31,900.-;6,587 km;02/2022;96 kW (131 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1245;t;;Blue  
+Peugeot 308 ;€ 29,900.-;5,032 km;12/2021;96 kW (131 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1246;t;;Blue  
+Peugeot 508 ;€ 52,900.-;16,000 km;04/2021;265 kW (360 hp);4;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1247;t;;Blue  
+BMW X1 ;€ 27,990.-;25,000 km;05/2018;110 kW (150 hp);4;Manual;Diesel;4.6 l/100 km (comb.);- (g/km);1248;t;;Blue  
+Mercedes-Benz V 250 ;€ 57,388.-;84,960 km;06/2018;140 kW (190 hp);5;Automatic;Diesel;- (l/100 km);158 g/km (comb.);1249;t;;Blue  
+Fiat Punto Evo ;€ 4,800.-;132,023 km;03/2009;55 kW (75 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1250;t;;Blue  
+Toyota Avensis ;€ 16,500.-;74,787 km;06/2017;105 kW (143 hp);5;Manual;Diesel;4.5 l/100 km (comb.);- (g/km);1251;t;;Blue  
+Citroen C4 Cactus ;€ 10,900.-;104,535 km;04/2016;73 kW (99 hp);4;Automatic;Diesel;3.4 l/100 km (comb.);- (g/km);1252;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;44,416 km;09/2019;120 kW (163 hp);1;Manual;Diesel;- (l/100 km);210 g/km (comb.);1254;t;;Blue  
+BMW ;€ 22,630.-;100,463 km;08/2016;135 kW (184 hp);1;Automatic;Others;- (l/100 km);45 g/km (comb.);1256;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;38,063 km;09/2019;120 kW (163 hp);2;Manual;Diesel;- (l/100 km);210 g/km (comb.);1257;t;;Blue  
+Mercedes-Benz B 200 ;€ 13,680.-;162,977 km;09/2015;100 kW (136 hp);2;Manual;Diesel;- (l/100 km);112 g/km (comb.);1258;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;47,042 km;09/2019;120 kW (163 hp);5;Manual;Diesel;- (l/100 km);210 g/km (comb.);1260;t;;Blue  
+Opel Astra ;€ 1,750.-;120 km;10/2004;55 kW (75 hp);1;Manual;Diesel;4.8 l/100 km (comb.);130 g/km (comb.);1262;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;34,956 km;09/2019;120 kW (163 hp);5;Manual;Diesel;- (l/100 km);210 g/km (comb.);1263;t;;Blue  
+Mercedes-Benz Sprinter ;€ 39,588.-;47,399 km;09/2019;120 kW (163 hp);3;Manual;Diesel;- (l/100 km);210 g/km (comb.);1265;t;;Blue  
+Volkswagen Golf ;€ 17,480.-;117,500 km;01/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1267;t;;Blue  
+Hyundai TUCSON ;€ 6,485.-;121,000 km;08/2009;103 kW (140 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1407;t;;Blue  
+Alfa Romeo 159 ;€ 4,500.-;294,000 km;07/2011;100 kW (136 hp);2;Manual;Diesel;5.2 l/100 km (comb.);137 g/km (comb.);1268;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;116,500 km;06/2020;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1271;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;100,900 km;07/2020;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1273;t;;Blue  
+Volkswagen Golf ;€ 20,980.-;108,500 km;02/2019;110 kW (150 hp);3;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1274;t;;Blue  
+Volkswagen Golf ;€ 12,980.-;185,700 km;07/2018;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1278;t;;Blue  
+Volkswagen Golf ;€ 15,870.-;160,900 km;05/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1279;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;56,500 km;07/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1280;t;;Blue  
+Volkswagen Golf ;€ 15,980.-;129,000 km;11/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1286;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;46,500 km;09/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1287;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;63,500 km;03/2019;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1291;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;87,000 km;02/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1294;t;;Blue  
+Volkswagen Golf ;€ 15,480.-;148,900 km;07/2018;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1295;t;;Blue  
+Audi A4 ;€ 25,480.-;74,700 km;08/2019;110 kW (150 hp);4;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1300;t;;Blue  
+Audi A4 ;€ 29,980.-;73,900 km;01/2020;100 kW (136 hp);3;Automatic;Diesel;4 l/100 km (comb.);102 g/km (comb.);1301;t;;Blue  
+Audi A4 ;€ 27,980.-;104,000 km;05/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1303;t;;Blue  
+Audi A4 ;€ 29,980.-;36,900 km;01/2019;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1304;t;;Blue  
+Audi A4 ;€ 27,980.-;94,600 km;02/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1305;t;;Blue  
+Audi A3 ;€ 19,480.-;112,900 km;11/2018;85 kW (116 hp);4;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1328;t;;Blue  
+Audi A3 ;€ 17,480.-;88,700 km;06/2018;85 kW (116 hp);3;Manual;Diesel;4 l/100 km (comb.);104 g/km (comb.);1331;t;;Blue  
+Audi A3 ;€ 18,980.-;69,000 km;04/2018;85 kW (116 hp);1;Manual;Diesel;4 l/100 km (comb.);104 g/km (comb.);1332;t;;Blue  
+Audi A3 ;€ 20,480.-;54,200 km;08/2019;85 kW (116 hp);1;Manual;Gasoline;4.4 l/100 km (comb.);103 g/km (comb.);1333;t;;Blue  
+Audi A3 ;€ 22,480.-;62,900 km;03/2019;85 kW (116 hp);2;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1334;t;;Blue  
+Skoda Octavia ;€ 21,980.-;137,400 km;12/2018;135 kW (184 hp);1;Automatic;Diesel;4.9 l/100 km (comb.);118 g/km (comb.);1335;t;;Blue  
+Opel Crossland X ;€ 18,000.-;47,000 km;12/2019;88 kW (120 hp);1;Automatic;Diesel;4 l/100 km (comb.);104 g/km (comb.);1339;t;;Blue  
+Mercedes-Benz A 180 ;€ 17,600.-;168,000 km;03/2013;80 kW (109 hp);4;Automatic;Diesel;4.1 l/100 km (comb.);- (g/km);1341;t;;Blue  
+Skoda Octavia ;€ 19,980.-;134,500 km;06/2019;110 kW (150 hp);1;Automatic;Diesel;4.6 l/100 km (comb.);115 g/km (comb.);1342;t;;Blue  
+Renault Laguna ;€ 4,990.-;92,963 km;06/2010;110 kW (150 hp);4;Manual;Diesel;6.1 l/100 km (comb.);- (g/km);1344;t;;Blue  
+Skoda Octavia ;€ 19,980.-;110,100 km;06/2020;85 kW (116 hp);4;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1346;t;;Blue  
+Skoda Octavia ;€ 16,970.-;155,500 km;08/2019;85 kW (116 hp);4;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1347;t;;Blue  
+Skoda Octavia ;€ 14,980.-;141,100 km;01/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1349;t;;Blue  
+Skoda Octavia ;€ 15,480.-;138,000 km;11/2018;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1350;t;;Blue  
+Toyota Auris ;€ 14,990.-;149,000 km;02/2018;100 kW (136 hp);2;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1356;t;;Blue  
+Hyundai i30 ;€ 15,950.-;82,073 km;01/2016;137 kW (186 hp);3;Manual;Gasoline;7.3 l/100 km (comb.);- (g/km);1357;t;;Blue  
+Volkswagen Passat Variant ;€ 16,870.-;161,700 km;08/2019;110 kW (150 hp);1;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);1366;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;120,500 km;03/2019;110 kW (150 hp);3;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1367;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;117,000 km;03/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1368;t;;Blue  
+Honda HR-V ;€ 34,990.-;26,000 km;03/2022;79 kW (107 hp);2;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1369;t;;Blue  
+Volkswagen Passat ;€ 21,980.-;131,500 km;09/2019;110 kW (150 hp);4;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);1370;t;;Blue  
+Dodge Journey ;€ 7,985.-;120,000 km;09/2011;103 kW (140 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1441;t;;Blue  
+Audi A6 ;€ 15,985.-;165,000 km;03/2014;120 kW (163 hp);5;Manual;Diesel;4.7 l/100 km (comb.);125 g/km (comb.);1442;t;;Blue  
+Volvo V70 ;€ 8,985.-;182,000 km;12/2009;107 kW (145 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1444;t;;Blue  
+Mercedes-Benz E 280 ;€ 5,000.-;355,300 km;05/2008;140 kW (190 hp);4;Automatic;Diesel;6.9 l/100 km (comb.);183 g/km (comb.);1449;t;;Blue  
+Kia Rio ;€ 10,000.-;125,000 km;10/2017;74 kW (101 hp);3;Manual;Gasoline;4.5 l/100 km (comb.);102 g/km (comb.);1450;t;;Blue  
+Peugeot 207 ;€ 5,000.-;180,000 km;12/2009;70 kW (95 hp);5;Manual;Gasoline;6.1 l/100 km (comb.);145 g/km (comb.);1452;t;;Blue  
+Suzuki SJ Samurai ;€ 3,800.-;124,000 km;04/1999;51 kW (69 hp);3;Manual;Gasoline;8.5 l/100 km (comb.);- (g/km);1453;t;;Blue  
+Mercedes-Benz GLC 220 ;€ 54,000.-;32,000 km;12/2020;143 kW (194 hp);5;Semi-automatic;Diesel;5.5 l/100 km (comb.);- (g/km);1454;t;;Blue  
+Mitsubishi L200 ;€ 17,499.-;218,000 km;03/2011;131 kW (178 hp);5;Automatic;Diesel;9.4 l/100 km (comb.);- (g/km);1455;t;;Blue  
+Audi A6 ;€ 4,500.-;315,000 km;06/2007;103 kW (140 hp);1;Manual;Diesel;6.3 l/100 km (comb.);- (g/km);538;t;;Blue  
+Mercedes-Benz A 45 AMG ;€ 67,900.-;17,400 km;05/2020;310 kW (421 hp);1;Automatic;Gasoline;8.4 l/100 km (comb.);- (g/km);539;t;;Blue  
+BMW 428 ;€ 26,965.-;95,000 km;01/2016;180 kW (245 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1401;t;;Blue  
+BMW 745 ;€ 78,900.-;45,555 km;05/2019;290 kW (394 hp);4;Automatic;Electric/Gasoline;- (l/100 km);50 g/km (comb.);594;t;;Blue  
+Porsche 930 ;€ 182,790.-;5,700 km;01/2022;353 kW (480 hp);4;Automatic;Gasoline;10.7 l/100 km;244 g/km (comb.);596;t;;Blue  
+Volkswagen Golf GTE ;€ 37,900.-;23,952 km;11/2020;110 kW (150 hp);5;Automatic;Electric/Gasoline;1.7 l/100 km (comb.);38 g/km (comb.);601;t;;Blue  
+Mercedes-Benz GL 320 ;€ 8,790.-;289,842 km;09/2006;165 kW (224 hp);1;Automatic;Diesel;10 l/100 km (comb.);264 g/km (comb.);602;t;;Blue  
+Mercedes-Benz AMG GT ;€ 137,480.-;25,777 km;04/2019;410 kW (557 hp);4;Automatic;Gasoline;12.5 l/100 km (comb.);284 g/km (comb.);603;t;;Blue  
+BMW 420 ;€ 29,490.-;121,000 km;04/2019;135 kW (184 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);604;t;;Blue  
+Opel Astra ;€ 7,799.-;111,483 km;10/2013;96 kW (131 hp);3;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);606;t;;Blue  
+Mercedes-Benz GLC 43 AMG ;€ 46,780.-;48,000 km;11/2018;270 kW (367 hp);4;Automatic;Gasoline;8.3 l/100 km (comb.);196 g/km (comb.);607;t;;Blue  
+Mercedes-Benz CLA 35 AMG ;€ 49,900.-;47,500 km;06/2020;225 kW (306 hp);1;Automatic;Gasoline;;171 g/km (comb.);609;t;;Blue  
+BMW 330 ;€ 5,990.-;280,900 km;07/2001;170 kW (231 hp);5;Automatic;Gasoline;9.6 l/100 km (comb.);230 g/km (comb.);610;t;;Blue  
+BMW X5 ;€ 79,490.-;44,000 km;12/2020;210 kW (286 hp);3;Automatic;Electric/Gasoline;1.7 l/100 km;30 g/km (comb.);611;t;;Blue  
+Volkswagen Golf Variant ;€ 6,480.-;280,901 km;10/2013;110 kW (150 hp);2;Manual;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);612;t;;Blue  
+Mercedes-Benz EQC 400 ;€ 68,800.-;24,400 km;01/2021;300 kW (408 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);613;t;;Blue  
+Citroen C5 Aircross ;€ 23,999.-;42,200 km;03/2019;96 kW (131 hp);5;Automatic;Diesel;5.9 l/100 km;105 g/km (comb.);616;t;;Blue  
+Porsche Panamera ;€ 84,950.-;99,999 km;07/2019;340 kW (462 hp);1;Automatic;Electric/Gasoline;2.6 l/100 km (comb.);56 g/km (comb.);619;t;;Blue  
+Audi A3 ;€ 15,699.-;132,037 km;10/2014;135 kW (184 hp);5;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);620;t;;Blue  
+Mercedes-Benz V 250 ;€ 56,870.-;124,520 km;08/2017;140 kW (190 hp);1;Automatic;Diesel;6.7 l/100 km (comb.);177 g/km (comb.);621;t;;Blue  
+Ford Mustang ;€ 49,999.-;12,500 km;04/2020;338 kW (460 hp);5;Manual;Gasoline;- (l/100 km);0 g/km (comb.);624;t;;Blue  
+Porsche Cayman ;€ 93,490.-;3,600 km;10/2021;294 kW (400 hp);2;Automatic;Gasoline;10.1 l/100 km;230 g/km (comb.);625;t;;Blue  
+Opel Astra ;€ 9,499.-;150,000 km;04/2018;81 kW (110 hp);1;Manual;Diesel;3.5 l/100 km (comb.);92 g/km (comb.);626;t;;Blue  
+Audi A6 ;€ 49,900.-;61,500 km;07/2019;210 kW (286 hp);3;Automatic;Diesel;5.6 l/100 km (comb.);151 g/km (comb.);627;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 77,630.-;14,900 km;05/2020;375 kW (510 hp);2;Automatic;Gasoline;10 l/100 km (comb.);229 g/km (comb.);628;t;;Blue  
+Audi A3 ;€ 699.-;360,360 km;07/1997;74 kW (101 hp);3;Manual;Gasoline;- (l/100 km);0 g/km (comb.);629;t;;Blue  
+Volkswagen T6 Caravelle ;€ 36,990.-;55,050 km;11/2016;110 kW (150 hp);1;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);709;t;;Blue  
+Volkswagen Tiguan ;€ 18,990.-;106,925 km;08/2017;110 kW (150 hp);4;Manual;Gasoline;5.7 l/100 km (comb.);130 g/km (comb.);710;t;;Blue  
+Volkswagen Golf ;€ 57,990.-;14,355 km;10/2021;235 kW (320 hp);3;Automatic;Gasoline;7 l/100 km (comb.);161 g/km (comb.);712;t;;Blue  
+Audi SQ8 ;€ 114,970.-;36,450 km;02/2021;373 kW (507 hp);5;Automatic;Gasoline;12.9 l/100 km;293 g/km (comb.);717;t;;Blue  
+Volkswagen Polo ;€ 4,780.-;226,500 km;04/2010;55 kW (75 hp);1;Manual;Diesel;3.4 l/100 km (comb.);89 g/km (comb.);718;t;;Blue  
+Audi A5 ;€ 17,990.-;36,700 km;07/2011;125 kW (170 hp);5;Manual;Diesel;5.3 l/100 km (comb.);134 g/km (comb.);721;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 105,990.-;80,000 km;04/2018;430 kW (585 hp);4;Automatic;Gasoline;10.3 l/100 km (comb.);242 g/km (comb.);722;t;;Blue  
+BMW i8 ;€ 99,900.-;33,000 km;08/2019;268 kW (364 hp);4;Automatic;Electric/Gasoline;2 l/100 km (comb.);49 g/km (comb.);723;t;;Blue  
+Kia e-Niro ;€ 36,950.-;45,663 km;07/2019;150 kW (204 hp);3;Automatic;Electric;- (l/100 km);0 g/km (comb.);724;t;;Blue  
+Mercedes-Benz GLE 53 AMG ;€ 109,850.-;6,209 km;01/2022;320 kW (435 hp);3;Automatic;Gasoline;9.6 l/100 km (comb.);220 g/km (comb.);725;t;;Blue  
+Volvo XC90 ;€ 49,450.-;73,800 km;05/2018;223 kW (303 hp);5;Automatic;Gasoline;;59 g/km (comb.);726;t;;Blue  
+BMW 520 ;€ 6,899.-;185,000 km;11/2007;130 kW (177 hp);5;Manual;Diesel;- (l/100 km);149 g/km (comb.);727;t;;Blue  
+Porsche Panamera ;€ 89,900.-;113,000 km;08/2017;310 kW (421 hp);1;Automatic;Diesel;6.7 l/100 km (comb.);176 g/km (comb.);728;t;;Blue  
+Skoda Superb ;€ 26,900.-;111,189 km;12/2020;115 kW (156 hp);1;Automatic;Electric/Gasoline;1.5 l/100 km (comb.);- (g/km);729;t;;Blue  
+Mercedes-Benz AMG GT ;€ 131,835.-;45,642 km;10/2019;470 kW (639 hp);1;Automatic;Gasoline;11.3 l/100 km (comb.);257 g/km (comb.);731;t;;Blue  
+Hyundai i30 ;€ 24,475.-;42,715 km;10/2019;202 kW (275 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);734;t;;Blue  
+BMW X3 ;€ 59,999.-;2,915 km;01/2021;215 kW (292 hp);5;Automatic;Electric/Gasoline;2.4 l/100 km (comb.);47 g/km (comb.);735;t;;Blue  
+BMW 218 ;€ 15,950.-;130,000 km;06/2019;110 kW (150 hp);4;Manual;Diesel;4.6 l/100 km (comb.);120 g/km (comb.);739;t;;Blue  
+Audi A3 ;€ 8,290.-;206,500 km;08/2011;103 kW (140 hp);4;Manual;Diesel;5.1 l/100 km (comb.);135 g/km (comb.);741;t;;Blue  
+Volkswagen Golf Plus ;€ 11,450.-;66,825 km;08/2009;118 kW (160 hp);2;Automatic;Gasoline;6.3 l/100 km (comb.);147 g/km (comb.);743;t;;Blue  
+Others ;€ 69,990.-;465,000 km;01/1999;213 kW (290 hp);3;Manual;Diesel;- (l/100 km);0 g/km (comb.);744;t;;Blue  
+Audi A6 allroad ;€ 19,985.-;150,000 km;04/2013;150 kW (204 hp);1;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);745;t;;Blue  
+Others ;€ 69,990.-;465,000 km;01/1999;213 kW (290 hp);4;Manual;Diesel;- (l/100 km);0 g/km (comb.);747;t;;Blue  
+Audi SQ8 ;€ 95,749.-;76,450 km;11/2019;320 kW (435 hp);3;Automatic;Diesel;7.8 l/100 km (comb.);204 g/km (comb.);750;t;;Blue  
+BMW 330 ;€ 28,380.-;50,000 km;05/2018;185 kW (252 hp);4;Automatic;Electric/Gasoline;2.1 l/100 km (comb.);49 g/km (comb.);752;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 55,990.-;96,000 km;02/2019;320 kW (435 hp);4;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);753;t;;Blue  
+BMW 440 ;€ 29,800.-;77,900 km;08/2016;240 kW (326 hp);4;Automatic;Gasoline;6.6 l/100 km (comb.);154 g/km (comb.);756;t;;Blue  
+Kia Carens ;€ 5,950.-;224,388 km;04/2014;99 kW (135 hp);3;Automatic;Gasoline;6.8 l/100 km (comb.);161 g/km (comb.);757;t;;Blue  
+Mercedes-Benz A 250 ;€ 28,885.-;30,901 km;08/2020;118 kW (160 hp);4;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);764;t;;Blue  
+BMW 216 ;€ 17,950.-;59,000 km;06/2018;85 kW (116 hp);3;Manual;Diesel;4 l/100 km (comb.);106 g/km (comb.);765;t;;Blue  
+Dacia Duster ;€ 11,990.-;105,446 km;03/2017;81 kW (110 hp);1;Manual;Diesel;- (l/100 km);115 g/km (comb.);767;t;;Blue  
+Mercedes-Benz A 250 ;€ 29,985.-;21,973 km;12/2020;118 kW (160 hp);1;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);770;t;;Blue  
+Volkswagen Golf ;€ 13,980.-;77,000 km;11/1989;128 kW (174 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);771;t;;Blue  
+Volkswagen Golf ;€ 13,950.-;183,000 km;09/2017;135 kW (184 hp);4;Manual;Diesel;4.7 l/100 km (comb.);123 g/km (comb.);773;t;;Blue  
+Jaguar F-Pace ;€ 33,855.-;165,000 km;05/2019;221 kW (300 hp);4;Automatic;Diesel;6.5 l/100 km (comb.);171 g/km (comb.);774;t;;Blue  
+Audi RS6 ;€ 104,700.-;124,600 km;06/2020;441 kW (600 hp);1;Automatic;Gasoline;11.7 l/100 km (comb.);268 g/km (comb.);775;t;;Blue  
+BMW X1 ;€ 18,490.-;99,000 km;04/2018;85 kW (116 hp);3;Manual;Diesel;- (l/100 km);- (g/km);776;t;;Blue  
+Ford Focus ;€ 19,985.-;34,700 km;09/2019;134 kW (182 hp);4;Manual;Gasoline;5.5 l/100 km (comb.);146 g/km (comb.);777;t;;Blue  
+BMW 123 ;€ 5,490.-;260,444 km;07/2008;150 kW (204 hp);2;Manual;Diesel;5.9 l/100 km (comb.);157 g/km (comb.);780;t;;Blue  
+Renault Laguna ;€ 7,490.-;104,000 km;05/2012;127 kW (173 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);151 g/km (comb.);787;t;;Blue  
+Porsche Cayman ;€ 52,500.-;16,400 km;02/2013;202 kW (275 hp);3;Automatic;Gasoline;;180 g/km (comb.);788;t;;Blue  
+Nissan 370Z ;€ 33,990.-;9,262 km;09/2016;241 kW (328 hp);1;Automatic;Gasoline;10.5 l/100 km (comb.);245 g/km (comb.);789;t;;Blue  
+BMW M8 ;€ 134,900.-;14,995 km;04/2020;460 kW (625 hp);1;Automatic;Gasoline;10.6 l/100 km (comb.);242 g/km (comb.);791;t;;Blue  
+Mercedes-Benz E 63 AMG ;€ 59,990.-;68,254 km;12/2014;430 kW (585 hp);5;Automatic;Gasoline;- (l/100 km);246 g/km (comb.);792;t;;Blue  
+Audi RS7 ;€ 65,950.-;91,968 km;04/2017;445 kW (605 hp);1;Automatic;Gasoline;9.5 l/100 km (comb.);221 g/km (comb.);794;t;;Blue  
+Nissan 370Z ;€ 33,880.-;50,000 km;10/2019;241 kW (328 hp);1;Automatic;Gasoline;11.3 l/100 km (comb.);259 g/km (comb.);796;t;;Blue  
+BMW M6 ;€ 59,900.-;78,500 km;11/2009;373 kW (507 hp);1;Automatic;Gasoline;14.8 l/100 km (comb.);351 g/km (comb.);799;t;;Blue  
+Audi RS5 ;€ 30,950.-;73,038 km;05/2011;331 kW (450 hp);1;Automatic;Gasoline;10.8 l/100 km (comb.);252 g/km (comb.);800;t;;Blue  
+Mercedes-Benz AMG GT ;€ 104,890.-;25,027 km;04/2017;375 kW (510 hp);4;Automatic;Gasoline;9.4 l/100 km (comb.);219 g/km (comb.);804;t;;Blue  
+Audi S8 ;€ 58,900.-;85,000 km;04/2016;445 kW (605 hp);2;Automatic;Gasoline;10 l/100 km (comb.);- (g/km);805;t;;Blue  
+Audi Q7 ;€ 42,999.-;160,000 km;08/2017;190 kW (258 hp);4;Automatic;Electric/Diesel;1.9 l/100 km (comb.);50 g/km (comb.);813;t;;Blue  
+Volkswagen Golf ;€ 33,900.-;66,900 km;05/2017;228 kW (310 hp);2;Automatic;Gasoline;7 l/100 km (comb.);160 g/km (comb.);818;t;;Blue  
+Mercedes-Benz E 200 ;€ 8,950.-;449,719 km;10/2015;100 kW (136 hp);5;Automatic;Diesel;4.9 l/100 km (comb.);130 g/km (comb.);821;t;;Blue  
+Mercedes-Benz S 300 ;€ 39,990.-;181,850 km;10/2014;150 kW (204 hp);2;Automatic;Electric/Diesel;4.4 l/100 km (comb.);115 g/km (comb.);823;t;;Blue  
+Porsche Panamera ;€ 42,350.-;165,000 km;02/2014;245 kW (333 hp);2;Automatic;Electric/Gasoline;3.1 l/100 km (comb.);71 g/km (comb.);826;t;;Blue  
+Audi RS6 ;€ 112,800.-;69,998 km;01/2021;441 kW (600 hp);4;Automatic;Gasoline;11.5 l/100 km (comb.);263 g/km (comb.);833;t;;Blue  
+Mercedes-Benz AMG GT ;€ 135,480.-;45,045 km;11/2019;470 kW (639 hp);2;Automatic;Gasoline;11.3 l/100 km (comb.);257 g/km (comb.);834;t;;Blue  
+Mercedes-Benz SLK 350 ;€ 36,990.-;20,052 km;04/2013;225 kW (306 hp);5;Automatic;Gasoline;- (l/100 km);167 g/km (comb.);835;t;;Blue  
+Mercedes-Benz E 220 ;€ 34,900.-;100,583 km;08/2017;143 kW (194 hp);2;Automatic;Diesel;4.8 l/100 km (comb.);129 g/km (comb.);836;t;;Blue  
+Mercedes-Benz SL 63 AMG ;€ 95,990.-;96,000 km;09/2016;430 kW (585 hp);3;Automatic;Gasoline;9.8 l/100 km (comb.);229 g/km (comb.);840;t;;Blue  
+Mazda CX-7 ;€ 7,900.-;211,400 km;08/2011;120 kW (163 hp);3;Manual;Diesel;7.5 l/100 km (comb.);199 g/km (comb.);845;t;;Blue  
+Mazda 3 ;€ 15,490.-;98,500 km;08/2016;121 kW (165 hp);4;Manual;Gasoline;5.8 l/100 km (comb.);135 g/km (comb.);847;t;;Blue  
+Porsche Panamera ;€ 61,995.-;102,120 km;10/2017;243 kW (330 hp);5;Automatic;Gasoline;7.5 l/100 km (comb.);177 g/km (comb.);850;t;;Blue  
+Audi A7 ;€ 34,900.-;154,268 km;06/2015;240 kW (326 hp);4;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);852;t;;Blue  
+Mazda CX-5 ;€ 11,790.-;160,000 km;03/2014;129 kW (175 hp);1;Manual;Diesel;- (l/100 km);- (g/km);857;t;;Blue  
+Volkswagen CC ;€ 12,890.-;153,831 km;03/2012;100 kW (136 hp);5;Manual;Diesel;4.8 l/100 km;125 g/km (comb.);858;t;;Blue  
+Cupra Leon ;€ 39,850.-;21,550 km;06/2021;110 kW (150 hp);4;Automatic;Electric/Gasoline;1.7 l/100 km (comb.);40 g/km (comb.);861;t;;Blue  
+Audi RS6 ;€ 159,998.-;2,500 km;08/2020;596 kW (810 hp);4;Automatic;Gasoline;12.4 l/100 km;281 g/km (comb.);866;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 109,880.-;64,154 km;08/2020;450 kW (612 hp);5;Automatic;Gasoline;11.2 l/100 km (comb.);255 g/km (comb.);867;t;;Blue  
+Mazda CX-5 ;€ 13,450.-;164,000 km;06/2012;110 kW (150 hp);1;Manual;Diesel;5.2 l/100 km (comb.);136 g/km (comb.);869;t;;Blue  
+Land Rover Range Rover ;€ 42,990.-;181,723 km;06/2016;250 kW (340 hp);1;Automatic;Diesel;8.4 l/100 km;219 g/km (comb.);870;t;;Blue  
+Porsche ;€ 217,900.-;11,395 km;06/2021;375 kW (510 hp);1;Manual;Gasoline;13.3 l/100 km (comb.);304 g/km (comb.);874;t;;Blue  
+BMW M2 ;€ 61,900.-;10,000 km;01/2019;302 kW (411 hp);5;Automatic;Gasoline;9.8 l/100 km;;876;t;;Blue  
+Jaguar F-Type ;€ 58,890.-;78,000 km;03/2015;405 kW (551 hp);4;Automatic;Gasoline;11.3 l/100 km (comb.);269 g/km (comb.);881;t;;Blue  
+Audi Q7 ;€ 35,990.-;119,113 km;05/2016;160 kW (218 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);148 g/km (comb.);906;t;;Blue  
+Lamborghini Gallardo ;€ 95,999.-;63,000 km;07/2009;382 kW (519 hp);1;Automatic;Gasoline;- (l/100 km);0 g/km (comb.);909;t;;Blue  
+Mercedes-Benz E 350 ;€ 12,950.-;208,380 km;12/2012;195 kW (265 hp);5;Automatic;Diesel;6 l/100 km (comb.);159 g/km (comb.);911;t;;Blue  
+Ford Transit Custom ;€ 14,470.-;138,000 km;06/2015;74 kW (101 hp);3;Manual;Diesel;6.5 l/100 km (comb.);172 g/km (comb.);912;t;;Blue  
+Audi A5 ;€ 29,990.-;96,000 km;12/2017;210 kW (286 hp);1;Automatic;Diesel;5.3 l/100 km (comb.);137 g/km (comb.);914;t;;Blue  
+Mercedes-Benz C 250 ;€ 23,990.-;103,858 km;11/2017;150 kW (204 hp);1;Automatic;Diesel;4.7 l/100 km;124 g/km (comb.);915;t;;Blue  
+Chevrolet Camaro ;€ 69,950.-;10,238 km;08/2019;470 kW (639 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);919;t;;Blue  
+Volkswagen Golf ;€ 19,950.-;120,430 km;05/2016;162 kW (220 hp);3;Automatic;Gasoline;6.3 l/100 km (comb.);145 g/km (comb.);921;t;;Blue  
+Porsche Panamera ;€ 34,900.-;127,000 km;11/2010;220 kW (299 hp);3;Automatic;Gasoline;9.6 l/100 km (comb.);225 g/km (comb.);922;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 26,990.-;204,000 km;07/2009;336 kW (457 hp);1;Automatic;Gasoline;13.6 l/100 km (comb.);326 g/km (comb.);923;t;;Blue  
+Dodge Challenger ;€ 57,899.-;15,992 km;11/2019;362 kW (492 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);927;t;;Blue  
+Audi A5 ;€ 23,490.-;68,760 km;08/2016;140 kW (190 hp);5;Manual;Diesel;5.1 l/100 km (comb.);135 g/km (comb.);928;t;;Blue  
+Mercedes-Benz S 65 AMG ;€ 234,500.-;31,900 km;02/2020;463 kW (630 hp);1;Automatic;Gasoline;11.9 l/100 km (comb.);279 g/km (comb.);930;t;;Blue  
+Subaru WRX ;€ 33,980.-;112,852 km;05/2014;221 kW (300 hp);1;Manual;Gasoline;10.4 l/100 km (comb.);246 g/km (comb.);931;t;;Blue  
+BMW 225 ;€ 17,990.-;105,000 km;11/2016;165 kW (224 hp);5;Automatic;Electric/Gasoline;2 l/100 km (comb.);46 g/km (comb.);939;t;;Blue  
+Porsche Cayenne ;€ 52,990.-;116,085 km;06/2017;245 kW (333 hp);5;Automatic;Electric/Gasoline;- (l/100 km);79 g/km (comb.);941;t;;Blue  
+Porsche 992 ;€ 151,890.-;3,500 km;06/2021;331 kW (450 hp);4;Automatic;Gasoline;9.6 l/100 km (comb.);220 g/km (comb.);947;t;;Blue  
+Audi TT ;€ 31,985.-;2,400 km;03/2019;180 kW (245 hp);3;Manual;Gasoline;6.5 l/100 km (comb.);149 g/km (comb.);948;t;;Blue  
+Chevrolet Camaro ;€ 37,855.-;48,542 km;12/2020;250 kW (340 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);572;t;;Blue  
+Porsche Panamera ;€ 86,990.-;69,000 km;01/2017;404 kW (549 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);573;t;;Blue  
+Volkswagen Golf Variant ;€ 11,900.-;179,800 km;09/2016;110 kW (150 hp);4;Manual;Diesel;4.2 l/100 km (comb.);110 g/km (comb.);574;t;;Blue  
+Volkswagen T5 Caravelle ;€ 21,980.-;230,000 km;09/2011;103 kW (140 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);575;t;;Blue  
+Land Rover Range Rover ;€ 6,400.-;182,700 km;02/1999;165 kW (224 hp);2;Automatic;Gasoline;14.1 l/100 km (comb.);- (g/km);576;t;;Blue  
+Volkswagen T5 Caravelle ;€ 21,980.-;230,000 km;09/2011;103 kW (140 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);578;t;;Blue  
+Toyota C-HR ;€ 17,390.-;76,091 km;08/2018;90 kW (122 hp);3;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);579;t;;Blue  
+Volkswagen CC ;€ 11,990.-;154,400 km;06/2014;103 kW (140 hp);3;Manual;Diesel;4.6 l/100 km (comb.);120 g/km (comb.);580;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 35,995.-;95,859 km;09/2017;270 kW (367 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);582;t;;Blue  
+Mercedes-Benz SLK 350 ;€ 29,880.-;50,000 km;07/2011;225 kW (306 hp);2;Automatic;Gasoline;7.1 l/100 km (comb.);167 g/km (comb.);583;t;;Blue  
+BMW M4 ;€ 51,900.-;59,000 km;05/2017;317 kW (431 hp);3;Automatic;Gasoline;8.3 l/100 km (comb.);- (g/km);584;t;;Blue  
+Audi A5 ;€ 30,800.-;121,000 km;04/2017;200 kW (272 hp);2;Automatic;Diesel;5.2 l/100 km (comb.);136 g/km (comb.);586;t;;Blue  
+SEAT Ibiza ;€ 3,998.-;197,000 km;09/2013;63 kW (86 hp);2;Manual;Gasoline;5.9 l/100 km (comb.);- (g/km);587;t;;Blue  
+Audi A4 ;€ 1,999.-;197,250 km;06/1998;121 kW (165 hp);3;Manual;Gasoline;9.5 l/100 km (comb.);226 g/km (comb.);588;t;;Blue  
+Volvo V40 ;€ 11,200.-;104,314 km;04/2015;85 kW (116 hp);3;Manual;Diesel;3.4 l/100 km (comb.);88 g/km (comb.);591;t;;Blue  
+BMW 530 ;€ 9,000.-;154,500 km;07/1989;138 kW (188 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);951;t;;Blue  
+BMW 745 ;€ 78,900.-;45,555 km;05/2019;290 kW (394 hp);4;Automatic;Electric/Gasoline;- (l/100 km);50 g/km (comb.);953;t;;Blue  
+Porsche 930 ;€ 182,790.-;5,700 km;01/2022;353 kW (480 hp);1;Automatic;Gasoline;10.7 l/100 km;244 g/km (comb.);957;t;;Blue  
+Volkswagen Golf GTE ;€ 37,900.-;23,952 km;11/2020;110 kW (150 hp);5;Automatic;Electric/Gasoline;1.7 l/100 km (comb.);38 g/km (comb.);963;t;;Blue  
+Mercedes-Benz GL 320 ;€ 8,790.-;289,842 km;09/2006;165 kW (224 hp);5;Automatic;Diesel;10 l/100 km (comb.);264 g/km (comb.);964;t;;Blue  
+Mercedes-Benz AMG GT ;€ 137,480.-;25,777 km;04/2019;410 kW (557 hp);4;Automatic;Gasoline;12.5 l/100 km (comb.);284 g/km (comb.);965;t;;Blue  
+BMW X1 ;€ 19,999.-;134,561 km;04/2017;140 kW (190 hp);1;Automatic;Diesel;4.9 l/100 km (comb.);129 g/km (comb.);1053;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 64,970.-;53,096 km;08/2018;320 kW (435 hp);4;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);1057;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 64,970.-;53,096 km;08/2018;320 kW (435 hp);2;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);1059;t;;Blue  
+Cupra Leon ;€ 18,452.-;116,246 km;11/2016;213 kW (290 hp);1;Automatic;Gasoline;6.8 l/100 km (comb.);158 g/km (comb.);1060;t;;Blue  
+Mercedes-Benz A 250 ;€ 35,755.-;49,446 km;12/2020;118 kW (160 hp);1;Automatic;Electric/Gasoline;14.8 kWh/100 km (comb.);- (g/km);1063;t;;Blue  
+Mercedes-Benz E 350 ;€ 47,950.-;34,078 km;09/2019;220 kW (299 hp);5;Automatic;Gasoline;8.3 l/100 km;189 g/km (comb.);1064;t;;Blue  
+Tesla Model 3 ;€ 36,950.-;31,600 km;12/2020;225 kW (306 hp);5;Automatic;Electric;- (l/100 km);0 g/km (comb.);1066;t;;Blue  
+Volkswagen T6 Caravelle ;€ 36,990.-;55,050 km;11/2016;110 kW (150 hp);1;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1067;t;;Blue  
+Mercedes-Benz SLC 200 ;€ 34,995.-;1,945 km;06/2020;135 kW (184 hp);3;Manual;Gasoline;6.1 l/100 km (comb.);142 g/km (comb.);1068;t;;Blue  
+Volkswagen Tiguan ;€ 18,990.-;106,925 km;08/2017;110 kW (150 hp);4;Manual;Gasoline;5.7 l/100 km (comb.);130 g/km (comb.);1069;t;;Blue  
+Volkswagen Golf ;€ 57,990.-;14,355 km;10/2021;235 kW (320 hp);4;Automatic;Gasoline;7 l/100 km (comb.);161 g/km (comb.);1071;t;;Blue  
+Volkswagen Golf ;€ 13,950.-;183,000 km;09/2017;135 kW (184 hp);5;Manual;Diesel;4.7 l/100 km (comb.);123 g/km (comb.);1133;t;;Blue  
+Audi A5 ;€ 36,490.-;84,000 km;11/2017;210 kW (286 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);148 g/km (comb.);592;t;;Blue  
+Volkswagen Polo ;€ 11,111.-;135,300 km;03/2011;132 kW (179 hp);5;Automatic;Gasoline;5.9 l/100 km (comb.);139 g/km (comb.);595;t;;Blue  
+BMW 430 ;€ 29,650.-;123,816 km;05/2017;185 kW (252 hp);4;Automatic;Gasoline;5.9 l/100 km (comb.);144 g/km (comb.);597;t;;Blue  
+Alpine A110 ;€ 64,950.-;1,739 km;08/2021;185 kW (252 hp);1;Automatic;Gasoline;6.6 l/100 km (comb.);149 g/km (comb.);598;t;;Blue  
+Audi A6 ;€ 15,985.-;165,000 km;03/2014;120 kW (163 hp);2;Manual;Diesel;4.7 l/100 km (comb.);125 g/km (comb.);599;t;;Blue  
+Audi Q5 ;€ 14,250.-;179,000 km;04/2010;155 kW (211 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);600;t;;Blue  
+Volkswagen Polo GTI ;€ 15,999.-;114,103 km;02/2020;147 kW (200 hp);4;Automatic;Gasoline;- (l/100 km);0 g/km (comb.);605;t;;Blue  
+Mercedes-Benz GLC 63 AMG ;€ 72,990.-;72,000 km;01/2019;375 kW (510 hp);1;Automatic;Gasoline;11.7 l/100 km (comb.);- (g/km);608;t;;Blue  
+BMW 530 ;€ 33,750.-;98,262 km;08/2017;135 kW (184 hp);2;Automatic;Electric/Gasoline;1.9 l/100 km (comb.);46 g/km (comb.);614;t;;Blue  
+MINI Cooper SE ;€ 26,900.-;38,990 km;02/2021;135 kW (184 hp);5;Automatic;Electric;- (l/100 km);0 g/km (comb.);615;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 45,770.-;60,000 km;09/2018;287 kW (390 hp);3;Automatic;Gasoline;9.3 l/100 km (comb.);214 g/km (comb.);617;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 45,770.-;60,000 km;09/2018;287 kW (390 hp);5;Automatic;Gasoline;9.3 l/100 km (comb.);214 g/km (comb.);618;t;;Blue  
+Audi Q5 ;€ 23,900.-;111,000 km;03/2014;190 kW (258 hp);4;Automatic;Diesel;5.9 l/100 km (comb.);156 g/km (comb.);622;t;;Blue  
+Volkswagen Touareg ;€ 9,500.-;267,000 km;06/2006;230 kW (313 hp);3;Automatic;Diesel;12.3 l/100 km (comb.);- (g/km);623;t;;Blue  
+MINI Cooper ;€ 15,900.-;64,220 km;01/2019;100 kW (136 hp);4;Manual;Gasoline;4.5 l/100 km (comb.);- (g/km);630;t;;Blue  
+Dacia Lodgy ;€ 5,990.-;200,000 km;04/2015;79 kW (107 hp);5;Manual;Diesel;4 l/100 km (comb.);105 g/km (comb.);631;t;;Blue  
+Volkswagen Passat Variant ;€ 25,990.-;109,000 km;08/2019;176 kW (239 hp);2;Automatic;Diesel;5.7 l/100 km (comb.);150 g/km (comb.);632;t;;Blue  
+Mercedes-Benz E 350 ;€ 36,800.-;116,000 km;03/2019;210 kW (286 hp);4;Automatic;Diesel;5.2 l/100 km (comb.);138 g/km (comb.);634;t;;Blue  
+Audi A5 ;€ 26,897.-;110,600 km;07/2016;180 kW (245 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);151 g/km (comb.);635;t;;Blue  
+Toyota camry;€ 21,500.-;134,000 km;06/2011;103 kW (140 hp);5;Manual;Diesel;6.3 l/100 km (comb);165 g/km (comb);1899;f;;Blue  
+Volkswagen T6 Multivan ;€ 38,540.-;109,430 km;10/2015;150 kW (204 hp);3;Automatic;Diesel;6.6 l/100 km (comb.);172 g/km (comb.);650;t;;Blue  
+BMW M5 ;€ 89,999.-;12,190 km;09/2020;460 kW (625 hp);4;Automatic;Gasoline;- (l/100 km);241 g/km (comb.);655;t;;Blue  
+Porsche Boxster ;€ 16,500.-;179,900 km;10/2001;185 kW (252 hp);5;Manual;Gasoline;8 l/100 km (comb.);- (g/km);659;t;;Blue  
+Land Rover Range Rover Sport ;€ 129,900.-;17,000 km;04/2021;423 kW (575 hp);1;Automatic;Gasoline;12.7 l/100 km (comb.);- (g/km);661;t;;Blue  
+BMW 760 ;€ 155,999.-;58,987 km;06/2019;448 kW (609 hp);5;Automatic;Gasoline;12.8 l/100 km (comb.);294 g/km (comb.);662;t;;Blue  
+Kia Optima ;€ 21,000.-;74,847 km;11/2018;151 kW (205 hp);5;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);663;t;;Blue  
+Lexus CT 200h ;€ 20,550.-;62,363 km;05/2018;- kW (- hp);4;Automatic;Electric/Gasoline;4.1 l/100 km (comb.);93 g/km (comb.);667;t;;Blue  
+Ford Mustang ;€ 66,900.-;19,172 km;05/2021;338 kW (460 hp);5;Automatic;Gasoline;12.4 l/100 km (comb.);- (g/km);669;t;;Blue  
+Kia Optima ;€ 24,900.-;39,153 km;04/2019;151 kW (205 hp);2;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);671;t;;Blue  
+Audi A4 allroad ;€ 14,390.-;83,737 km;06/2011;105 kW (143 hp);4;Manual;Diesel;6.2 l/100 km (comb.);164 g/km (comb.);672;t;;Blue  
+Mercedes-Benz GLS 400 ;€ 112,800.-;50,000 km;05/2021;243 kW (330 hp);3;Automatic;Diesel;7.1 l/100 km (comb.);187 g/km (comb.);676;t;;Blue  
+Mercedes-Benz CLA 220 ;€ 21,880.-;108,000 km;10/2017;130 kW (177 hp);4;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);677;t;;Blue  
+Mercedes-Benz GLS 400 ;€ 112,800.-;50,000 km;05/2021;243 kW (330 hp);5;Automatic;Diesel;7.1 l/100 km (comb.);187 g/km (comb.);678;t;;Blue  
+Audi RS5 ;€ 59,900.-;63,896 km;02/2018;331 kW (450 hp);1;Automatic;Gasoline;8.7 l/100 km (comb.);- (g/km);680;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 45,490.-;61,000 km;04/2018;270 kW (367 hp);5;Automatic;Gasoline;7.8 l/100 km (comb.);178 g/km (comb.);681;t;;Blue  
+Tesla Model 3 ;€ 45,500.-;48,300 km;03/2021;246 kW (334 hp);5;Automatic;Electric;- (l/100 km);0 g/km (comb.);682;t;;Blue  
+BMW Z4 ;€ 29,444.-;24,000 km;11/2013;180 kW (245 hp);4;Manual;Gasoline;- (l/100 km);0 g/km (comb.);686;t;;Blue  
+BMW X3 ;€ 54,900.-;15,901 km;07/2022;140 kW (190 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);687;t;;Blue  
+BMW M4 ;€ 124,900.-;6,211 km;12/2022;375 kW (510 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);688;t;;Blue  
+Mercedes-Benz E 220 ;€ 20,777.-;156,000 km;01/2015;125 kW (170 hp);3;Automatic;Diesel;- (l/100 km);0 g/km (comb.);691;t;;Blue  
+Kia Cerato ;€ 1,990.-;305,000 km;06/2006;75 kW (102 hp);4;Manual;Diesel;4.9 l/100 km (comb.);- (g/km);692;t;;Blue  
+BMW M4 ;€ 124,900.-;6,211 km;12/2022;375 kW (510 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);693;t;;Blue  
+Jaguar E-Pace ;€ 25,200.-;162,200 km;09/2018;132 kW (179 hp);3;Automatic;Diesel;5.2 l/100 km (comb.);138 g/km (comb.);698;t;;Blue  
+Audi Q5 ;€ 21,990.-;177,000 km;02/2017;140 kW (190 hp);3;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);700;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 62,990.-;40,000 km;01/2018;350 kW (476 hp);3;Automatic;Gasoline;8.6 l/100 km (comb.);- (g/km);702;t;;Blue  
+Volvo XC60 ;€ 24,990.-;90,200 km;07/2016;162 kW (220 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);703;t;;Blue  
+Mercedes-Benz E 220 ;€ 27,900.-;194,000 km;07/2019;143 kW (194 hp);3;Automatic;Diesel;4.5 l/100 km (comb.);- (g/km);705;t;;Blue  
+Mercedes-Benz E 350 ;€ 26,950.-;215,000 km;03/2017;190 kW (258 hp);5;Automatic;Diesel;5.1 l/100 km (comb.);133 g/km (comb.);711;t;;Blue  
+Peugeot 3008 ;€ 20,500.-;65,986 km;01/2019;96 kW (131 hp);1;Manual;Diesel;- (l/100 km);- (g/km);713;t;;Blue  
+Nissan Juke ;€ 12,900.-;104,000 km;05/2012;140 kW (190 hp);1;Manual;Gasoline;6.9 l/100 km (comb.);- (g/km);714;t;;Blue  
+Opel Crossland ;€ 13,500.-;100,920 km;04/2019;75 kW (102 hp);5;Manual;Diesel;4 l/100 km (comb.);- (g/km);715;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 30,890.-;125,000 km;10/2011;400 kW (544 hp);5;Automatic;Gasoline;10.5 l/100 km (comb.);244 g/km (comb.);719;t;;Blue  
+Alfa Romeo Stelvio ;€ 29,500.-;59,964 km;01/2019;140 kW (190 hp);3;Automatic;Diesel;5.7 l/100 km (comb.);- (g/km);720;t;;Blue  
+Volkswagen Beetle ;€ 12,950.-;99,922 km;08/2012;103 kW (140 hp);3;Manual;Diesel;- (l/100 km);0 g/km (comb.);730;t;;Blue  
+BMW 750 ;€ 34,499.-;51,678 km;05/2015;330 kW (449 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);732;t;;Blue  
+Chrysler Crossfire ;€ 5,900.-;192,000 km;01/2004;160 kW (218 hp);3;Manual;Gasoline;10.4 l/100 km (comb.);- (g/km);733;t;;Blue  
+Audi S8 ;€ 47,990.-;78,000 km;05/2015;382 kW (519 hp);2;Automatic;Gasoline;9.4 l/100 km (comb.);215 g/km (comb.);736;t;;Blue  
+Peugeot 3008 ;€ 12,490.-;27,500 km;10/2013;110 kW (150 hp);1;Manual;Diesel;5.3 l/100 km (comb.);139 g/km (comb.);737;t;;Blue  
+Peugeot 3008 ;€ 12,490.-;27,500 km;10/2013;110 kW (150 hp);2;Manual;Diesel;5.3 l/100 km (comb.);139 g/km (comb.);738;t;;Blue  
+Porsche Macan ;€ 31,990.-;196,118 km;05/2015;190 kW (258 hp);2;Automatic;Diesel;- (l/100 km);159 g/km (comb.);740;t;;Blue  
+Mazda RX-8 ;€ 9,985.-;65,000 km;04/2004;170 kW (231 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);742;t;;Blue  
+Land Rover Discovery Sport ;€ 19,985.-;150,000 km;02/2017;110 kW (150 hp);5;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);746;t;;Blue  
+Mercedes-Benz G 500 ;€ 82,900.-;110,000 km;01/2006;218 kW (296 hp);5;Automatic;Gasoline;15.5 l/100 km (comb.);- (g/km);748;t;;Blue  
+Nissan NV300 ;€ 21,340.-;99,750 km;11/2016;92 kW (125 hp);1;Manual;Diesel;5.6 l/100 km (comb.);145 g/km (comb.);766;t;;Blue  
+BMW X3 ;€ 14,985.-;156,000 km;01/2014;135 kW (184 hp);1;Manual;Diesel;5.6 l/100 km (comb.);148 g/km (comb.);768;t;;Blue  
+Ford Mustang ;€ 54,990.-;4,500 km;04/2022;331 kW (450 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);769;t;;Blue  
+Ford Mondeo ;€ 9,560.-;169,000 km;01/2018;110 kW (150 hp);1;Manual;Diesel;4.8 l/100 km (comb.);- (g/km);772;t;;Blue  
+Tesla Model S ;€ 81,790.-;29,743 km;06/2020;585 kW (795 hp);5;Automatic;Electric;- (l/100 km);0 g/km (comb.);778;t;;Blue  
+Lamborghini Huracan ;€ 199,610.-;47,000 km;04/2015;449 kW (610 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);779;t;;Blue  
+MINI John Cooper Works Coupe ;€ 14,900.-;150,000 km;08/2015;155 kW (211 hp);2;Manual;Gasoline;7.1 l/100 km (comb.);168 g/km (comb.);781;t;;Blue  
+Tesla Model 3 ;€ 48,990.-;23,500 km;11/2021;324 kW (441 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);782;t;;Blue  
+Tesla Model X ;€ 96,990.-;18,000 km;02/2021;- kW (- hp);3;Automatic;Electric;- (l/100 km);0 g/km (comb.);783;t;;Blue  
+Audi A5 ;€ 22,699.-;186,000 km;11/2014;180 kW (245 hp);4;Automatic;Diesel;5.8 l/100 km (comb.);154 g/km (comb.);784;t;;Blue  
+SsangYong REXTON ;€ 11,200.-;116,000 km;11/2016;114 kW (155 hp);5;Manual;Diesel;7.3 l/100 km (comb.);- (g/km);785;t;;Blue  
+Subaru BRZ ;€ 23,450.-;102,978 km;04/2017;147 kW (200 hp);1;Manual;Gasoline;7.8 l/100 km (comb.);180 g/km (comb.);786;t;;Blue  
+BMW 760 ;€ 62,990.-;115,000 km;03/2017;448 kW (609 hp);3;Automatic;Gasoline;12.8 l/100 km (comb.);294 g/km (comb.);790;t;;Blue  
+Mercedes-Benz SLK 55 AMG ;€ 34,900.-;78,788 km;08/2005;265 kW (360 hp);3;Automatic;Gasoline;12 l/100 km (comb.);- (g/km);793;t;;Blue  
+Lexus LS 460 ;€ 29,985.-;33,800 km;01/2007;280 kW (381 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);795;t;;Blue  
+Infiniti EX37 ;€ 11,900.-;133,000 km;04/2010;235 kW (320 hp);5;Automatic;Gasoline;11.3 l/100 km (comb.);- (g/km);797;t;;Blue  
+Bentley Mulsanne ;€ 119,999.-;105,000 km;06/2016;395 kW (537 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);798;t;;Blue  
+Audi A5 ;€ 17,999.-;192,225 km;09/2011;228 kW (310 hp);3;Automatic;Diesel;6.6 l/100 km (comb.);174 g/km (comb.);801;t;;Blue  
+Mercedes-Benz E 200 ;€ 12,985.-;166,000 km;07/2011;135 kW (184 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);802;t;;Blue  
+Mercedes-Benz C 350 ;€ 31,990.-;34,018 km;07/2017;205 kW (279 hp);3;Automatic;Electric/Gasoline;2.4 l/100 km (comb.);- (g/km);803;t;;Blue  
+Nissan Murano ;€ 8,485.-;169,800 km;02/2008;172 kW (234 hp);3;Automatic;LPG;- (l/100 km);- (g/km);806;t;;Blue  
+Jaguar F-Pace ;€ 33,855.-;165,000 km;05/2019;221 kW (300 hp);5;Automatic;Diesel;6.5 l/100 km (comb.);171 g/km (comb.);1134;t;;Blue  
+BMW X1 ;€ 18,490.-;99,000 km;04/2018;85 kW (116 hp);1;Manual;Diesel;- (l/100 km);- (g/km);1135;t;;Blue  
+Ford Focus ;€ 19,985.-;34,700 km;09/2019;134 kW (182 hp);5;Manual;Gasoline;5.5 l/100 km (comb.);146 g/km (comb.);1136;t;;Blue  
+Volkswagen Golf ;€ 30,990.-;51,750 km;06/2019;213 kW (290 hp);1;Automatic;Gasoline;6.7 l/100 km (comb.);174 g/km (comb.);1137;t;;Blue  
+Audi A3 ;€ 3,700.-;112,000 km;04/2003;75 kW (102 hp);5;Manual;Gasoline;6.8 l/100 km (comb.);161 g/km (comb.);1138;t;;Blue  
+Fiat Panda ;€ 4,600.-;199,003 km;08/2006;40 kW (54 hp);3;Manual;Gasoline;5.7 l/100 km (comb.);135 g/km (comb.);1139;t;;Blue  
+smart forFour ;€ 10,500.-;50,000 km;02/2016;52 kW (71 hp);5;Automatic;Gasoline;4.2 l/100 km (comb.);98 g/km (comb.);1140;t;;Blue  
+Opel Agila ;€ 2,990.-;161,223 km;07/2003;43 kW (58 hp);4;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1141;t;;Blue  
+BMW Z3 ;€ 8,990.-;224,963 km;05/2001;85 kW (116 hp);3;Manual;Gasoline;7.9 l/100 km (comb.);- (g/km);807;t;;Blue  
+Audi RS6 ;€ 128,900.-;26,000 km;07/2021;441 kW (600 hp);3;Automatic;Gasoline;7.2 l/100 km (comb.);- (g/km);808;t;;Blue  
+Infiniti EX30 ;€ 7,999.-;262,000 km;09/2011;175 kW (238 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);809;t;;Blue  
+Opel Insignia ;€ 19,400.-;96,000 km;02/2018;191 kW (260 hp);3;Automatic;Gasoline;8.6 l/100 km (comb.);197 g/km (comb.);810;t;;Blue  
+Porsche Panamera ;€ 33,900.-;105,000 km;08/2011;279 kW (379 hp);1;Automatic;Electric/Gasoline;7.1 l/100 km (comb.);- (g/km);811;t;;Blue  
+DFSK Seres 3 ;€ 29,900.-;5,500 km;03/2022;120 kW (163 hp);2;Automatic;Electric;- (l/100 km);0 g/km (comb.);812;t;;Blue  
+Mercedes-Benz C 200 ;€ 26,900.-;114,804 km;07/2019;135 kW (184 hp);1;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);814;t;;Blue  
+Audi RS7 ;€ 53,990.-;100,000 km;10/2015;412 kW (560 hp);5;Automatic;Gasoline;9.5 l/100 km (comb.);221 g/km (comb.);815;t;;Blue  
+Lancia Voyager ;€ 10,900.-;154,619 km;10/2013;130 kW (177 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);816;t;;Blue  
+BMW M6 ;€ 56,990.-;86,000 km;06/2016;441 kW (600 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);817;t;;Blue  
+Mercedes-Benz GLE 53 AMG ;€ 117,450.-;28,055 km;04/2021;320 kW (435 hp);5;Automatic;Gasoline;9.6 l/100 km (comb.);219 g/km (comb.);819;t;;Blue  
+Mercedes-Benz C 220 ;€ 12,900.-;146,000 km;11/2010;125 kW (170 hp);2;Automatic;Diesel;6.8 l/100 km (comb.);- (g/km);820;t;;Blue  
+Hyundai i40 ;€ 9,500.-;145,000 km;08/2013;85 kW (116 hp);2;Manual;Diesel;4.3 l/100 km (comb.);- (g/km);822;t;;Blue  
+Mercedes-Benz ;€ 38,999.-;68,503 km;12/2018;280 kW (381 hp);1;Automatic;Gasoline;8.5 l/100 km (comb.);193 g/km (comb.);824;t;;Blue  
+Lexus UX 200 ;€ 25,026.-;36,996 km;11/2019;131 kW (178 hp);4;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);827;t;;Blue  
+BMW M4 ;€ 109,900.-;8,000 km;04/2021;- kW (- hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);828;t;;Blue  
+Mercedes-Benz C 200 ;€ 26,900.-;114,804 km;07/2019;135 kW (184 hp);4;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);829;t;;Blue  
+Lexus IS 300 ;€ 27,500.-;40,933 km;01/2020;164 kW (223 hp);3;Automatic;Electric/Gasoline;4.6 l/100 km (comb.);- (g/km);830;t;;Blue  
+Porsche Cayman ;€ 37,999.-;42,000 km;12/2008;217 kW (295 hp);4;Manual;Gasoline;11 l/100 km (comb.);262 g/km (comb.);831;t;;Blue  
+Land Rover Freelander ;€ 6,850.-;239,690 km;07/2011;110 kW (150 hp);1;Manual;Diesel;6.7 l/100 km (comb.);165 g/km (comb.);832;t;;Blue  
+Cupra Ateca ;€ 32,800.-;89,012 km;11/2020;221 kW (300 hp);1;Automatic;Gasoline;8.5 l/100 km (comb.);198 g/km (comb.);837;t;;Blue  
+Mercedes-Benz SLK 350 ;€ 33,880.-;46,437 km;06/2015;225 kW (306 hp);5;Automatic;Gasoline;7.2 l/100 km (comb.);171 g/km (comb.);838;t;;Blue  
+Volkswagen Jetta ;€ 2,600.-;232,000 km;10/2007;103 kW (140 hp);2;Manual;Diesel;- (l/100 km);- (g/km);839;t;;Blue  
+Lexus IS F ;€ 49,990.-;6,309 km;10/2010;311 kW (423 hp);3;Automatic;Gasoline;11.6 l/100 km (comb.);- (g/km);841;t;;Blue  
+Citroen Spacetourer ;€ 19,990.-;26,504 km;07/2018;88 kW (120 hp);3;Manual;Diesel;4.8 l/100 km (comb.);- (g/km);842;t;;Blue  
+Porsche 911 ;€ 83,880.-;93,875 km;01/2015;257 kW (349 hp);5;Automatic;Gasoline;8.4 l/100 km (comb.);195 g/km (comb.);843;t;;Blue  
+Toyota Highlander ;€ 44,200.-;38,651 km;03/2021;181 kW (246 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);844;t;;Blue  
+Citroen C3 Aircross ;€ 13,500.-;101,990 km;01/2019;75 kW (102 hp);5;Manual;Diesel;4 l/100 km (comb.);- (g/km);846;t;;Blue  
+MINI Cooper S ;€ 13,990.-;146,000 km;01/2021;141 kW (192 hp);5;Manual;Gasoline;6.4 l/100 km (comb.);- (g/km);848;t;;Blue  
+Mercedes-Benz E 63 AMG ;€ 72,990.-;75,000 km;11/2017;450 kW (612 hp);1;Automatic;Gasoline;8.8 l/100 km (comb.);199 g/km (comb.);849;t;;Blue  
+Jaguar F-Type ;€ 97,900.-;54,770 km;10/2017;423 kW (575 hp);5;Automatic;Gasoline;11.3 l/100 km (comb.);- (g/km);851;t;;Blue  
+Audi A1 ;€ 13,990.-;19,000 km;12/2010;90 kW (122 hp);1;Automatic;Gasoline;5.3 l/100 km (comb.);124 g/km (comb.);853;t;;Blue  
+Lexus CT 200h ;€ 11,100.-;118,873 km;03/2012;- kW (- hp);2;Automatic;Electric/Gasoline;3.8 l/100 km (comb.);94 g/km (comb.);854;t;;Blue  
+Porsche 911 ;€ 86,900.-;96,650 km;01/2013;257 kW (349 hp);2;Automatic;Gasoline;8.7 l/100 km (comb.);205 g/km (comb.);855;t;;Blue  
+Renault Megane ;€ 3,900.-;260,200 km;06/2010;96 kW (131 hp);5;Manual;Diesel;5.1 l/100 km (comb.);- (g/km);856;t;;Blue  
+Ford Mustang ;€ 38,995.-;22,670 km;06/2018;213 kW (290 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);859;t;;Blue  
+Tesla Model Y ;€ 59,900.-;14,000 km;03/2022;378 kW (514 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);860;t;;Blue  
+Mercedes-Benz E 55 AMG ;€ 27,900.-;63,000 km;03/2004;350 kW (476 hp);4;Automatic;Gasoline;12.9 l/100 km (comb.);- (g/km);862;t;;Blue  
+MINI Cooper ;€ 11,550.-;84,410 km;11/2011;105 kW (143 hp);2;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);863;t;;Blue  
+Ford Tourneo Connect ;€ 9,990.-;150,000 km;11/2014;85 kW (116 hp);5;Manual;Diesel;- (l/100 km);- (g/km);864;t;;Blue  
+BMW 218 ;€ 21,990.-;90,000 km;09/2017;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);116 g/km (comb.);865;t;;Blue  
+Mercedes-Benz S 500 ;€ 57,040.-;36,537 km;05/2017;335 kW (455 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);900;t;;Blue  
+Mercedes-Benz R 300 ;€ 24,880.-;60,000 km;11/2011;140 kW (190 hp);5;Automatic;Diesel;9.2 l/100 km (comb.);242 g/km (comb.);902;t;;Blue  
+Toyota C-HR ;€ 19,990.-;70,000 km;06/2019;90 kW (122 hp);3;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);907;t;;Blue  
+Alfa Romeo 4C ;€ 64,950.-;36,015 km;06/2015;176 kW (239 hp);1;Automatic;Gasoline;6.8 l/100 km (comb.);157 g/km (comb.);908;t;;Blue  
+Peugeot 407 ;€ 9,900.-;116,000 km;03/2006;150 kW (204 hp);2;Automatic;Diesel;8.5 l/100 km (comb.);- (g/km);910;t;;Blue  
+Audi RS6 ;€ 66,000.-;102,300 km;03/2013;412 kW (560 hp);1;Automatic;Gasoline;9.8 l/100 km (comb.);- (g/km);913;t;;Blue  
+Nissan Qashqai ;€ 12,990.-;120,000 km;04/2016;96 kW (131 hp);5;Automatic;Diesel;4.6 l/100 km (comb.);- (g/km);916;t;;Blue  
+Ferrari 458 ;€ 179,458.-;54,300 km;04/2011;416 kW (566 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);917;t;;Blue  
+Ferrari 458 ;€ 179,458.-;54,300 km;04/2011;416 kW (566 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);918;t;;Blue  
+Opel Antara ;€ 8,790.-;100,000 km;04/2007;167 kW (227 hp);3;Automatic;LPG;11.6 l/100 km (comb.);278 g/km (comb.);920;t;;Blue  
+Volkswagen Scirocco ;€ 16,880.-;123,500 km;12/2012;195 kW (265 hp);5;Automatic;Gasoline;8 l/100 km (comb.);187 g/km (comb.);924;t;;Blue  
+Renault Megane ;€ 5,000.-;286,000 km;03/2015;70 kW (95 hp);2;Manual;Diesel;4.1 l/100 km (comb.);- (g/km);925;t;;Blue  
+Mitsubishi 3000 GT ;€ 8,500.-;183,600 km;03/1996;210 kW (286 hp);5;Manual;Gasoline;12.4 l/100 km (comb.);- (g/km);926;t;;Blue  
+Mercedes-Benz ML 270 ;€ 8,980.-;151,232 km;09/2003;120 kW (163 hp);4;Automatic;Diesel;9.1 l/100 km (comb.);241 g/km (comb.);929;t;;Blue  
+Tesla Model 3 ;€ 61,500.-;35,876 km;06/2021;377 kW (513 hp);3;Automatic;Electric;- (l/100 km);0 g/km (comb.);932;t;;Blue  
+Chevrolet Camaro ;€ 37,855.-;48,542 km;12/2020;250 kW (340 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);933;t;;Blue  
+Porsche Panamera ;€ 86,990.-;69,000 km;01/2017;404 kW (549 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);934;t;;Blue  
+Volkswagen T5 Caravelle ;€ 21,980.-;230,000 km;09/2011;103 kW (140 hp);3;Automatic;Diesel;- (l/100 km);- (g/km);935;t;;Blue  
+Land Rover Range Rover ;€ 6,400.-;182,700 km;02/1999;165 kW (224 hp);3;Automatic;Gasoline;14.1 l/100 km (comb.);- (g/km);936;t;;Blue  
+Volkswagen Golf Variant ;€ 11,900.-;179,800 km;09/2016;110 kW (150 hp);4;Manual;Diesel;4.2 l/100 km (comb.);110 g/km (comb.);937;t;;Blue  
+Volkswagen CC ;€ 11,990.-;154,400 km;06/2014;103 kW (140 hp);3;Manual;Diesel;4.6 l/100 km (comb.);120 g/km (comb.);938;t;;Blue  
+BMW 525 ;€ 4,500.-;239,500 km;02/2007;130 kW (177 hp);1;Manual;Diesel;- (l/100 km);- (g/km);1220;t;;Blue  
+Audi A5 ;€ 36,490.-;84,000 km;11/2017;210 kW (286 hp);1;Automatic;Diesel;5.7 l/100 km (comb.);148 g/km (comb.);949;t;;Blue  
+Volvo V40 ;€ 11,200.-;104,314 km;04/2015;85 kW (116 hp);1;Manual;Diesel;3.4 l/100 km (comb.);88 g/km (comb.);950;t;;Blue  
+Volkswagen Polo ;€ 11,111.-;135,300 km;03/2011;132 kW (179 hp);4;Automatic;Gasoline;5.9 l/100 km (comb.);139 g/km (comb.);952;t;;Blue  
+BMW 430 ;€ 29,650.-;123,816 km;05/2017;185 kW (252 hp);3;Automatic;Gasoline;5.9 l/100 km (comb.);144 g/km (comb.);954;t;;Blue  
+Mercedes-Benz V 300 ;€ 59,880.-;70,000 km;07/2019;176 kW (239 hp);3;Automatic;Diesel;6 l/100 km (comb.);157 g/km (comb.);955;t;;Blue  
+Tesla Model 3 ;€ 61,500.-;24,176 km;03/2021;377 kW (513 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);956;t;;Blue  
+Mercedes-Benz V 300 ;€ 59,880.-;70,000 km;07/2019;176 kW (239 hp);2;Automatic;Diesel;6 l/100 km (comb.);157 g/km (comb.);958;t;;Blue  
+Alpine A110 ;€ 64,950.-;1,739 km;08/2021;185 kW (252 hp);3;Automatic;Gasoline;6.6 l/100 km (comb.);149 g/km (comb.);959;t;;Blue  
+Tesla Model 3 ;€ 61,500.-;24,176 km;03/2021;377 kW (513 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);960;t;;Blue  
+Audi A6 ;€ 15,985.-;165,000 km;03/2014;120 kW (163 hp);5;Manual;Diesel;4.7 l/100 km (comb.);125 g/km (comb.);961;t;;Blue  
+Audi Q5 ;€ 14,250.-;179,000 km;04/2010;155 kW (211 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);962;t;;Blue  
+Volkswagen Polo GTI ;€ 15,999.-;114,103 km;02/2020;147 kW (200 hp);5;Automatic;Gasoline;- (l/100 km);0 g/km (comb.);967;t;;Blue  
+Mercedes-Benz GLC 63 AMG ;€ 72,990.-;72,000 km;01/2019;375 kW (510 hp);1;Automatic;Gasoline;11.7 l/100 km (comb.);- (g/km);970;t;;Blue  
+BMW 530 ;€ 33,750.-;98,262 km;08/2017;135 kW (184 hp);5;Automatic;Electric/Gasoline;1.9 l/100 km (comb.);46 g/km (comb.);976;t;;Blue  
+MINI Cooper SE ;€ 26,900.-;38,990 km;02/2021;135 kW (184 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);977;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 45,770.-;60,000 km;09/2018;287 kW (390 hp);3;Automatic;Gasoline;9.3 l/100 km (comb.);214 g/km (comb.);978;t;;Blue  
+Volkswagen Touareg ;€ 9,500.-;267,000 km;06/2006;230 kW (313 hp);3;Automatic;Diesel;12.3 l/100 km (comb.);- (g/km);981;t;;Blue  
+Audi Q5 ;€ 23,900.-;111,000 km;03/2014;190 kW (258 hp);5;Automatic;Diesel;5.9 l/100 km (comb.);156 g/km (comb.);982;t;;Blue  
+MINI Cooper ;€ 15,900.-;64,220 km;01/2019;100 kW (136 hp);1;Manual;Gasoline;4.5 l/100 km (comb.);- (g/km);990;t;;Blue  
+Audi A5 ;€ 34,950.-;87,500 km;03/2019;170 kW (231 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1001;t;;Blue  
+Mercedes-Benz A 220 ;€ 26,890.-;56,000 km;07/2019;140 kW (190 hp);5;Automatic;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);1006;t;;Blue  
+Land Rover Range Rover ;€ 35,990.-;332,671 km;06/2013;250 kW (340 hp);3;Automatic;Diesel;8.7 l/100 km (comb.);229 g/km (comb.);1007;t;;Blue  
+Lamborghini Huracan ;€ 238,580.-;17,400 km;04/2017;426 kW (579 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1008;t;;Blue  
+Porsche 991 ;€ 79,950.-;97,535 km;01/2012;257 kW (349 hp);1;Automatic;Gasoline;8.2 l/100 km (comb.);- (g/km);1009;t;;Blue  
+Land Rover Discovery Sport ;€ 16,999.-;149,950 km;10/2015;110 kW (150 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);1010;t;;Blue  
+Volkswagen T6 Multivan ;€ 38,540.-;109,430 km;10/2015;150 kW (204 hp);1;Automatic;Diesel;6.6 l/100 km (comb.);172 g/km (comb.);1011;t;;Blue  
+BMW M5 ;€ 89,999.-;12,190 km;09/2020;460 kW (625 hp);5;Automatic;Gasoline;- (l/100 km);241 g/km (comb.);1017;t;;Blue  
+Porsche Boxster ;€ 16,500.-;179,900 km;10/2001;185 kW (252 hp);3;Manual;Gasoline;8 l/100 km (comb.);- (g/km);1018;t;;Blue  
+Kia Optima ;€ 21,000.-;74,847 km;11/2018;151 kW (205 hp);1;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);1020;t;;Blue  
+BMW 760 ;€ 155,999.-;58,987 km;06/2019;448 kW (609 hp);3;Automatic;Gasoline;12.8 l/100 km (comb.);294 g/km (comb.);1024;t;;Blue  
+Land Rover Range Rover Sport ;€ 129,900.-;17,000 km;04/2021;423 kW (575 hp);1;Automatic;Gasoline;12.7 l/100 km (comb.);- (g/km);1025;t;;Blue  
+Lexus CT 200h ;€ 20,550.-;62,363 km;05/2018;- kW (- hp);4;Automatic;Electric/Gasoline;4.1 l/100 km (comb.);93 g/km (comb.);1026;t;;Blue  
+Ford Mustang ;€ 66,900.-;19,172 km;05/2021;338 kW (460 hp);4;Automatic;Gasoline;12.4 l/100 km (comb.);- (g/km);1030;t;;Blue  
+Kia Optima ;€ 24,900.-;39,153 km;04/2019;151 kW (205 hp);5;Automatic;Electric/Gasoline;1.6 l/100 km (comb.);- (g/km);1031;t;;Blue  
+Audi A4 allroad ;€ 14,390.-;83,737 km;06/2011;105 kW (143 hp);2;Manual;Diesel;6.2 l/100 km (comb.);164 g/km (comb.);1032;t;;Blue  
+Chevrolet Astro ;€ 12,985.-;172,000 km;09/1997;139 kW (189 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1034;t;;Blue  
+Volkswagen Jetta ;€ 9,900.-;97,988 km;03/2012;90 kW (122 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1036;t;;Blue  
+Mercedes-Benz CLA 220 ;€ 21,880.-;108,000 km;10/2017;130 kW (177 hp);2;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);1037;t;;Blue  
+Mercedes-Benz CLA 220 ;€ 21,880.-;108,000 km;10/2017;130 kW (177 hp);5;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);1038;t;;Blue  
+Mercedes-Benz GLS 400 ;€ 112,800.-;50,000 km;05/2021;243 kW (330 hp);1;Automatic;Diesel;7.1 l/100 km (comb.);187 g/km (comb.);1040;t;;Blue  
+Tesla Model 3 ;€ 45,500.-;48,300 km;03/2021;246 kW (334 hp);3;Automatic;Electric;- (l/100 km);0 g/km (comb.);1042;t;;Blue  
+Audi RS5 ;€ 59,900.-;63,896 km;02/2018;331 kW (450 hp);4;Automatic;Gasoline;8.7 l/100 km (comb.);- (g/km);1043;t;;Blue  
+Mercedes-Benz C 43 AMG ;€ 45,490.-;61,000 km;04/2018;270 kW (367 hp);3;Automatic;Gasoline;7.8 l/100 km (comb.);178 g/km (comb.);1044;t;;Blue  
+BMW Z4 ;€ 29,444.-;24,000 km;11/2013;180 kW (245 hp);3;Manual;Gasoline;- (l/100 km);0 g/km (comb.);1048;t;;Blue  
+BMW X3 ;€ 54,900.-;15,901 km;07/2022;140 kW (190 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1051;t;;Blue  
+Mercedes-Benz E 220 ;€ 20,777.-;156,000 km;01/2015;125 kW (170 hp);3;Automatic;Diesel;- (l/100 km);0 g/km (comb.);1052;t;;Blue  
+BMW M4 ;€ 124,900.-;6,211 km;12/2022;375 kW (510 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1054;t;;Blue  
+Kia Cerato ;€ 1,990.-;305,000 km;06/2006;75 kW (102 hp);5;Manual;Diesel;4.9 l/100 km (comb.);- (g/km);1055;t;;Blue  
+Alpine A110 ;€ 67,900.-;6,384 km;01/2022;185 kW (252 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1056;t;;Blue  
+Porsche Panamera ;€ 46,985.-;122,000 km;05/2014;245 kW (333 hp);3;Automatic;Electric/Gasoline;3.1 l/100 km (comb.);73 g/km (comb.);1058;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 62,990.-;40,000 km;01/2018;350 kW (476 hp);2;Automatic;Gasoline;8.6 l/100 km (comb.);- (g/km);1061;t;;Blue  
+Volvo XC60 ;€ 24,990.-;90,200 km;07/2016;162 kW (220 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);1062;t;;Blue  
+Mercedes-Benz E 220 ;€ 27,900.-;194,000 km;07/2019;143 kW (194 hp);1;Automatic;Diesel;4.5 l/100 km (comb.);- (g/km);1065;t;;Blue  
+Mercedes-Benz E 350 ;€ 26,950.-;215,000 km;03/2017;190 kW (258 hp);1;Automatic;Diesel;5.1 l/100 km (comb.);133 g/km (comb.);1070;t;;Blue  
+Nissan Juke ;€ 12,900.-;104,000 km;05/2012;140 kW (190 hp);2;Manual;Gasoline;6.9 l/100 km (comb.);- (g/km);1072;t;;Blue  
+Peugeot 3008 ;€ 20,500.-;65,986 km;01/2019;96 kW (131 hp);2;Manual;Diesel;- (l/100 km);- (g/km);1073;t;;Blue  
+Opel Crossland ;€ 13,500.-;100,920 km;04/2019;75 kW (102 hp);4;Manual;Diesel;4 l/100 km (comb.);- (g/km);1074;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 30,890.-;125,000 km;10/2011;400 kW (544 hp);2;Automatic;Gasoline;10.5 l/100 km (comb.);244 g/km (comb.);1080;t;;Blue  
+Alfa Romeo Stelvio ;€ 29,500.-;59,964 km;01/2019;140 kW (190 hp);4;Automatic;Diesel;5.7 l/100 km (comb.);- (g/km);1081;t;;Blue  
+Volkswagen Beetle ;€ 12,950.-;99,922 km;08/2012;103 kW (140 hp);1;Manual;Diesel;- (l/100 km);0 g/km (comb.);1091;t;;Blue  
+Chrysler Crossfire ;€ 5,900.-;192,000 km;01/2004;160 kW (218 hp);5;Manual;Gasoline;10.4 l/100 km (comb.);- (g/km);1094;t;;Blue  
+Audi S8 ;€ 47,990.-;78,000 km;05/2015;382 kW (519 hp);3;Automatic;Gasoline;9.4 l/100 km (comb.);215 g/km (comb.);1097;t;;Blue  
+Peugeot 3008 ;€ 12,490.-;27,500 km;10/2013;110 kW (150 hp);4;Manual;Diesel;5.3 l/100 km (comb.);139 g/km (comb.);1098;t;;Blue  
+Porsche Macan ;€ 31,990.-;196,118 km;05/2015;190 kW (258 hp);4;Automatic;Diesel;- (l/100 km);159 g/km (comb.);1100;t;;Blue  
+Abarth 595 Pista ;€ 16,300.-;53,754 km;04/2018;118 kW (160 hp);2;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);1121;t;;Blue  
+Audi RS5 ;€ 55,890.-;80,000 km;02/2018;331 kW (450 hp);5;Automatic;Gasoline;8.7 l/100 km (comb.);197 g/km (comb.);1123;t;;Blue  
+Nissan NV300 ;€ 21,340.-;99,750 km;11/2016;92 kW (125 hp);4;Manual;Diesel;5.6 l/100 km (comb.);145 g/km (comb.);1126;t;;Blue  
+BMW X3 ;€ 14,985.-;156,000 km;01/2014;135 kW (184 hp);3;Manual;Diesel;5.6 l/100 km (comb.);148 g/km (comb.);1128;t;;Blue  
+Ford Mustang ;€ 54,990.-;4,500 km;04/2022;331 kW (450 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1129;t;;Blue  
+Ford Mondeo ;€ 9,560.-;169,000 km;01/2018;110 kW (150 hp);4;Manual;Diesel;4.8 l/100 km (comb.);- (g/km);1132;t;;Blue  
+SEAT Leon ;€ 16,480.-;163,000 km;12/2018;110 kW (150 hp);1;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1143;t;;Blue  
+SEAT Leon ;€ 17,480.-;121,200 km;08/2018;110 kW (150 hp);4;Manual;Diesel;4.4 l/100 km (comb.);112 g/km (comb.);1144;t;;Blue  
+SEAT Leon ;€ 14,480.-;163,000 km;07/2018;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1145;t;;Blue  
+Mercedes-Benz Vito ;€ 13,900.-;170,000 km;07/2015;84 kW (114 hp);1;- (Gear);Diesel;- (l/100 km);- (g/km);1146;t;;Blue  
+SEAT Leon ;€ 17,980.-;99,500 km;04/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1147;t;;Blue  
+SEAT Leon ;€ 16,980.-;96,500 km;03/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1148;t;;Blue  
+SEAT Leon ;€ 16,480.-;122,600 km;02/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1149;t;;Blue  
+SEAT Leon ;€ 15,980.-;108,300 km;04/2019;85 kW (116 hp);5;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1150;t;;Blue  
+SEAT Leon ;€ 14,980.-;124,800 km;08/2019;85 kW (116 hp);5;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1151;t;;Blue  
+SEAT Leon ;€ 14,480.-;140,500 km;08/2018;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1152;t;;Blue  
+Volkswagen Golf ;€ 19,450.-;34,200 km;05/2019;96 kW (131 hp);1;Manual;Gasoline;4.8 l/100 km (comb.);- (g/km);1153;t;;Blue  
+SEAT Leon ;€ 15,980.-;149,900 km;10/2018;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1154;t;;Blue  
+SEAT Leon ;€ 14,480.-;148,500 km;08/2019;85 kW (116 hp);2;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1155;t;;Blue  
+SEAT Leon ;€ 15,680.-;118,300 km;06/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1156;t;;Blue  
+SEAT Leon ;€ 14,980.-;114,700 km;06/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1157;t;;Blue  
+SEAT Leon ;€ 15,480.-;114,500 km;09/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1158;t;;Blue  
+Audi Q5 ;€ 28,919.-;72,548 km;01/2018;120 kW (163 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);1159;t;;Blue  
+SEAT Leon ;€ 16,480.-;110,800 km;08/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1160;t;;Blue  
+SsangYong Korando ;€ 12,490.-;62,134 km;01/2014;110 kW (150 hp);4;Manual;Diesel;5.8 l/100 km (comb.);- (g/km);1161;t;;Blue  
+Skoda Kodiaq ;€ 45,490.-;34,430 km;11/2019;176 kW (239 hp);3;Automatic;Diesel;6.4 l/100 km (comb.);213 g/km (comb.);1142;t;;Blue  
+Opel Crossland ;€ 12,990.-;70,404 km;01/2018;96 kW (131 hp);3;Manual;Gasoline;4.7 l/100 km (comb.);- (g/km);1162;t;;Blue  
+Kia Sportage ;€ 10,490.-;99,000 km;01/2012;85 kW (116 hp);4;Manual;Diesel;5.3 l/100 km (comb.);- (g/km);1163;t;;Blue  
+SEAT Ateca ;€ 24,480.-;40,000 km;06/2018;110 kW (150 hp);3;Automatic;Gasoline;5.4 l/100 km (comb.);125 g/km (comb.);1164;t;;Blue  
+SEAT Ateca ;€ 27,980.-;67,500 km;05/2019;110 kW (150 hp);5;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1165;t;;Blue  
+SEAT Ateca ;€ 25,480.-;128,100 km;04/2019;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1166;t;;Blue  
+SEAT Ateca ;€ 28,980.-;110,200 km;01/2019;140 kW (190 hp);5;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1167;t;;Blue  
+SEAT Ateca ;€ 27,980.-;102,400 km;02/2018;140 kW (190 hp);4;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1168;t;;Blue  
+SEAT Ateca ;€ 22,980.-;82,800 km;05/2020;110 kW (150 hp);5;Manual;Diesel;4.4 l/100 km (comb.);124 g/km (comb.);1169;t;;Blue  
+SEAT Ateca ;€ 29,980.-;62,000 km;02/2020;110 kW (150 hp);1;Automatic;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1170;t;;Blue  
+SEAT Ateca ;€ 29,480.-;80,100 km;07/2020;110 kW (150 hp);3;Manual;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1171;t;;Blue  
+SEAT Ateca ;€ 28,480.-;88,000 km;06/2020;110 kW (150 hp);1;Manual;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1172;t;;Blue  
+SEAT Ateca ;€ 27,980.-;75,000 km;12/2019;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1173;t;;Blue  
+SEAT Ateca ;€ 25,480.-;130,500 km;02/2018;140 kW (190 hp);1;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1174;t;;Blue  
+Ford Fiesta ;€ 6,990.-;159,995 km;09/2014;70 kW (95 hp);5;Manual;Diesel;3.6 l/100 km (comb.);- (g/km);1175;t;;Blue  
+Audi A3 ;€ 20,490.-;69,100 km;01/2018;110 kW (150 hp);3;Manual;Diesel;4.2 l/100 km (comb.);- (g/km);1176;t;;Blue  
+Audi Q5 ;€ 24,490.-;117,000 km;07/2014;180 kW (245 hp);2;Automatic;Diesel;6.4 l/100 km (comb.);- (g/km);1177;t;;Blue  
+Land Rover Range Rover Sport ;€ 26,490.-;222,014 km;01/2014;190 kW (258 hp);2;Automatic;Diesel;6.9 l/100 km (comb.);- (g/km);1178;t;;Blue  
+SEAT Ateca ;€ 19,980.-;119,300 km;04/2019;85 kW (116 hp);4;Manual;Diesel;4.2 l/100 km (comb.);120 g/km (comb.);1179;t;;Blue  
+SEAT Ateca ;€ 23,480.-;48,500 km;06/2019;85 kW (116 hp);5;Manual;Diesel;4.2 l/100 km (comb.);120 g/km (comb.);1180;t;;Blue  
+Toyota Corolla ;€ 22,990.-;22,627 km;12/2021;90 kW (122 hp);1;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1181;t;;Blue  
+Toyota C-HR ;€ 23,990.-;98,541 km;11/2018;90 kW (122 hp);3;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1182;t;;Blue  
+Volkswagen Polo GTI ;€ 23,980.-;21,400 km;02/2020;147 kW (200 hp);4;Automatic;Gasoline;5.9 l/100 km (comb.);138 g/km (comb.);1213;t;;Blue  
+Volkswagen Polo ;€ 16,480.-;84,500 km;05/2019;70 kW (95 hp);3;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1215;t;;Blue  
+Volkswagen Polo ;€ 15,980.-;111,600 km;01/2019;70 kW (95 hp);3;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1221;t;;Blue  
+Renault ;€ 10,500.-;137,710 km;04/2017;55 kW (75 hp);2;Manual;Diesel;5.2 l/100 km (comb.);- (g/km);1223;t;;Blue  
+Jeep Cherokee ;€ 17,950.-;140,000 km;07/1985;86 kW (117 hp);4;Automatic;Gasoline;10 l/100 km (comb.);- (g/km);1224;t;;Blue  
+Volkswagen Polo ;€ 14,980.-;97,300 km;02/2019;70 kW (95 hp);1;Manual;Diesel;3.7 l/100 km (comb.);99 g/km (comb.);1225;t;;Blue  
+Volkswagen Polo ;€ 15,980.-;82,000 km;04/2019;70 kW (95 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1228;t;;Blue  
+Volkswagen Polo ;€ 17,980.-;48,800 km;04/2019;70 kW (95 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);1230;t;;Blue  
+Toyota C-HR ;€ 22,990.-;69,400 km;08/2019;90 kW (122 hp);5;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1183;t;;Blue  
+Toyota Auris ;€ 16,990.-;93,225 km;07/2018;100 kW (136 hp);5;Automatic;Electric/Gasoline;4.5 l/100 km (comb.);- (g/km);1184;t;;Blue  
+SEAT Arona ;€ 19,480.-;50,100 km;08/2020;70 kW (95 hp);5;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1185;t;;Blue  
+SEAT Arona ;€ 19,480.-;16,300 km;10/2020;70 kW (95 hp);1;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1186;t;;Blue  
+Opel Crossland ;€ 15,995.-;115,340 km;10/2017;60 kW (82 hp);4;Manual;CNG;5.2 kg/100 km (comb.);- (g/km);1187;t;;Blue  
+SEAT Arona ;€ 19,980.-;13,000 km;06/2020;70 kW (95 hp);4;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1188;t;;Blue  
+Toyota Auris ;€ 17,000.-;31,400 km;07/2018;100 kW (136 hp);3;Automatic;Electric/Gasoline;4.3 l/100 km (comb.);- (g/km);1189;t;;Blue  
+Toyota Land Cruiser ;€ 28,800.-;406,000 km;07/2015;140 kW (190 hp);1;Automatic;Diesel;8.1 l/100 km (comb.);- (g/km);1190;t;;Blue  
+Mercedes-Benz Citan ;€ 33,588.-;1,268 km;11/2021;70 kW (95 hp);3;Manual;Diesel;- (l/100 km);140 g/km (comb.);1191;t;;Blue  
+SEAT Arona ;€ 19,480.-;40,200 km;07/2020;70 kW (95 hp);5;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1192;t;;Blue  
+SEAT Arona ;€ 19,980.-;40,300 km;02/2020;70 kW (95 hp);1;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1193;t;;Blue  
+Lancia Beta ;€ 15,500.-;140,000 km;06/1975;86 kW (117 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1194;t;;Blue  
+BMW 116 ;€ 10,990.-;134,750 km;07/2014;85 kW (116 hp);1;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1195;t;;Blue  
+Mercedes-Benz Sprinter ;€ 45,588.-;69,307 km;06/2020;105 kW (143 hp);4;Manual;Diesel;- (l/100 km);206 g/km (comb.);1227;t;;Blue  
+Lexus NX 300 ;€ 29,749.-;99,729 km;10/2018;145 kW (197 hp);3;Automatic;Electric/Gasoline;5.4 l/100 km (comb.);- (g/km);1229;t;;Blue  
+Audi A4 ;€ 28,980.-;78,000 km;02/2019;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1309;t;;Blue  
+Audi A4 ;€ 28,980.-;70,000 km;03/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1310;t;;Blue  
+Audi A4 ;€ 29,480.-;52,300 km;01/2019;110 kW (150 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1313;t;;Blue  
+Volvo S60 ;€ 5,499.-;217,617 km;01/2009;103 kW (140 hp);5;Manual;Gasoline;8.8 l/100 km (comb.);209 g/km (comb.);1314;t;;Blue  
+Audi A4 ;€ 31,480.-;58,500 km;04/2019;140 kW (190 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);116 g/km (comb.);1316;t;;Blue  
+Audi A3 ;€ 24,480.-;44,500 km;01/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);115 g/km (comb.);1318;t;;Blue  
+Audi A3 ;€ 19,480.-;132,300 km;03/2018;110 kW (150 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);115 g/km (comb.);1319;t;;Blue  
+Audi A3 ;€ 22,980.-;43,000 km;05/2019;85 kW (116 hp);3;Manual;Diesel;4.4 l/100 km (comb.);118 g/km (comb.);1320;t;;Blue  
+Audi A3 ;€ 22,980.-;49,900 km;03/2020;85 kW (116 hp);1;Manual;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1321;t;;Blue  
+Audi A3 ;€ 22,480.-;76,500 km;03/2019;85 kW (116 hp);4;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1322;t;;Blue  
+Audi A3 ;€ 21,980.-;64,500 km;02/2019;85 kW (116 hp);2;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1323;t;;Blue  
+Audi A3 ;€ 22,480.-;60,500 km;04/2019;85 kW (116 hp);2;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1324;t;;Blue  
+Audi A3 ;€ 22,980.-;63,900 km;01/2019;85 kW (116 hp);5;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1325;t;;Blue  
+Audi A3 ;€ 22,480.-;59,300 km;01/2019;85 kW (116 hp);3;Manual;Diesel;4 l/100 km (comb.);108 g/km (comb.);1326;t;;Blue  
+Audi A3 ;€ 20,980.-;65,400 km;07/2019;81 kW (110 hp);3;Automatic;Diesel;3.7 l/100 km (comb.);102 g/km (comb.);1327;t;;Blue  
+Volkswagen Passat ;€ 22,980.-;116,500 km;07/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1371;t;;Blue  
+Volkswagen Passat ;€ 20,980.-;149,000 km;01/2019;110 kW (150 hp);3;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1372;t;;Blue  
+Volkswagen Passat ;€ 24,980.-;106,000 km;07/2019;110 kW (150 hp);3;Automatic;Diesel;4.4 l/100 km (comb.);113 g/km (comb.);1375;t;;Blue  
+Audi A3 ;€ 10,000.-;235,000 km;06/2013;77 kW (105 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1376;t;;Blue  
+Audi Q7 ;€ 34,900.-;165,100 km;04/2016;155 kW (211 hp);1;Automatic;Diesel;5.5 l/100 km (comb.);- (g/km);1381;t;;Blue  
+Volvo XC60 ;€ 64,900.-;29,735 km;11/2021;287 kW (390 hp);2;Automatic;Electric/Gasoline;- (l/100 km);56 g/km (comb.);1382;t;;Blue  
+Citroen Berlingo ;€ 9,985.-;126,000 km;05/2014;68 kW (92 hp);5;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1391;t;;Blue  
+Mercedes-Benz CLS ;€ 18,985.-;194,000 km;04/2014;150 kW (204 hp);1;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1392;t;;Blue  
+Skoda Octavia ;€ 8,485.-;169,800 km;06/2011;125 kW (170 hp);4;Manual;Diesel;- (l/100 km);- (g/km);1393;t;;Blue  
+Renault Scenic ;€ 9,985.-;149,000 km;06/2013;81 kW (110 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);105 g/km (comb.);1394;t;;Blue  
+Mercedes-Benz C 200 ;€ 20,985.-;115,000 km;01/2016;100 kW (136 hp);3;Automatic;Diesel;4.3 l/100 km (comb.);109 g/km (comb.);1395;t;;Blue  
+Mitsubishi Outlander ;€ 19,875.-;132,000 km;02/2015;89 kW (121 hp);2;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1398;t;;Blue  
+Porsche Panamera ;€ 46,985.-;122,000 km;05/2014;245 kW (333 hp);1;Automatic;Electric/Gasoline;3.1 l/100 km (comb.);73 g/km (comb.);1399;t;;Blue  
+Porsche Cayenne ;€ 124,585.-;46,500 km;10/2019;404 kW (549 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1400;t;;Blue  
+Renault Grand Scenic ;€ 9,985.-;149,000 km;06/2013;81 kW (110 hp);5;Automatic;Diesel;4.1 l/100 km (comb.);105 g/km (comb.);1402;t;;Blue  
+BMW X5 ;€ 32,875.-;166,000 km;09/2016;180 kW (245 hp);2;Automatic;Electric/Gasoline;3.3 l/100 km (comb.);78 g/km (comb.);1405;t;;Blue  
+Nissan Murano ;€ 8,485.-;169,800 km;02/2008;172 kW (234 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1406;t;;Blue  
+Opel Meriva ;€ 6,485.-;119,000 km;10/2010;88 kW (120 hp);3;Manual;Gasoline;5.6 l/100 km (comb.);133 g/km (comb.);1408;t;;Blue  
+BMW X3 ;€ 14,985.-;156,000 km;01/2014;135 kW (184 hp);4;Manual;Diesel;5.6 l/100 km (comb.);148 g/km (comb.);1410;t;;Blue  
+Opel Insignia ;€ 5,885.-;196,000 km;09/2011;103 kW (140 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);1411;t;;Blue  
+Audi A5 ;€ 12,985.-;139,800 km;06/2010;118 kW (160 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1412;t;;Blue  
+Mercedes-Benz CLS 250 ;€ 18,985.-;194,000 km;04/2014;150 kW (204 hp);2;Automatic;Diesel;5 l/100 km (comb.);133 g/km (comb.);1415;t;;Blue  
+Volkswagen Polo ;€ 16,980.-;86,300 km;12/2018;70 kW (95 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1234;t;;Blue  
+Toyota Auris ;€ 8,999.-;169,999 km;05/2016;82 kW (111 hp);1;Manual;Diesel;4.7 l/100 km (comb.);110 g/km (comb.);1237;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;127,400 km;04/2018;110 kW (150 hp);1;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1253;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;93,100 km;01/2020;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1255;t;;Blue  
+Bentley Continental ;€ 100,000.-;112,000 km;12/2010;412 kW (560 hp);1;Semi-automatic;Gasoline;- (l/100 km);- (g/km);1259;t;;Blue  
+Audi RS4 ;€ 36,985.-;112,900 km;03/2013;331 kW (450 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1416;t;;Blue  
+Mercedes-Benz E 200 ;€ 12,985.-;166,000 km;07/2011;135 kW (184 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1417;t;;Blue  
+Lamborghini Huracan ;€ 199,610.-;47,000 km;04/2015;449 kW (610 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1418;t;;Blue  
+Dodge RAM ;€ 29,985.-;145,000 km;07/2012;291 kW (396 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1420;t;;Blue  
+Chevrolet Astro ;€ 12,985.-;172,000 km;09/1997;139 kW (189 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1421;t;;Blue  
+Nissan Murano ;€ 8,485.-;169,800 km;02/2008;172 kW (234 hp);2;Automatic;LPG;- (l/100 km);- (g/km);1422;t;;Blue  
+Audi Q5 ;€ 14,250.-;179,000 km;04/2010;155 kW (211 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);1423;t;;Blue  
+Mazda RX-8 ;€ 9,985.-;65,000 km;04/2004;170 kW (231 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1424;t;;Blue  
+Mercedes-Benz V 220 ;€ 4,985.-;443,000 km;03/2001;90 kW (122 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1425;t;;Blue  
+Land Rover Range Rover Sport ;€ 39,875.-;129,500 km;03/2016;225 kW (306 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1426;t;;Blue  
+Ferrari 458 ;€ 179,458.-;54,300 km;04/2011;416 kW (566 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1427;t;;Blue  
+Subaru Forester ;€ 34,985.-;13,600 km;03/2021;110 kW (150 hp);3;Automatic;Gasoline;6.7 l/100 km (comb.);154 g/km (comb.);1429;t;;Blue  
+Subaru Forester ;€ 34,985.-;13,600 km;03/2021;110 kW (150 hp);1;Automatic;Electric/Gasoline;6.7 l/100 km (comb.);154 g/km (comb.);1430;t;;Blue  
+Volvo V70 ;€ 8,985.-;182,000 km;12/2009;107 kW (145 hp);2;Manual;Ethanol;- (l/100 km);- (g/km);1431;t;;Blue  
+Land Rover Discovery Sport ;€ 19,985.-;150,000 km;02/2017;110 kW (150 hp);5;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1432;t;;Blue  
+Volvo V70 ;€ 4,385.-;346,000 km;10/2006;136 kW (185 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1433;t;;Blue  
+Lamborghini Huracan ;€ 238,580.-;17,400 km;04/2017;426 kW (579 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1434;t;;Blue  
+Lexus LS 460 ;€ 29,985.-;33,800 km;01/2007;280 kW (381 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1435;t;;Blue  
+Hyundai H-1 ;€ 29,970.-;87,600 km;07/2018;125 kW (170 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);1436;t;;Blue  
+Land Rover Discovery Sport ;€ 21,485.-;136,000 km;08/2017;110 kW (150 hp);3;Automatic;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1437;t;;Blue  
+Volkswagen Golf ;€ 2,950.-;139,800 km;06/1990;66 kW (90 hp);4;Manual;Gasoline;- (l/100 km);0 g/km (comb.);542;t;;Blue  
+BMW 218 ;€ 21,995.-;85,490 km;04/2016;110 kW (150 hp);3;Automatic;Diesel;- (l/100 km);- (g/km);545;t;;Blue  
+Mercedes-Benz GLC 350 ;€ 39,900.-;154,900 km;11/2017;190 kW (258 hp);4;Automatic;Diesel;6 l/100 km (comb.);161 g/km (comb.);546;t;;Blue  
+Mercedes-Benz S 400 ;€ 24,880.-;60,000 km;01/2013;205 kW (279 hp);2;Automatic;Gasoline;8.2 l/100 km (comb.);191 g/km (comb.);550;t;;Blue  
+Audi RS6 ;€ 66,000.-;102,300 km;03/2013;412 kW (560 hp);1;Automatic;Gasoline;9.8 l/100 km (comb.);- (g/km);551;t;;Blue  
+Nissan Qashqai ;€ 12,990.-;120,000 km;04/2016;96 kW (131 hp);2;Automatic;Diesel;4.6 l/100 km (comb.);- (g/km);554;t;;Blue  
+Ferrari 458 ;€ 179,458.-;54,300 km;04/2011;416 kW (566 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);556;t;;Blue  
+Mercedes-Benz CLA 200 ;€ 18,950.-;68,591 km;12/2013;100 kW (136 hp);5;Automatic;Diesel;4.2 l/100 km (comb.);115 g/km (comb.);557;t;;Blue  
+Opel Antara ;€ 8,790.-;100,000 km;04/2007;167 kW (227 hp);2;Automatic;LPG;11.6 l/100 km (comb.);278 g/km (comb.);559;t;;Blue  
+Mitsubishi 3000 GT ;€ 8,500.-;183,600 km;03/1996;210 kW (286 hp);2;Manual;Gasoline;12.4 l/100 km (comb.);- (g/km);563;t;;Blue  
+Volkswagen Scirocco ;€ 16,880.-;123,500 km;12/2012;195 kW (265 hp);2;Automatic;Gasoline;8 l/100 km (comb.);187 g/km (comb.);564;t;;Blue  
+Renault Megane ;€ 5,000.-;286,000 km;03/2015;70 kW (95 hp);5;Manual;Diesel;4.1 l/100 km (comb.);- (g/km);565;t;;Blue  
+Abarth 595 Pista ;€ 17,990.-;29,000 km;01/2019;118 kW (160 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);540;t;;Blue  
+Audi Q2 ;€ 19,900.-;122,000 km;01/2020;85 kW (116 hp);4;Automatic;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);541;t;;Blue  
+Opel Mokka-E ;€ 33,900.-;10,000 km;11/2021;100 kW (136 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);543;t;;Blue  
+Mercedes-Benz E 350 ;€ 28,999.-;130,000 km;09/2016;190 kW (258 hp);5;Automatic;Diesel;5.7 l/100 km (comb.);150 g/km (comb.);544;t;;Blue  
+Mercedes-Benz CLA 180 ;€ 15,900.-;122,900 km;01/2017;80 kW (109 hp);5;Manual;Diesel;3.9 l/100 km (comb.);101 g/km (comb.);547;t;;Blue  
+Volkswagen Passat Variant ;€ 25,590.-;78,300 km;08/2018;115 kW (156 hp);4;Automatic;Electric/Gasoline;1.7 l/100 km (comb.);38 g/km (comb.);548;t;;Blue  
+Mercedes-Benz A 35 AMG ;€ 52,900.-;1,960 km;06/2022;225 kW (306 hp);3;Automatic;Gasoline;8.8 l/100 km;;549;t;;Blue  
+Ford Transit Custom ;€ 14,470.-;138,000 km;06/2015;74 kW (101 hp);2;Manual;Diesel;6.5 l/100 km (comb.);172 g/km (comb.);552;t;;Blue  
+Audi A5 ;€ 29,990.-;96,000 km;12/2017;210 kW (286 hp);1;Automatic;Diesel;5.3 l/100 km (comb.);137 g/km (comb.);553;t;;Blue  
+Mercedes-Benz C 250 ;€ 23,990.-;103,858 km;11/2017;150 kW (204 hp);5;Automatic;Diesel;4.7 l/100 km;124 g/km (comb.);555;t;;Blue  
+Chevrolet Camaro ;€ 69,950.-;10,238 km;08/2019;470 kW (639 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);558;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 26,990.-;204,000 km;07/2009;336 kW (457 hp);4;Automatic;Gasoline;13.6 l/100 km (comb.);326 g/km (comb.);560;t;;Blue  
+Porsche Panamera ;€ 34,900.-;127,000 km;11/2010;220 kW (299 hp);5;Automatic;Gasoline;9.6 l/100 km (comb.);225 g/km (comb.);561;t;;Blue  
+Volkswagen Golf ;€ 19,950.-;120,430 km;05/2016;162 kW (220 hp);5;Automatic;Gasoline;6.3 l/100 km (comb.);145 g/km (comb.);562;t;;Blue  
+Dodge Challenger ;€ 57,899.-;15,992 km;11/2019;362 kW (492 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);566;t;;Blue  
+Audi A5 ;€ 23,490.-;68,760 km;08/2016;140 kW (190 hp);3;Manual;Diesel;5.1 l/100 km (comb.);135 g/km (comb.);567;t;;Blue  
+Subaru WRX ;€ 33,980.-;112,852 km;05/2014;221 kW (300 hp);5;Manual;Gasoline;10.4 l/100 km (comb.);246 g/km (comb.);568;t;;Blue  
+Mercedes-Benz S 65 AMG ;€ 234,500.-;31,900 km;02/2020;463 kW (630 hp);4;Automatic;Gasoline;11.9 l/100 km (comb.);279 g/km (comb.);569;t;;Blue  
+Peugeot 206 ;€ 3,890.-;84,000 km;08/2009;55 kW (75 hp);1;Manual;Gasoline;6.3 l/100 km (comb.);150 g/km (comb.);1457;t;;Blue  
+Mercedes-Benz C 200 ;€ 4,790.-;213,000 km;06/2004;120 kW (163 hp);3;Automatic;Gasoline;8.9 l/100 km (comb.);214 g/km (comb.);1460;t;;Blue  
+BMW 225 ;€ 17,990.-;105,000 km;11/2016;165 kW (224 hp);2;Automatic;Electric/Gasoline;2 l/100 km (comb.);46 g/km (comb.);577;t;;Blue  
+BMW 225 ;€ 17,990.-;105,000 km;11/2016;165 kW (224 hp);4;Automatic;Electric/Gasoline;2 l/100 km (comb.);46 g/km (comb.);581;t;;Blue  
+Porsche Cayenne ;€ 52,990.-;116,085 km;06/2017;245 kW (333 hp);4;Automatic;Electric/Gasoline;- (l/100 km);79 g/km (comb.);585;t;;Blue  
+Porsche 992 ;€ 151,890.-;3,500 km;06/2021;331 kW (450 hp);1;Automatic;Gasoline;9.6 l/100 km (comb.);220 g/km (comb.);589;t;;Blue  
+Audi TT ;€ 31,985.-;2,400 km;03/2019;180 kW (245 hp);5;Manual;Gasoline;6.5 l/100 km (comb.);149 g/km (comb.);590;t;;Blue  
+Audi A3 ;€ 18,900.-;94,943 km;10/2017;110 kW (150 hp);3;Manual;Diesel;- (l/100 km);- (g/km);633;t;;Blue  
+BMW M2 ;€ 50,950.-;59,206 km;10/2020;302 kW (411 hp);3;Automatic;Gasoline;9.2 l/100 km (comb.);209 g/km (comb.);636;t;;Blue  
+Fiat 595 Abarth ;€ 18,900.-;32,500 km;04/2018;118 kW (160 hp);1;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);638;t;;Blue  
+Skoda Superb ;€ 27,990.-;31,928 km;08/2016;206 kW (280 hp);1;Automatic;Gasoline;7.1 l/100 km (comb.);159 g/km (comb.);639;t;;Blue  
+Audi RS6 ;€ 127,990.-;39,988 km;03/2020;441 kW (600 hp);4;Automatic;Gasoline;11.7 l/100 km (comb.);277 g/km (comb.);644;t;;Blue  
+Mercedes-Benz C 350 ;€ 31,980.-;98,500 km;02/2016;155 kW (211 hp);1;Automatic;Electric/Gasoline;2.1 l/100 km (comb.);49 g/km (comb.);651;t;;Blue  
+BMW 135 ;€ 40,900.-;24,375 km;06/2020;225 kW (306 hp);1;Automatic;Gasoline;- (l/100 km);154 g/km (comb.);652;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 134,890.-;59,719 km;10/2020;450 kW (612 hp);5;Automatic;Gasoline;11.1 l/100 km (comb.);254 g/km (comb.);653;t;;Blue  
+Hyundai i30 ;€ 24,990.-;65,396 km;08/2018;202 kW (275 hp);3;Manual;Gasoline;7.1 l/100 km (comb.);163 g/km (comb.);654;t;;Blue  
+Nissan 370Z ;€ 31,880.-;48,000 km;05/2019;241 kW (328 hp);3;Automatic;Gasoline;11.7 l/100 km (comb.);267 g/km (comb.);656;t;;Blue  
+Mercedes-Benz A 250 ;€ 30,935.-;50,768 km;11/2020;118 kW (160 hp);3;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);657;t;;Blue  
+Mercedes-Benz A 250 ;€ 30,935.-;50,768 km;11/2020;118 kW (160 hp);5;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);658;t;;Blue  
+Skoda Octavia ;€ 7,900.-;322,653 km;10/2013;110 kW (150 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);660;t;;Blue  
+BMW M6 ;€ 59,990.-;41,139 km;03/2016;412 kW (560 hp);3;Automatic;Gasoline;9.9 l/100 km (comb.);231 g/km (comb.);664;t;;Blue  
+Audi S3 ;€ 34,990.-;89,069 km;08/2017;228 kW (310 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);665;t;;Blue  
+Cupra Ateca ;€ 31,790.-;57,600 km;11/2019;221 kW (300 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);666;t;;Blue  
+BMW 440 ;€ 32,900.-;97,500 km;10/2016;240 kW (326 hp);3;Automatic;Gasoline;7.1 l/100 km (comb.);165 g/km (comb.);668;t;;Blue  
+Tesla Model Y ;€ 64,500.-;13,500 km;01/2022;331 kW (450 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);670;t;;Blue  
+Kia Sportage ;€ 26,782.-;28,242 km;07/2019;136 kW (185 hp);3;Automatic;Electric/Diesel;5.8 l/100 km (comb.);153 g/km (comb.);674;t;;Blue  
+Mercedes-Benz C 200 ;€ 23,890.-;115,145 km;07/2017;100 kW (136 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);112 g/km (comb.);675;t;;Blue  
+Mercedes-Benz GLE 350 ;€ 34,950.-;167,190 km;08/2015;190 kW (258 hp);2;Automatic;Diesel;6.4 l/100 km (comb.);169 g/km (comb.);679;t;;Blue  
+Mercedes-Benz A 250 ;€ 27,775.-;35,807 km;10/2020;118 kW (160 hp);1;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);683;t;;Blue  
+Mercedes-Benz A 250 ;€ 27,775.-;47,214 km;08/2020;118 kW (160 hp);3;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);684;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 53,800.-;99,500 km;05/2017;375 kW (510 hp);3;Automatic;Gasoline;8.2 l/100 km (comb.);192 g/km (comb.);685;t;;Blue  
+Audi A6 ;€ 33,970.-;119,470 km;02/2019;210 kW (286 hp);1;Automatic;Diesel;7.3 l/100 km;190 g/km (comb.);689;t;;Blue  
+BMW X1 ;€ 19,999.-;134,561 km;04/2017;140 kW (190 hp);2;Automatic;Diesel;4.9 l/100 km (comb.);129 g/km (comb.);690;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 64,970.-;53,096 km;08/2018;320 kW (435 hp);3;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);697;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 64,970.-;53,096 km;08/2018;320 kW (435 hp);2;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);699;t;;Blue  
+Cupra Leon ;€ 18,452.-;116,246 km;11/2016;213 kW (290 hp);5;Automatic;Gasoline;6.8 l/100 km (comb.);158 g/km (comb.);701;t;;Blue  
+Mercedes-Benz A 250 ;€ 35,755.-;49,446 km;12/2020;118 kW (160 hp);5;Automatic;Electric/Gasoline;14.8 kWh/100 km (comb.);- (g/km);704;t;;Blue  
+Mercedes-Benz E 350 ;€ 47,950.-;34,078 km;09/2019;220 kW (299 hp);5;Automatic;Gasoline;8.3 l/100 km;189 g/km (comb.);706;t;;Blue  
+Tesla Model 3 ;€ 36,950.-;31,600 km;12/2020;225 kW (306 hp);5;Automatic;Electric;- (l/100 km);0 g/km (comb.);707;t;;Blue  
+Chevrolet Astro ;€ 12,985.-;172,000 km;09/1997;139 kW (189 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);673;t;;Blue  
+Mercedes-Benz SLC 200 ;€ 34,995.-;1,945 km;06/2020;135 kW (184 hp);3;Manual;Gasoline;6.1 l/100 km (comb.);142 g/km (comb.);708;t;;Blue  
+Renault Koleos ;€ 13,950.-;82,123 km;07/2013;110 kW (150 hp);1;Manual;Diesel;- (l/100 km);- (g/km);716;t;;Blue  
+Mercedes-Benz S 350 ;€ 83,950.-;53,000 km;11/2020;210 kW (286 hp);2;Automatic;Diesel;6.2 l/100 km (comb.);162 g/km (comb.);759;t;;Blue  
+Volkswagen Golf ;€ 19,469.-;95,661 km;06/2018;135 kW (184 hp);4;Automatic;Diesel;4.4 l/100 km (comb.);117 g/km (comb.);760;t;;Blue  
+Audi A6 ;€ 19,930.-;162,674 km;06/2015;160 kW (218 hp);2;Automatic;Diesel;5.3 l/100 km (comb.);138 g/km (comb.);882;t;;Blue  
+Mercedes-Benz CL 500 ;€ 11,999.-;148,000 km;05/2005;225 kW (306 hp);2;Automatic;Gasoline;11.4 l/100 km (comb.);270 g/km (comb.);884;t;;Blue  
+Ford Galaxy ;€ 12,470.-;315,210 km;06/2017;132 kW (179 hp);5;- (Gear);Diesel;5.4 l/100 km (comb.);139 g/km (comb.);885;t;;Blue  
+Citroen C5 ;€ 11,990.-;90,331 km;03/2016;110 kW (150 hp);4;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);886;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 135,888.-;99,800 km;03/2020;450 kW (612 hp);5;Automatic;Gasoline;11.2 l/100 km (comb.);254 g/km (comb.);887;t;;Blue  
+BMW M8 ;€ 144,900.-;13,500 km;09/2020;460 kW (625 hp);5;Automatic;Gasoline;10.8 l/100 km (comb.);246 g/km (comb.);888;t;;Blue  
+BMW 225 ;€ 22,890.-;13,905 km;06/2019;165 kW (224 hp);1;Automatic;Electric/Gasoline;2.5 l/100 km (comb.);57 g/km (comb.);890;t;;Blue  
+Mercedes-Benz E 200 ;€ 23,980.-;93,190 km;05/2015;135 kW (184 hp);2;Automatic;Gasoline;6.1 l/100 km (comb.);138 g/km (comb.);893;t;;Blue  
+Jeep Grand Cherokee ;€ 84,800.-;68,358 km;08/2020;522 kW (710 hp);3;Automatic;Gasoline;13.5 l/100 km (comb.);315 g/km (comb.);894;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 68,900.-;18,400 km;04/2019;350 kW (476 hp);4;Automatic;Gasoline;9 l/100 km (comb.);227 g/km (comb.);901;t;;Blue  
+Volkswagen Sharan ;€ 19,700.-;211,021 km;10/2017;135 kW (184 hp);1;Automatic;Diesel;5.3 l/100 km (comb.);140 g/km (comb.);903;t;;Blue  
+Mercedes-Benz AMG GT ;€ 129,880.-;8,183 km;01/2022;320 kW (435 hp);4;Automatic;Gasoline;8.7 l/100 km (comb.);198 g/km (comb.);905;t;;Blue  
+BMW 420 ;€ 29,490.-;121,000 km;04/2019;135 kW (184 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);966;t;;Blue  
+Opel Astra ;€ 7,799.-;111,483 km;10/2013;96 kW (131 hp);1;Manual;Diesel;4.3 l/100 km (comb.);114 g/km (comb.);968;t;;Blue  
+Mercedes-Benz GLC 43 AMG ;€ 46,780.-;48,000 km;11/2018;270 kW (367 hp);4;Automatic;Gasoline;8.3 l/100 km (comb.);196 g/km (comb.);969;t;;Blue  
+Mercedes-Benz CLA 35 AMG ;€ 49,900.-;47,500 km;06/2020;225 kW (306 hp);4;Automatic;Gasoline;;171 g/km (comb.);971;t;;Blue  
+BMW 330 ;€ 5,990.-;280,900 km;07/2001;170 kW (231 hp);1;Automatic;Gasoline;9.6 l/100 km (comb.);230 g/km (comb.);972;t;;Blue  
+BMW X5 ;€ 79,490.-;44,000 km;12/2020;210 kW (286 hp);3;Automatic;Electric/Gasoline;1.7 l/100 km;30 g/km (comb.);973;t;;Blue  
+Mercedes-Benz EQC 400 ;€ 68,800.-;24,400 km;01/2021;300 kW (408 hp);3;Automatic;Electric;- (l/100 km);0 g/km (comb.);974;t;;Blue  
+Volkswagen Golf Variant ;€ 6,480.-;280,901 km;10/2013;110 kW (150 hp);1;Manual;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);975;t;;Blue  
+Porsche Panamera ;€ 84,950.-;99,999 km;07/2019;340 kW (462 hp);4;Automatic;Electric/Gasoline;2.6 l/100 km (comb.);56 g/km (comb.);979;t;;Blue  
+Audi A3 ;€ 15,699.-;132,037 km;10/2014;135 kW (184 hp);5;Manual;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);980;t;;Blue  
+Mercedes-Benz V 250 ;€ 56,870.-;124,520 km;08/2017;140 kW (190 hp);3;Automatic;Diesel;6.7 l/100 km (comb.);177 g/km (comb.);983;t;;Blue  
+Ford Mustang ;€ 49,999.-;12,500 km;04/2020;338 kW (460 hp);4;Manual;Gasoline;- (l/100 km);0 g/km (comb.);984;t;;Blue  
+Porsche Cayman ;€ 93,490.-;3,600 km;10/2021;294 kW (400 hp);5;Automatic;Gasoline;10.1 l/100 km;230 g/km (comb.);985;t;;Blue  
+Opel Astra ;€ 9,499.-;150,000 km;04/2018;81 kW (110 hp);1;Manual;Diesel;3.5 l/100 km (comb.);92 g/km (comb.);986;t;;Blue  
+Audi A6 ;€ 49,900.-;61,500 km;07/2019;210 kW (286 hp);2;Automatic;Diesel;5.6 l/100 km (comb.);151 g/km (comb.);987;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 77,630.-;14,900 km;05/2020;375 kW (510 hp);4;Automatic;Gasoline;10 l/100 km (comb.);229 g/km (comb.);988;t;;Blue  
+Audi A3 ;€ 18,900.-;94,943 km;10/2017;110 kW (150 hp);2;Manual;Diesel;- (l/100 km);- (g/km);993;t;;Blue  
+BMW M2 ;€ 50,950.-;59,206 km;10/2020;302 kW (411 hp);4;Automatic;Gasoline;9.2 l/100 km (comb.);209 g/km (comb.);997;t;;Blue  
+Fiat 595 Abarth ;€ 18,900.-;32,500 km;04/2018;118 kW (160 hp);5;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);999;t;;Blue  
+Skoda Superb ;€ 27,990.-;31,928 km;08/2016;206 kW (280 hp);1;Automatic;Gasoline;7.1 l/100 km (comb.);159 g/km (comb.);1000;t;;Blue  
+Audi RS6 ;€ 127,990.-;39,988 km;03/2020;441 kW (600 hp);1;Automatic;Gasoline;11.7 l/100 km (comb.);277 g/km (comb.);1005;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 134,890.-;59,719 km;10/2020;450 kW (612 hp);1;Automatic;Gasoline;11.1 l/100 km (comb.);254 g/km (comb.);1012;t;;Blue  
+Mazda CX-5 ;€ 19,985.-;76,900 km;02/2017;118 kW (160 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1789;t;;Blue  
+Audi A4 ;€ 23,980.-;100,000 km;05/2019;110 kW (150 hp);1;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1299;t;;Blue  
+Mercedes-Benz A 180 ;€ 19,400.-;73,179 km;03/2015;90 kW (122 hp);3;Automatic;Gasoline;5.5 l/100 km (comb.);127 g/km (comb.);1302;t;;Blue  
+Audi A4 ;€ 30,980.-;65,300 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1306;t;;Blue  
+Audi A4 ;€ 31,480.-;51,300 km;05/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1307;t;;Blue  
+BMW 135 ;€ 40,900.-;24,375 km;06/2020;225 kW (306 hp);2;Automatic;Gasoline;- (l/100 km);154 g/km (comb.);1013;t;;Blue  
+Mercedes-Benz C 350 ;€ 31,980.-;98,500 km;02/2016;155 kW (211 hp);5;Automatic;Electric/Gasoline;2.1 l/100 km (comb.);49 g/km (comb.);1014;t;;Blue  
+Hyundai i30 ;€ 24,990.-;65,396 km;08/2018;202 kW (275 hp);2;Manual;Gasoline;7.1 l/100 km (comb.);163 g/km (comb.);1015;t;;Blue  
+Nissan 370Z ;€ 31,880.-;48,000 km;05/2019;241 kW (328 hp);5;Automatic;Gasoline;11.7 l/100 km (comb.);267 g/km (comb.);1016;t;;Blue  
+Mercedes-Benz A 250 ;€ 30,935.-;50,768 km;11/2020;118 kW (160 hp);4;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);1019;t;;Blue  
+Skoda Octavia ;€ 7,900.-;322,653 km;10/2013;110 kW (150 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1021;t;;Blue  
+Audi S3 ;€ 34,990.-;89,069 km;08/2017;228 kW (310 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1022;t;;Blue  
+BMW M6 ;€ 59,990.-;41,139 km;03/2016;412 kW (560 hp);1;Automatic;Gasoline;9.9 l/100 km (comb.);231 g/km (comb.);1023;t;;Blue  
+Cupra Ateca ;€ 31,790.-;57,600 km;11/2019;221 kW (300 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1027;t;;Blue  
+BMW 440 ;€ 32,900.-;97,500 km;10/2016;240 kW (326 hp);3;Automatic;Gasoline;7.1 l/100 km (comb.);165 g/km (comb.);1028;t;;Blue  
+Tesla Model Y ;€ 64,500.-;13,500 km;01/2022;331 kW (450 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);1029;t;;Blue  
+Kia Sportage ;€ 26,782.-;28,242 km;07/2019;136 kW (185 hp);2;Automatic;Electric/Diesel;5.8 l/100 km (comb.);153 g/km (comb.);1033;t;;Blue  
+Mercedes-Benz C 200 ;€ 23,890.-;115,145 km;07/2017;100 kW (136 hp);5;Automatic;Diesel;4.4 l/100 km (comb.);112 g/km (comb.);1035;t;;Blue  
+Audi A4 ;€ 18,990.-;98,646 km;01/2017;90 kW (122 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1039;t;;Blue  
+Mercedes-Benz GLE 350 ;€ 34,950.-;167,190 km;08/2015;190 kW (258 hp);5;Automatic;Diesel;6.4 l/100 km (comb.);169 g/km (comb.);1041;t;;Blue  
+Mercedes-Benz A 250 ;€ 27,775.-;35,807 km;10/2020;118 kW (160 hp);5;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);1045;t;;Blue  
+Mercedes-Benz A 250 ;€ 27,775.-;47,214 km;08/2020;118 kW (160 hp);5;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);1046;t;;Blue  
+Mercedes-Benz C 63 AMG ;€ 53,800.-;99,500 km;05/2017;375 kW (510 hp);4;Automatic;Gasoline;8.2 l/100 km (comb.);192 g/km (comb.);1047;t;;Blue  
+Audi A6 ;€ 33,970.-;119,470 km;02/2019;210 kW (286 hp);2;Automatic;Diesel;7.3 l/100 km;190 g/km (comb.);1049;t;;Blue  
+Renault Koleos ;€ 13,950.-;82,123 km;07/2013;110 kW (150 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1075;t;;Blue  
+Audi SQ8 ;€ 114,970.-;36,450 km;02/2021;373 kW (507 hp);3;Automatic;Gasoline;12.9 l/100 km;293 g/km (comb.);1076;t;;Blue  
+Audi A7 ;€ 44,970.-;117,650 km;03/2018;250 kW (340 hp);5;Automatic;Gasoline;7.2 l/100 km (comb.);163 g/km (comb.);1077;t;;Blue  
+Volkswagen Polo ;€ 4,780.-;226,500 km;04/2010;55 kW (75 hp);4;Manual;Diesel;3.4 l/100 km (comb.);89 g/km (comb.);1078;t;;Blue  
+Audi A7 ;€ 44,970.-;117,650 km;03/2018;250 kW (340 hp);4;Automatic;Gasoline;7.2 l/100 km (comb.);163 g/km (comb.);1079;t;;Blue  
+Audi A5 ;€ 17,990.-;36,700 km;07/2011;125 kW (170 hp);5;Manual;Diesel;5.3 l/100 km (comb.);134 g/km (comb.);1082;t;;Blue  
+Mercedes-Benz S 63 AMG ;€ 105,990.-;80,000 km;04/2018;430 kW (585 hp);1;Automatic;Gasoline;10.3 l/100 km (comb.);242 g/km (comb.);1083;t;;Blue  
+BMW i8 ;€ 99,900.-;33,000 km;08/2019;268 kW (364 hp);1;Automatic;Electric/Gasoline;2 l/100 km (comb.);49 g/km (comb.);1084;t;;Blue  
+Kia e-Niro ;€ 36,950.-;45,663 km;07/2019;150 kW (204 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);1085;t;;Blue  
+Mercedes-Benz GLE 53 AMG ;€ 109,850.-;6,209 km;01/2022;320 kW (435 hp);4;Automatic;Gasoline;9.6 l/100 km (comb.);220 g/km (comb.);1086;t;;Blue  
+Volvo XC90 ;€ 49,450.-;73,800 km;05/2018;223 kW (303 hp);1;Automatic;Gasoline;;59 g/km (comb.);1087;t;;Blue  
+BMW 520 ;€ 6,899.-;185,000 km;11/2007;130 kW (177 hp);2;Manual;Diesel;- (l/100 km);149 g/km (comb.);1088;t;;Blue  
+Porsche Panamera ;€ 89,900.-;113,000 km;08/2017;310 kW (421 hp);3;Automatic;Diesel;6.7 l/100 km (comb.);176 g/km (comb.);1089;t;;Blue  
+Skoda Superb ;€ 26,900.-;111,189 km;12/2020;115 kW (156 hp);1;Automatic;Electric/Gasoline;1.5 l/100 km (comb.);- (g/km);1090;t;;Blue  
+Mercedes-Benz AMG GT ;€ 131,835.-;45,642 km;10/2019;470 kW (639 hp);5;Automatic;Gasoline;11.3 l/100 km (comb.);257 g/km (comb.);1092;t;;Blue  
+Hyundai i30 ;€ 24,475.-;42,715 km;10/2019;202 kW (275 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1095;t;;Blue  
+BMW X3 ;€ 59,999.-;2,915 km;01/2021;215 kW (292 hp);5;Automatic;Electric/Gasoline;2.4 l/100 km (comb.);47 g/km (comb.);1096;t;;Blue  
+BMW 218 ;€ 15,950.-;130,000 km;06/2019;110 kW (150 hp);1;Manual;Diesel;4.6 l/100 km (comb.);120 g/km (comb.);1099;t;;Blue  
+Audi A3 ;€ 8,290.-;206,500 km;08/2011;103 kW (140 hp);4;Manual;Diesel;5.1 l/100 km (comb.);135 g/km (comb.);1101;t;;Blue  
+Volkswagen Golf Plus ;€ 11,450.-;66,825 km;08/2009;118 kW (160 hp);4;Automatic;Gasoline;6.3 l/100 km (comb.);147 g/km (comb.);1103;t;;Blue  
+Others ;€ 69,990.-;465,000 km;01/1999;213 kW (290 hp);3;Manual;Diesel;- (l/100 km);0 g/km (comb.);1104;t;;Blue  
+Others ;€ 69,990.-;465,000 km;01/1999;213 kW (290 hp);3;Manual;Diesel;- (l/100 km);0 g/km (comb.);1105;t;;Blue  
+Nissan Qashqai ;€ 14,970.-;139,000 km;04/2014;96 kW (131 hp);1;Manual;Diesel;- (l/100 km);- (g/km);1775;t;;Blue  
+Audi A4 ;€ 24,480.-;102,000 km;03/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1308;t;;Blue  
+Volkswagen Passat Variant ;€ 25,980.-;117,600 km;07/2020;110 kW (150 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);1365;t;;Blue  
+Volkswagen Passat Alltrack ;€ 29,980.-;129,500 km;04/2018;140 kW (190 hp);4;Automatic;Diesel;5.3 l/100 km (comb.);138 g/km (comb.);1373;t;;Blue  
+Audi A6 allroad ;€ 19,985.-;150,000 km;04/2013;150 kW (204 hp);1;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1106;t;;Blue  
+Audi SQ8 ;€ 95,749.-;76,450 km;11/2019;320 kW (435 hp);4;Automatic;Diesel;7.8 l/100 km (comb.);204 g/km (comb.);1110;t;;Blue  
+Mercedes-Benz E 53 AMG ;€ 55,990.-;96,000 km;02/2019;320 kW (435 hp);2;Automatic;Gasoline;8.7 l/100 km (comb.);200 g/km (comb.);1112;t;;Blue  
+BMW 330 ;€ 28,380.-;50,000 km;05/2018;185 kW (252 hp);2;Automatic;Electric/Gasoline;2.1 l/100 km (comb.);49 g/km (comb.);1113;t;;Blue  
+BMW 440 ;€ 29,800.-;77,900 km;08/2016;240 kW (326 hp);5;Automatic;Gasoline;6.6 l/100 km (comb.);154 g/km (comb.);1115;t;;Blue  
+Kia Carens ;€ 5,950.-;224,388 km;04/2014;99 kW (135 hp);5;Automatic;Gasoline;6.8 l/100 km (comb.);161 g/km (comb.);1117;t;;Blue  
+Mercedes-Benz S 350 ;€ 83,950.-;53,000 km;11/2020;210 kW (286 hp);3;Automatic;Diesel;6.2 l/100 km (comb.);162 g/km (comb.);1119;t;;Blue  
+Volkswagen Golf ;€ 19,469.-;95,661 km;06/2018;135 kW (184 hp);5;Automatic;Diesel;4.4 l/100 km (comb.);117 g/km (comb.);1122;t;;Blue  
+Mercedes-Benz A 250 ;€ 28,885.-;30,901 km;08/2020;118 kW (160 hp);1;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);1124;t;;Blue  
+BMW 216 ;€ 17,950.-;59,000 km;06/2018;85 kW (116 hp);4;Manual;Diesel;4 l/100 km (comb.);106 g/km (comb.);1125;t;;Blue  
+BMW 750 ;€ 34,499.-;51,678 km;05/2015;330 kW (449 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1093;t;;Blue  
+Mercedes-Benz A 250 ;€ 29,985.-;21,973 km;12/2020;118 kW (160 hp);3;Automatic;Electric/Gasoline;- (l/100 km);0 g/km (comb.);1130;t;;Blue  
+Volkswagen Golf ;€ 13,980.-;77,000 km;11/1989;128 kW (174 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1131;t;;Blue  
+Volkswagen Golf ;€ 18,980.-;129,500 km;02/2018;110 kW (150 hp);4;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1261;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;134,700 km;02/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1264;t;;Blue  
+Volkswagen Golf ;€ 15,870.-;135,700 km;05/2019;85 kW (116 hp);2;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1266;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;125,900 km;04/2018;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1269;t;;Blue  
+Volkswagen Golf ;€ 16,480.-;138,800 km;03/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1270;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;101,400 km;01/2020;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1272;t;;Blue  
+Volkswagen Scirocco ;€ 12,450.-;122,183 km;08/2014;90 kW (122 hp);2;Manual;Gasoline;5.4 l/100 km (comb.);125 g/km (comb.);1275;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;128,900 km;03/2019;110 kW (150 hp);3;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1276;t;;Blue  
+Volkswagen Golf ;€ 17,480.-;118,500 km;08/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1277;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;75,000 km;05/2019;85 kW (116 hp);3;Automatic;Diesel;4 l/100 km (comb.);106 g/km (comb.);1281;t;;Blue  
+Volkswagen Golf ;€ 18,370.-;71,700 km;06/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1282;t;;Blue  
+Volkswagen Golf ;€ 18,370.-;82,500 km;03/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1283;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;103,800 km;06/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1284;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;32,200 km;05/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1285;t;;Blue  
+Ford B-Max ;€ 7,000.-;149,777 km;03/2015;74 kW (101 hp);4;Manual;Gasoline;4.7 l/100 km;114 g/km (comb.);1288;t;;Blue  
+BMW M4 ;€ 104,990.-;9,200 km;02/2022;375 kW (510 hp);4;Automatic;Gasoline;10.2 l/100 km (comb.);0 g/km (comb.);1289;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;63,300 km;09/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1290;t;;Blue  
+Volkswagen Golf ;€ 17,980.-;108,000 km;03/2020;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1292;t;;Blue  
+Chevrolet Matiz ;€ 2,500.-;87,654 km;10/2005;38 kW (52 hp);3;Manual;Gasoline;5.2 l/100 km (comb.);127 g/km (comb.);1293;t;;Blue  
+Volkswagen Golf GTI ;€ 32,480.-;32,900 km;01/2020;180 kW (245 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1296;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;110,000 km;10/2018;85 kW (116 hp);3;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1297;t;;Blue  
+Audi A4 ;€ 27,980.-;117,000 km;06/2019;110 kW (150 hp);3;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1298;t;;Blue  
+BMW 320 ;€ 29,900.-;49,600 km;11/2019;140 kW (190 hp);3;Manual;Diesel;4.6 l/100 km (comb.);119 g/km (comb.);1311;t;;Blue  
+Audi A4 ;€ 28,980.-;69,500 km;03/2019;110 kW (150 hp);4;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1312;t;;Blue  
+Audi A4 ;€ 29,480.-;54,600 km;03/2019;110 kW (150 hp);4;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1315;t;;Blue  
+Audi A4 ;€ 30,980.-;60,100 km;05/2019;110 kW (150 hp);1;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1317;t;;Blue  
+Audi A3 ;€ 23,980.-;63,500 km;06/2019;81 kW (110 hp);3;Automatic;Diesel;3.7 l/100 km (comb.);102 g/km (comb.);1329;t;;Blue  
+Suzuki Swift ;€ 7,800.-;65,000 km;04/2012;55 kW (75 hp);1;Manual;Diesel;4.2 l/100 km (comb.);109 g/km (comb.);1330;t;;Blue  
+Skoda Octavia ;€ 23,480.-;130,700 km;12/2018;135 kW (184 hp);4;Automatic;Diesel;4.9 l/100 km (comb.);118 g/km (comb.);1336;t;;Blue  
+Skoda Octavia ;€ 29,980.-;94,900 km;10/2019;135 kW (184 hp);3;Automatic;Diesel;5.1 l/100 km (comb.);139 g/km (comb.);1337;t;;Blue  
+Skoda Octavia ;€ 22,480.-;120,200 km;07/2018;135 kW (184 hp);3;Manual;Diesel;4.5 l/100 km (comb.);119 g/km (comb.);1338;t;;Blue  
+Skoda Octavia ;€ 18,980.-;103,200 km;03/2018;110 kW (150 hp);2;Automatic;Diesel;4.6 l/100 km (comb.);119 g/km (comb.);1340;t;;Blue  
+Skoda Octavia ;€ 21,480.-;152,800 km;10/2018;110 kW (150 hp);2;Automatic;Diesel;5 l/100 km (comb.);129 g/km (comb.);1343;t;;Blue  
+Volvo 850 ;€ 2,750.-;332,000 km;12/1995;106 kW (144 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1884;t;;Blue  
+Volkswagen Passat Alltrack ;€ 27,480.-;128,600 km;08/2018;140 kW (190 hp);1;Automatic;Diesel;5.2 l/100 km (comb.);137 g/km (comb.);1374;t;;Blue  
+Dacia Sandero ;€ 6,200.-;63,700 km;12/2013;55 kW (75 hp);2;Manual;Gasoline;5.8 l/100 km (comb.);137 g/km (comb.);1377;t;;Blue  
+Opel Corsa ;€ 2,700.-;193,800 km;12/2010;51 kW (69 hp);1;Manual;Gasoline;5.3 l/100 km (comb.);124 g/km (comb.);1378;t;;Blue  
+Kia Ceed SW / cee'd SW ;€ 8,999.-;99,800 km;06/2013;73 kW (99 hp);2;Manual;Gasoline;6.5 l/100 km (comb.);154 g/km (comb.);1379;t;;Blue  
+Ford Fiesta ;€ 8,700.-;58,700 km;11/2016;60 kW (82 hp);2;Manual;Gasoline;5.2 l/100 km (comb.);122 g/km (comb.);1380;t;;Blue  
+BMW X7 ;€ 105,000.-;46,000 km;06/2021;250 kW (340 hp);5;Automatic;Diesel;6.4 l/100 km (comb.);167 g/km (comb.);1383;t;;Blue  
+Skoda Fabia ;€ 11,990.-;40,000 km;05/2018;55 kW (75 hp);5;Manual;Gasoline;4.9 l/100 km (comb.);111 g/km (comb.);1384;t;;Blue  
+BMW X3 ;€ 18,990.-;180,000 km;10/2012;190 kW (258 hp);2;Automatic;Diesel;5 l/100 km (comb.);159 g/km (comb.);1385;t;;Blue  
+Fiat 500C ;€ 13,990.-;38,500 km;12/2019;63 kW (86 hp);5;Manual;Gasoline;4.8 l/100 km (comb.);110 g/km (comb.);1386;t;;Blue  
+Jeep Wrangler ;€ 30,990.-;68,100 km;07/2012;147 kW (200 hp);1;Automatic;Diesel;8 l/100 km (comb.);217 g/km (comb.);1387;t;;Blue  
+Alfa Romeo Stelvio ;€ 27,990.-;106,500 km;07/2018;132 kW (179 hp);4;Automatic;Diesel;4.7 l/100 km (comb.);124 g/km (comb.);1388;t;;Blue  
+Mercedes-Benz B 170 ;€ 2,900.-;160,709 km;05/2006;85 kW (116 hp);5;Manual;LPG;7.1 l/100 km (comb.);171 g/km (comb.);1389;t;;Blue  
+Volkswagen Golf ;€ 5,000.-;86,000 km;06/2004;75 kW (102 hp);2;Manual;Gasoline;7.2 l/100 km (comb.);173 g/km (comb.);1390;t;;Blue  
+Nissan Qashqai ;€ 14,970.-;139,000 km;04/2014;96 kW (131 hp);2;Manual;Diesel;- (l/100 km);- (g/km);1396;t;;Blue  
+Porsche 911 ;€ 234,911.-;3,200 km;06/2022;375 kW (510 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1397;t;;Blue  
+Peugeot 508 ;€ 9,985.-;132,900 km;10/2013;103 kW (140 hp);3;Manual;Diesel;4.8 l/100 km (comb.);125 g/km (comb.);1403;t;;Blue  
+Isuzu D-Max ;€ 22,985.-;129,800 km;06/2017;120 kW (163 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1404;t;;Blue  
+Mazda CX-5 ;€ 19,985.-;76,900 km;02/2017;118 kW (160 hp);3;Manual;Gasoline;- (l/100 km);- (g/km);1409;t;;Blue  
+Kia Sportage ;€ 7,485.-;75,900 km;06/2006;103 kW (140 hp);3;Automatic;Diesel;- (l/100 km);- (g/km);1413;t;;Blue  
+Volvo XC90 ;€ 4,985.-;150,000 km;09/2005;120 kW (163 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);1414;t;;Blue  
+Land Rover Discovery Sport ;€ 14,985.-;229,000 km;01/2017;110 kW (150 hp);2;Manual;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1419;t;;Blue  
+BMW 428 ;€ 26,965.-;95,000 km;01/2016;180 kW (245 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1428;t;;Blue  
+Hyundai TUCSON ;€ 18,685.-;118,000 km;09/2015;100 kW (136 hp);5;Manual;Diesel;5.2 l/100 km (comb.);139 g/km (comb.);1438;t;;Blue  
+Audi A6 allroad ;€ 19,985.-;150,000 km;04/2013;150 kW (204 hp);3;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1439;t;;Blue  
+Hyundai i30 ;€ 13,285.-;100,000 km;03/2015;99 kW (135 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1440;t;;Blue  
+Subaru XV ;€ 14,985.-;134,000 km;01/2015;110 kW (150 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1443;t;;Blue  
+smart forFour ;€ 18,500.-;15,000 km;02/2020;41 kW (56 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);1445;t;;Blue  
+Opel Astra ;€ 3,000.-;171,500 km;08/2007;77 kW (105 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1446;t;;Blue  
+BMW 116 ;€ 16,700.-;113,000 km;06/2018;80 kW (109 hp);4;Manual;Gasoline;6 l/100 km;130 g/km (comb.);1447;t;;Blue  
+Fiat Grande Punto ;€ 4,499.-;239,000 km;06/2007;66 kW (90 hp);1;Manual;Diesel;4.7 l/100 km (comb.);119 g/km (comb.);1448;t;;Blue  
+Toyota Yaris ;€ 5,900.-;125,000 km;06/2010;51 kW (69 hp);3;Manual;Gasoline;5 l/100 km (comb.);118 g/km (comb.);1451;t;;Blue  
+Mercedes-Benz EQC 400 ;€ 61,690.-;56,650 km;11/2020;300 kW (408 hp);5;Automatic;Electric;22.6 kWh/100 km;0 g/km (comb.);1456;t;;Blue  
+Volkswagen Polo ;€ 3,950.-;76,000 km;08/2004;55 kW (75 hp);3;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1458;t;;Blue  
+Daihatsu Sirion ;€ 5,290.-;50,900 km;03/2012;51 kW (69 hp);4;Manual;Gasoline;5 l/100 km (comb.);118 g/km (comb.);1459;t;;Blue  
+Peugeot 206 ;€ 3,890.-;63,470 km;07/2009;44 kW (60 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1461;t;;Blue  
+Renault Twingo ;€ 4,290.-;87,000 km;07/2011;55 kW (75 hp);5;Manual;Gasoline;4.5 l/100 km (comb.);105 g/km (comb.);1462;t;;Blue  
+SEAT Ibiza ;€ 4,390.-;36,000 km;10/2003;55 kW (75 hp);1;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1463;t;;Blue  
+Opel Corsa ;€ 11,500.-;63,307 km;05/2019;66 kW (90 hp);5;Manual;Gasoline;3.2 l/100 km (comb.);94 g/km (comb.);1464;t;;Blue  
+Mazda CX-5 ;€ 14,980.-;169,704 km;04/2012;121 kW (165 hp);2;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);1465;t;;Blue  
+Kia Picanto ;€ 4,400.-;80,000 km;06/2009;44 kW (60 hp);5;Manual;LPG;4 l/100 km (comb.);- (g/km);1474;t;;Blue  
+Mercedes-Benz SL 500 ;€ 43,500.-;36,985 km;05/2008;285 kW (387 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1475;t;;Blue  
+Suzuki Jimny ;€ 11,990.-;37,000 km;03/2007;63 kW (86 hp);3;Manual;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1478;t;;Blue  
+Mercedes-Benz Vito ;€ 21,780.-;122,992 km;01/2018;100 kW (136 hp);2;Manual;Diesel;- (l/100 km);164 g/km (comb.);1479;t;;Blue  
+BMW 220 ;€ 16,900.-;105,000 km;07/2015;140 kW (190 hp);5;Automatic;Diesel;4.3 l/100 km (comb.);112 g/km (comb.);1480;t;;Blue  
+Volkswagen Golf ;€ 30,440.-;13,554 km;11/2021;110 kW (150 hp);3;Automatic;Diesel;3.9 l/100 km (comb.);103 g/km (comb.);1481;t;;Blue  
+Volvo XC60 ;€ 10,450.-;167,359 km;03/2013;120 kW (163 hp);2;Manual;Diesel;5.7 l/100 km (comb.);149 g/km (comb.);1484;t;;Blue  
+Mercedes-Benz C 300 ;€ 41,900.-;24,550 km;09/2020;143 kW (194 hp);5;Automatic;Others;1.6 l/100 km (comb.);- (g/km);1486;t;;Blue  
+Porsche Macan ;€ 59,500.-;40,900 km;04/2019;180 kW (245 hp);3;Automatic;Gasoline;8.1 l/100 km (comb.);- (g/km);1488;t;;Blue  
+Land Rover Defender ;€ 22,000.-;302,000 km;11/1999;90 kW (122 hp);5;Manual;Diesel;10.5 l/100 km (comb.);1 g/km (comb.);1489;t;;Blue  
+Audi A4 ;€ 27,980.-;117,000 km;06/2019;110 kW (150 hp);1;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1678;t;;Blue  
+Mercedes-Benz A 180 ;€ 16,400.-;179,988 km;11/2014;90 kW (122 hp);1;Automatic;Gasoline;5.7 l/100 km (comb.);133 g/km (comb.);1490;t;;Blue  
+Audi A3 ;€ 20,490.-;60,000 km;01/2019;85 kW (116 hp);4;Automatic;Diesel;3.9 l/100 km (comb.);136 g/km (comb.);1492;t;;Blue  
+BMW 530 ;€ 26,900.-;232,000 km;07/2017;195 kW (265 hp);5;Automatic;Diesel;5 l/100 km (comb.);124 g/km (comb.);1496;t;;Blue  
+Tesla Model S ;€ 59,990.-;68,200 km;12/2019;413 kW (562 hp);1;Automatic;Electric;- (l/100 km);0 g/km (comb.);1497;t;;Blue  
+BMW X5 ;€ 8,800.-;230,341 km;09/2004;160 kW (218 hp);2;Automatic;Diesel;8.6 l/100 km (comb.);229 g/km (comb.);1498;t;;Blue  
+Ford Fiesta ;€ 12,890.-;42,000 km;02/2019;52 kW (71 hp);3;Manual;Gasoline;5.2 l/100 km (comb.);117 g/km (comb.);1502;t;;Blue  
+Volvo 850 ;€ 2,750.-;332,000 km;12/1995;106 kW (144 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1503;t;;Blue  
+Volkswagen Polo ;€ 6,900.-;180,476 km;01/2012;66 kW (90 hp);4;Manual;Gasoline;5.1 l/100 km (comb.);119 g/km (comb.);1507;t;;Blue  
+Nissan Qashqai ;€ 18,300.-;20,600 km;12/2019;103 kW (140 hp);4;Manual;Gasoline;5.3 l/100 km (comb.);121 g/km (comb.);1508;t;;Blue  
+Fiat Multipla ;€ 2,200.-;185,000 km;04/2006;68 kW (92 hp);2;Manual;CNG;6.3 kg/100 km (comb.);161 g/km (comb.);1512;t;;Blue  
+Renault Megane ;€ 5,500.-;168,000 km;07/2010;81 kW (110 hp);4;Manual;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);1514;t;;Blue  
+Skoda Octavia ;€ 4,400.-;311,000 km;11/2011;77 kW (105 hp);1;Manual;Diesel;- (l/100 km);- (g/km);1515;t;;Blue  
+Audi A3 ;€ 3,700.-;112,000 km;04/2003;75 kW (102 hp);3;Manual;Gasoline;6.8 l/100 km (comb.);161 g/km (comb.);1518;t;;Blue  
+Fiat Panda ;€ 4,600.-;199,003 km;08/2006;40 kW (54 hp);3;Manual;Gasoline;5.7 l/100 km (comb.);135 g/km (comb.);1519;t;;Blue  
+smart forFour ;€ 10,500.-;50,000 km;02/2016;52 kW (71 hp);5;Automatic;Gasoline;4.2 l/100 km (comb.);98 g/km (comb.);1520;t;;Blue  
+Opel Agila ;€ 2,990.-;161,223 km;07/2003;43 kW (58 hp);2;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1521;t;;Blue  
+Skoda Kodiaq ;€ 45,490.-;34,430 km;11/2019;176 kW (239 hp);5;Automatic;Diesel;6.4 l/100 km (comb.);213 g/km (comb.);1523;t;;Blue  
+Volkswagen Polo GTI ;€ 23,980.-;21,400 km;02/2020;147 kW (200 hp);4;Automatic;Gasoline;5.9 l/100 km (comb.);138 g/km (comb.);1594;t;;Blue  
+Volkswagen Polo ;€ 16,480.-;84,500 km;05/2019;70 kW (95 hp);3;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1596;t;;Blue  
+Volkswagen Polo ;€ 15,980.-;111,600 km;01/2019;70 kW (95 hp);2;Manual;Diesel;3.8 l/100 km (comb.);99 g/km (comb.);1601;t;;Blue  
+Renault ;€ 10,500.-;137,710 km;04/2017;55 kW (75 hp);4;Manual;Diesel;5.2 l/100 km (comb.);- (g/km);1603;t;;Blue  
+Jeep Cherokee ;€ 17,950.-;140,000 km;07/1985;86 kW (117 hp);3;Automatic;Gasoline;10 l/100 km (comb.);- (g/km);1604;t;;Blue  
+Volkswagen Polo ;€ 14,980.-;97,300 km;02/2019;70 kW (95 hp);2;Manual;Diesel;3.7 l/100 km (comb.);99 g/km (comb.);1605;t;;Blue  
+Volkswagen Polo ;€ 15,980.-;82,000 km;04/2019;70 kW (95 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1608;t;;Blue  
+Volkswagen Polo ;€ 17,980.-;48,800 km;04/2019;70 kW (95 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1610;t;;Blue  
+Volkswagen Polo ;€ 16,980.-;86,300 km;12/2018;70 kW (95 hp);2;Manual;Gasoline;- (l/100 km);- (g/km);1614;t;;Blue  
+Toyota Auris ;€ 8,999.-;169,999 km;05/2016;82 kW (111 hp);2;Manual;Diesel;4.7 l/100 km (comb.);110 g/km (comb.);1617;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;127,400 km;04/2018;110 kW (150 hp);4;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1633;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;93,100 km;01/2020;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1635;t;;Blue  
+Bentley Continental ;€ 100,000.-;112,000 km;12/2010;412 kW (560 hp);5;Semi-automatic;Gasoline;- (l/100 km);- (g/km);1639;t;;Blue  
+Volkswagen Golf ;€ 18,980.-;129,500 km;02/2018;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1641;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;134,700 km;02/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1644;t;;Blue  
+Volkswagen Golf ;€ 15,870.-;135,700 km;05/2019;85 kW (116 hp);2;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1646;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;125,900 km;04/2018;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1649;t;;Blue  
+Volkswagen Golf ;€ 16,480.-;138,800 km;03/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1650;t;;Blue  
+Volkswagen Golf ;€ 18,480.-;101,400 km;01/2020;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1652;t;;Blue  
+Volkswagen Scirocco ;€ 12,450.-;122,183 km;08/2014;90 kW (122 hp);5;Manual;Gasoline;5.4 l/100 km (comb.);125 g/km (comb.);1655;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;128,900 km;03/2019;110 kW (150 hp);3;Automatic;Diesel;4.5 l/100 km (comb.);115 g/km (comb.);1656;t;;Blue  
+Volkswagen Golf ;€ 17,480.-;118,500 km;08/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1657;t;;Blue  
+Volkswagen Golf ;€ 19,980.-;75,000 km;05/2019;85 kW (116 hp);1;Automatic;Diesel;4 l/100 km (comb.);106 g/km (comb.);1661;t;;Blue  
+Volkswagen Golf ;€ 18,370.-;71,700 km;06/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1662;t;;Blue  
+Volkswagen Golf ;€ 18,370.-;82,500 km;03/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1663;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;103,800 km;06/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1664;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;32,200 km;05/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1665;t;;Blue  
+Ford B-Max ;€ 7,000.-;149,777 km;03/2015;74 kW (101 hp);2;Manual;Gasoline;4.7 l/100 km;114 g/km (comb.);1668;t;;Blue  
+BMW M4 ;€ 104,990.-;9,200 km;02/2022;375 kW (510 hp);3;Automatic;Gasoline;10.2 l/100 km (comb.);0 g/km (comb.);1669;t;;Blue  
+Volkswagen Golf ;€ 19,480.-;63,300 km;09/2019;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1670;t;;Blue  
+Volkswagen Golf ;€ 17,980.-;108,000 km;03/2020;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1672;t;;Blue  
+Chevrolet Matiz ;€ 2,500.-;87,654 km;10/2005;38 kW (52 hp);2;Manual;Gasoline;5.2 l/100 km (comb.);127 g/km (comb.);1673;t;;Blue  
+Volkswagen Golf GTI ;€ 32,480.-;32,900 km;01/2020;180 kW (245 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1676;t;;Blue  
+Volkswagen Golf ;€ 16,980.-;110,000 km;10/2018;85 kW (116 hp);2;Automatic;Diesel;4.2 l/100 km (comb.);108 g/km (comb.);1677;t;;Blue  
+Audi A4 ;€ 23,980.-;100,000 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;3.9 l/100 km (comb.);114 g/km (comb.);1679;t;;Blue  
+Mercedes-Benz A 180 ;€ 19,400.-;73,179 km;03/2015;90 kW (122 hp);4;Automatic;Gasoline;5.5 l/100 km (comb.);127 g/km (comb.);1682;t;;Blue  
+Audi A4 ;€ 30,980.-;65,300 km;05/2019;110 kW (150 hp);3;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1686;t;;Blue  
+Audi A4 ;€ 31,480.-;51,300 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1687;t;;Blue  
+Audi A4 ;€ 24,480.-;102,000 km;03/2019;110 kW (150 hp);1;Automatic;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1688;t;;Blue  
+BMW 320 ;€ 29,900.-;49,600 km;11/2019;140 kW (190 hp);3;Manual;Diesel;4.6 l/100 km (comb.);119 g/km (comb.);1691;t;;Blue  
+Audi A4 ;€ 28,980.-;69,500 km;03/2019;110 kW (150 hp);4;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1692;t;;Blue  
+Audi A4 ;€ 29,480.-;54,600 km;03/2019;110 kW (150 hp);1;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1695;t;;Blue  
+Audi A4 ;€ 30,980.-;60,100 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1697;t;;Blue  
+Audi A3 ;€ 23,980.-;63,500 km;06/2019;81 kW (110 hp);5;Automatic;Diesel;3.7 l/100 km (comb.);102 g/km (comb.);1709;t;;Blue  
+Suzuki Swift ;€ 7,800.-;65,000 km;04/2012;55 kW (75 hp);4;Manual;Diesel;4.2 l/100 km (comb.);109 g/km (comb.);1710;t;;Blue  
+Skoda Octavia ;€ 23,480.-;130,700 km;12/2018;135 kW (184 hp);5;Automatic;Diesel;4.9 l/100 km (comb.);118 g/km (comb.);1716;t;;Blue  
+Skoda Octavia ;€ 29,980.-;94,900 km;10/2019;135 kW (184 hp);2;Automatic;Diesel;5.1 l/100 km (comb.);139 g/km (comb.);1717;t;;Blue  
+Skoda Octavia ;€ 22,480.-;120,200 km;07/2018;135 kW (184 hp);5;Manual;Diesel;4.5 l/100 km (comb.);119 g/km (comb.);1718;t;;Blue  
+Skoda Octavia ;€ 18,980.-;103,200 km;03/2018;110 kW (150 hp);5;Automatic;Diesel;4.6 l/100 km (comb.);119 g/km (comb.);1720;t;;Blue  
+Skoda Octavia ;€ 21,480.-;152,800 km;10/2018;110 kW (150 hp);2;Automatic;Diesel;5 l/100 km (comb.);129 g/km (comb.);1723;t;;Blue  
+Skoda Octavia ;€ 17,480.-;145,000 km;10/2018;85 kW (116 hp);5;Automatic;Diesel;4 l/100 km (comb.);105 g/km (comb.);1725;t;;Blue  
+Skoda Octavia ;€ 15,980.-;148,700 km;09/2017;85 kW (116 hp);4;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1728;t;;Blue  
+Skoda Octavia ;€ 17,480.-;132,000 km;06/2018;85 kW (116 hp);1;Automatic;Diesel;4 l/100 km (comb.);105 g/km (comb.);1731;t;;Blue  
+Skoda Octavia ;€ 17,980.-;136,600 km;01/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1732;t;;Blue  
+Volkswagen Passat Variant ;€ 19,980.-;128,700 km;02/2019;110 kW (150 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1733;t;;Blue  
+Volkswagen Caddy ;€ 16,490.-;142,080 km;05/2016;75 kW (102 hp);2;Manual;Diesel;13 l/100 km (comb.);128 g/km (comb.);1734;t;;Blue  
+Volkswagen Passat Variant ;€ 21,980.-;135,300 km;03/2019;110 kW (150 hp);1;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1735;t;;Blue  
+Volkswagen Passat Variant ;€ 22,480.-;104,000 km;05/2019;110 kW (150 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1738;t;;Blue  
+Lancia Ypsilon ;€ 4,800.-;100,000 km;05/2011;55 kW (75 hp);2;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1739;t;;Blue  
+Volkswagen Passat Variant ;€ 20,980.-;117,000 km;11/2018;110 kW (150 hp);3;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1740;t;;Blue  
+Volkswagen Passat Variant ;€ 21,480.-;117,200 km;05/2019;110 kW (150 hp);3;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1741;t;;Blue  
+Volkswagen Passat Variant ;€ 18,480.-;144,500 km;05/2019;110 kW (150 hp);3;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1742;t;;Blue  
+Volkswagen Passat Variant ;€ 19,980.-;136,400 km;05/2019;110 kW (150 hp);4;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1743;t;;Blue  
+Volkswagen Passat Variant ;€ 27,480.-;86,700 km;07/2020;110 kW (150 hp);2;Automatic;Diesel;- (l/100 km);- (g/km);1744;t;;Blue  
+Volkswagen Passat Variant ;€ 25,980.-;117,600 km;07/2020;110 kW (150 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1745;t;;Blue  
+Volkswagen Passat Alltrack ;€ 29,980.-;129,500 km;04/2018;140 kW (190 hp);4;Automatic;Diesel;5.3 l/100 km (comb.);138 g/km (comb.);1753;t;;Blue  
+Volkswagen Passat Alltrack ;€ 27,480.-;128,600 km;08/2018;140 kW (190 hp);2;Automatic;Diesel;5.2 l/100 km (comb.);137 g/km (comb.);1754;t;;Blue  
+Dacia Sandero ;€ 6,200.-;63,700 km;12/2013;55 kW (75 hp);3;Manual;Gasoline;5.8 l/100 km (comb.);137 g/km (comb.);1756;t;;Blue  
+Opel Corsa ;€ 2,700.-;193,800 km;12/2010;51 kW (69 hp);3;Manual;Gasoline;5.3 l/100 km (comb.);124 g/km (comb.);1757;t;;Blue  
+Kia Ceed SW / cee'd SW ;€ 8,999.-;99,800 km;06/2013;73 kW (99 hp);5;Manual;Gasoline;6.5 l/100 km (comb.);154 g/km (comb.);1758;t;;Blue  
+Ford Fiesta ;€ 8,700.-;58,700 km;11/2016;60 kW (82 hp);3;Manual;Gasoline;5.2 l/100 km (comb.);122 g/km (comb.);1759;t;;Blue  
+BMW X7 ;€ 105,000.-;46,000 km;06/2021;250 kW (340 hp);3;Automatic;Diesel;6.4 l/100 km (comb.);167 g/km (comb.);1762;t;;Blue  
+Skoda Fabia ;€ 11,990.-;40,000 km;05/2018;55 kW (75 hp);3;Manual;Gasoline;4.9 l/100 km (comb.);111 g/km (comb.);1763;t;;Blue  
+BMW X3 ;€ 18,990.-;180,000 km;10/2012;190 kW (258 hp);4;Automatic;Diesel;5 l/100 km (comb.);159 g/km (comb.);1764;t;;Blue  
+Fiat 500C ;€ 13,990.-;38,500 km;12/2019;63 kW (86 hp);4;Manual;Gasoline;4.8 l/100 km (comb.);110 g/km (comb.);1765;t;;Blue  
+Jeep Wrangler ;€ 30,990.-;68,100 km;07/2012;147 kW (200 hp);3;Automatic;Diesel;8 l/100 km (comb.);217 g/km (comb.);1766;t;;Blue  
+Alfa Romeo Stelvio ;€ 27,990.-;106,500 km;07/2018;132 kW (179 hp);4;Automatic;Diesel;4.7 l/100 km (comb.);124 g/km (comb.);1767;t;;Blue  
+Mercedes-Benz B 170 ;€ 2,900.-;160,709 km;05/2006;85 kW (116 hp);5;Manual;LPG;7.1 l/100 km (comb.);171 g/km (comb.);1768;t;;Blue  
+Volkswagen Golf ;€ 5,000.-;86,000 km;06/2004;75 kW (102 hp);2;Manual;Gasoline;7.2 l/100 km (comb.);173 g/km (comb.);1769;t;;Blue  
+Porsche 911 ;€ 234,911.-;3,200 km;06/2022;375 kW (510 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1776;t;;Blue  
+BMW 428 ;€ 26,965.-;95,000 km;01/2016;180 kW (245 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1781;t;;Blue  
+Peugeot 508 ;€ 9,985.-;132,900 km;10/2013;103 kW (140 hp);4;Manual;Diesel;4.8 l/100 km (comb.);125 g/km (comb.);1783;t;;Blue  
+Isuzu D-Max ;€ 22,985.-;129,800 km;06/2017;120 kW (163 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1784;t;;Blue  
+Kia Sportage ;€ 7,485.-;75,900 km;06/2006;103 kW (140 hp);1;Automatic;Diesel;- (l/100 km);- (g/km);1793;t;;Blue  
+Volvo XC90 ;€ 4,985.-;150,000 km;09/2005;120 kW (163 hp);5;Automatic;Diesel;- (l/100 km);- (g/km);1794;t;;Blue  
+Land Rover Discovery Sport ;€ 14,985.-;229,000 km;01/2017;110 kW (150 hp);2;Manual;Diesel;5.1 l/100 km (comb.);134 g/km (comb.);1799;t;;Blue  
+BMW 428 ;€ 26,965.-;95,000 km;01/2016;180 kW (245 hp);5;Automatic;Gasoline;- (l/100 km);- (g/km);1808;t;;Blue  
+Hyundai TUCSON ;€ 18,685.-;118,000 km;09/2015;100 kW (136 hp);3;Manual;Diesel;5.2 l/100 km (comb.);139 g/km (comb.);1818;t;;Blue  
+Audi A6 allroad ;€ 19,985.-;150,000 km;04/2013;150 kW (204 hp);5;Automatic;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1819;t;;Blue  
+Hyundai i30 ;€ 13,285.-;100,000 km;03/2015;99 kW (135 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1820;t;;Blue  
+Subaru XV ;€ 14,985.-;134,000 km;01/2015;110 kW (150 hp);3;Automatic;Gasoline;- (l/100 km);- (g/km);1823;t;;Blue  
+smart forFour ;€ 18,500.-;15,000 km;02/2020;41 kW (56 hp);4;Automatic;Electric;- (l/100 km);0 g/km (comb.);1825;t;;Blue  
+Opel Astra ;€ 3,000.-;171,500 km;08/2007;77 kW (105 hp);4;Manual;Gasoline;- (l/100 km);- (g/km);1826;t;;Blue  
+BMW 116 ;€ 16,700.-;113,000 km;06/2018;80 kW (109 hp);5;Manual;Gasoline;6 l/100 km;130 g/km (comb.);1827;t;;Blue  
+Fiat Grande Punto ;€ 4,499.-;239,000 km;06/2007;66 kW (90 hp);5;Manual;Diesel;4.7 l/100 km (comb.);119 g/km (comb.);1828;t;;Blue  
+Toyota Yaris ;€ 5,900.-;125,000 km;06/2010;51 kW (69 hp);5;Manual;Gasoline;5 l/100 km (comb.);118 g/km (comb.);1831;t;;Blue  
+Mercedes-Benz EQC 400 ;€ 61,690.-;56,650 km;11/2020;300 kW (408 hp);4;Automatic;Electric;22.6 kWh/100 km;0 g/km (comb.);1836;t;;Blue  
+Volkswagen Polo ;€ 3,950.-;76,000 km;08/2004;55 kW (75 hp);3;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1838;t;;Blue  
+Daihatsu Sirion ;€ 5,290.-;50,900 km;03/2012;51 kW (69 hp);3;Manual;Gasoline;5 l/100 km (comb.);118 g/km (comb.);1839;t;;Blue  
+Peugeot 206 ;€ 3,890.-;63,470 km;07/2009;44 kW (60 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1841;t;;Blue  
+Renault Twingo ;€ 4,290.-;87,000 km;07/2011;55 kW (75 hp);5;Manual;Gasoline;4.5 l/100 km (comb.);105 g/km (comb.);1842;t;;Blue  
+SEAT Ibiza ;€ 4,390.-;36,000 km;10/2003;55 kW (75 hp);5;Manual;Gasoline;6.4 l/100 km (comb.);154 g/km (comb.);1843;t;;Blue  
+Opel Corsa ;€ 11,500.-;63,307 km;05/2019;66 kW (90 hp);5;Manual;Gasoline;3.2 l/100 km (comb.);94 g/km (comb.);1844;t;;Blue  
+Mazda CX-5 ;€ 14,980.-;169,704 km;04/2012;121 kW (165 hp);2;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);1845;t;;Blue  
+Kia Picanto ;€ 4,400.-;80,000 km;06/2009;44 kW (60 hp);3;Manual;LPG;4 l/100 km (comb.);- (g/km);1854;t;;Blue  
+Mercedes-Benz SL 500 ;€ 43,500.-;36,985 km;05/2008;285 kW (387 hp);2;Automatic;Gasoline;- (l/100 km);- (g/km);1855;t;;Blue  
+Suzuki Jimny ;€ 11,990.-;37,000 km;03/2007;63 kW (86 hp);4;Manual;Diesel;6.1 l/100 km (comb.);162 g/km (comb.);1860;t;;Blue  
+Mercedes-Benz Vito ;€ 21,780.-;122,992 km;01/2018;100 kW (136 hp);2;Manual;Diesel;- (l/100 km);164 g/km (comb.);1861;t;;Blue  
+BMW 220 ;€ 16,900.-;105,000 km;07/2015;140 kW (190 hp);2;Automatic;Diesel;4.3 l/100 km (comb.);112 g/km (comb.);1862;t;;Blue  
+Volkswagen Golf ;€ 30,440.-;13,554 km;11/2021;110 kW (150 hp);2;Automatic;Diesel;3.9 l/100 km (comb.);103 g/km (comb.);1863;t;;Blue  
+Volvo XC60 ;€ 10,450.-;167,359 km;03/2013;120 kW (163 hp);2;Manual;Diesel;5.7 l/100 km (comb.);149 g/km (comb.);1866;t;;Blue  
+Mercedes-Benz C 300 ;€ 41,900.-;24,550 km;09/2020;143 kW (194 hp);3;Automatic;Others;1.6 l/100 km (comb.);- (g/km);1868;t;;Blue  
+Porsche Macan ;€ 59,500.-;40,900 km;04/2019;180 kW (245 hp);4;Automatic;Gasoline;8.1 l/100 km (comb.);- (g/km);1870;t;;Blue  
+Land Rover Defender ;€ 22,000.-;302,000 km;11/1999;90 kW (122 hp);1;Manual;Diesel;10.5 l/100 km (comb.);1 g/km (comb.);1871;t;;Blue  
+Mercedes-Benz A 180 ;€ 16,400.-;179,988 km;11/2014;90 kW (122 hp);3;Automatic;Gasoline;5.7 l/100 km (comb.);133 g/km (comb.);1872;t;;Blue  
+Audi A3 ;€ 20,490.-;60,000 km;01/2019;85 kW (116 hp);5;Automatic;Diesel;3.9 l/100 km (comb.);136 g/km (comb.);1874;t;;Blue  
+Tesla Model S ;€ 59,990.-;68,200 km;12/2019;413 kW (562 hp);2;Automatic;Electric;- (l/100 km);0 g/km (comb.);1878;t;;Blue  
+BMW X5 ;€ 8,800.-;230,341 km;09/2004;160 kW (218 hp);4;Automatic;Diesel;8.6 l/100 km (comb.);229 g/km (comb.);1879;t;;Blue  
+Ford Fiesta ;€ 12,890.-;42,000 km;02/2019;52 kW (71 hp);4;Manual;Gasoline;5.2 l/100 km (comb.);117 g/km (comb.);1883;t;;Blue  
+Volkswagen Polo ;€ 6,900.-;180,476 km;01/2012;66 kW (90 hp);5;Manual;Gasoline;5.1 l/100 km (comb.);119 g/km (comb.);1888;t;;Blue  
+Nissan Qashqai ;€ 18,300.-;20,600 km;12/2019;103 kW (140 hp);2;Manual;Gasoline;5.3 l/100 km (comb.);121 g/km (comb.);1889;t;;Blue  
+Fiat Multipla ;€ 2,200.-;185,000 km;04/2006;68 kW (92 hp);1;Manual;CNG;6.3 kg/100 km (comb.);161 g/km (comb.);1893;t;;Blue  
+Renault Megane ;€ 5,500.-;168,000 km;07/2010;81 kW (110 hp);4;Manual;Diesel;4.8 l/100 km (comb.);126 g/km (comb.);1895;t;;Blue  
+Skoda Octavia ;€ 4,400.-;311,000 km;11/2011;77 kW (105 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1896;t;;Blue  
+BMW X1 ;€ 23,000.-;164,000 km;07/2018;110 kW (150 hp);5;Automatic;Diesel;4.6 l/100 km (comb.);121 g/km (comb.);1466;t;;Blue  
+Fiat Panda ;€ 6,900.-;135,000 km;06/2006;44 kW (60 hp);1;Manual;Gasoline;6.6 l/100 km (comb.);155 g/km (comb.);1467;t;;Blue  
+Bentley Arnage ;€ 22,500.-;173,000 km;02/2000;- kW (- hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1468;t;;Blue  
+Land Rover Range Rover Velar ;€ 104,900.-;77,675 km;10/2019;405 kW (551 hp);5;Automatic;Gasoline;11.8 l/100 km (comb.);0 g/km (comb.);1469;t;;Blue  
+Peugeot 807 ;€ 5,300.-;226,369 km;02/2011;100 kW (136 hp);5;Manual;Diesel;6.1 l/100 km (comb.);- (g/km);1470;t;;Blue  
+Mercedes-Benz B 180 ;€ 32,000.-;33,500 km;06/2020;85 kW (116 hp);1;Automatic;Diesel;3 l/100 km (comb.);101 g/km (comb.);1471;t;;Blue  
+Lotus Elise ;€ 60,000.-;42,000 km;07/2008;163 kW (222 hp);4;Manual;Gasoline;8.5 l/100 km (comb.);- (g/km);1472;t;;Blue  
+Audi Allroad ;€ 24,990.-;194,900 km;11/2016;236 kW (321 hp);2;Automatic;- (Fuel type);- (l/100 km);- (g/km);1473;t;;Blue  
+Subaru Impreza ;€ 12,000.-;168,000 km;09/2003;195 kW (265 hp);2;Manual;Gasoline;11.1 l/100 km (comb.);- (g/km);1476;t;;Blue  
+Citroen Méhari ;€ 13,000.-;66,000 km;12/1984;24 kW (33 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1477;t;;Blue  
+Porsche 996 ;€ 32,000.-;250,000 km;11/1999;300 kW (408 hp);2;Manual;Gasoline;13.1 l/100 km (comb.);- (g/km);1482;t;;Blue  
+SEAT Leon ;€ 17,300.-;53,800 km;07/2017;92 kW (125 hp);3;Manual;Gasoline;5.2 l/100 km (comb.);- (g/km);1483;t;;Blue  
+Volkswagen Polo ;€ 15,500.-;22,000 km;04/2021;66 kW (90 hp);3;Manual;CNG;- (l/100 km);- (g/km);1485;t;;Blue  
+Fiat Ducato ;€ 5,000.-;295,000 km;09/2011;74 kW (101 hp);4;Manual;Diesel;- (l/100 km);- (g/km);1487;t;;Blue  
+Audi Q5 ;€ 12,500.-;210,000 km;10/2010;125 kW (170 hp);4;Semi-automatic;Diesel;7 l/100 km (comb.);184 g/km (comb.);1491;t;;Blue  
+Audi A1 ;€ 25,490.-;14,500 km;11/2020;81 kW (110 hp);4;Automatic;Gasoline;5.8 l/100 km (comb.);132 g/km (comb.);1493;t;;Blue  
+Audi A1 ;€ 25,490.-;14,500 km;11/2020;81 kW (110 hp);3;Automatic;Gasoline;5.8 l/100 km (comb.);132 g/km (comb.);1494;t;;Blue  
+Abarth 595 Pista ;€ 19,790.-;43,890 km;06/2018;118 kW (160 hp);3;Manual;Gasoline;6 l/100 km (comb.);139 g/km (comb.);1495;t;;Blue  
+MINI Cooper S ;€ 22,900.-;123,791 km;08/2016;170 kW (231 hp);5;Automatic;Gasoline;5.4 l/100 km (comb.);126 g/km (comb.);1499;t;;Blue  
+Mercedes-Benz Sprinter ;€ 9,000.-;377,824 km;06/2008;80 kW (109 hp);3;Manual;Diesel;10 l/100 km (comb.);266 g/km (comb.);1500;t;;Blue  
+Volkswagen Passat Variant ;€ 1,790.-;292,000 km;10/2003;96 kW (131 hp);3;Manual;Diesel;- (l/100 km);- (g/km);1501;t;;Blue  
+Volkswagen Golf ;€ 10,500.-;159,000 km;09/2013;77 kW (105 hp);1;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1504;t;;Blue  
+Mercedes-Benz V 250 ;€ 39,800.-;135,000 km;09/2014;140 kW (190 hp);2;Automatic;Diesel;6 l/100 km (comb.);- (g/km);1505;t;;Blue  
+Jeep Compass ;€ 19,000.-;92,000 km;07/2018;88 kW (120 hp);4;Manual;Diesel;4.4 l/100 km (comb.);- (g/km);1506;t;;Blue  
+Mercedes-Benz Vito ;€ 26,500.-;80,000 km;12/2018;84 kW (114 hp);2;Manual;Diesel;- (l/100 km);- (g/km);1509;t;;Blue  
+Renault Twingo ;€ 7,500.-;57,921 km;10/2016;52 kW (71 hp);4;Manual;Gasoline;4.7 l/100 km (comb.);105 g/km (comb.);1510;t;;Blue  
+Fiat Panda ;€ 6,500.-;93,864 km;07/2005;44 kW (60 hp);5;Manual;Gasoline;6.6 l/100 km (comb.);155 g/km (comb.);1511;t;;Blue  
+Volvo C70 ;€ 5,950.-;291,100 km;02/1998;175 kW (238 hp);1;Automatic;Gasoline;- (l/100 km);- (g/km);1513;t;;Blue  
+Skoda Octavia ;€ 17,480.-;145,000 km;10/2018;85 kW (116 hp);5;Automatic;Diesel;4 l/100 km (comb.);105 g/km (comb.);1345;t;;Blue  
+Skoda Octavia ;€ 15,980.-;148,700 km;09/2017;85 kW (116 hp);1;Manual;Diesel;4.1 l/100 km (comb.);106 g/km (comb.);1348;t;;Blue  
+Skoda Octavia ;€ 17,480.-;132,000 km;06/2018;85 kW (116 hp);5;Automatic;Diesel;4 l/100 km (comb.);105 g/km (comb.);1351;t;;Blue  
+Skoda Octavia ;€ 17,980.-;136,600 km;01/2019;85 kW (116 hp);3;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1352;t;;Blue  
+Volkswagen Passat Variant ;€ 19,980.-;128,700 km;02/2019;110 kW (150 hp);4;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1353;t;;Blue  
+Volkswagen Caddy ;€ 16,490.-;142,080 km;05/2016;75 kW (102 hp);5;Manual;Diesel;13 l/100 km (comb.);128 g/km (comb.);1354;t;;Blue  
+Volkswagen Passat Variant ;€ 21,980.-;135,300 km;03/2019;110 kW (150 hp);2;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1355;t;;Blue  
+Volkswagen Passat Variant ;€ 22,480.-;104,000 km;05/2019;110 kW (150 hp);5;Automatic;Diesel;4.4 l/100 km (comb.);114 g/km (comb.);1358;t;;Blue  
+Lancia Ypsilon ;€ 4,800.-;100,000 km;05/2011;55 kW (75 hp);1;Manual;Diesel;4.1 l/100 km (comb.);109 g/km (comb.);1359;t;;Blue  
+Volkswagen Passat Variant ;€ 20,980.-;117,000 km;11/2018;110 kW (150 hp);2;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1360;t;;Blue  
+Volkswagen Passat Variant ;€ 21,480.-;117,200 km;05/2019;110 kW (150 hp);1;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1361;t;;Blue  
+Volkswagen Passat Variant ;€ 18,480.-;144,500 km;05/2019;110 kW (150 hp);1;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1362;t;;Blue  
+Volkswagen Passat Variant ;€ 19,980.-;136,400 km;05/2019;110 kW (150 hp);3;Manual;Diesel;4.3 l/100 km (comb.);113 g/km (comb.);1363;t;;Blue  
+Volkswagen Passat Variant ;€ 27,480.-;86,700 km;07/2020;110 kW (150 hp);3;Automatic;Diesel;- (l/100 km);- (g/km);1364;t;;Blue  
+Alfa Romeo Spider ;€ 15,500.-;36,000 km;06/1990;88 kW (120 hp);5;Manual;Gasoline;- (l/100 km);- (g/km);1516;t;;Blue  
+Citroen Jumper ;€ 7,000.-;142,000 km;11/2011;81 kW (110 hp);5;Manual;Diesel;- (l/100 km);- (g/km);1517;t;;Blue  
+Citroen C3 ;€ 13,500.-;95,600 km;05/2018;55 kW (75 hp);4;Manual;Diesel;3.6 l/100 km (comb.);93 g/km (comb.);1522;t;;Blue  
+SEAT Leon ;€ 16,480.-;163,000 km;12/2018;110 kW (150 hp);3;Automatic;Diesel;4.5 l/100 km (comb.);117 g/km (comb.);1524;t;;Blue  
+SEAT Leon ;€ 17,480.-;121,200 km;08/2018;110 kW (150 hp);4;Manual;Diesel;4.4 l/100 km (comb.);112 g/km (comb.);1525;t;;Blue  
+SEAT Leon ;€ 14,480.-;163,000 km;07/2018;85 kW (116 hp);5;Automatic;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1526;t;;Blue  
+Mercedes-Benz Vito ;€ 13,900.-;170,000 km;07/2015;84 kW (114 hp);3;- (Gear);Diesel;- (l/100 km);- (g/km);1527;t;;Blue  
+SEAT Leon ;€ 17,980.-;99,500 km;04/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1528;t;;Blue  
+SEAT Leon ;€ 16,980.-;96,500 km;03/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1529;t;;Blue  
+SEAT Leon ;€ 16,480.-;122,600 km;02/2019;85 kW (116 hp);4;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1530;t;;Blue  
+SEAT Leon ;€ 15,980.-;108,300 km;04/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1531;t;;Blue  
+SEAT Leon ;€ 14,980.-;124,800 km;08/2019;85 kW (116 hp);2;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1532;t;;Blue  
+SEAT Leon ;€ 14,480.-;140,500 km;08/2018;85 kW (116 hp);3;Automatic;Diesel;4.2 l/100 km (comb.);111 g/km (comb.);1533;t;;Blue  
+Volkswagen Golf ;€ 19,450.-;34,200 km;05/2019;96 kW (131 hp);4;Manual;Gasoline;4.8 l/100 km (comb.);- (g/km);1534;t;;Blue  
+SEAT Leon ;€ 15,980.-;149,900 km;10/2018;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1535;t;;Blue  
+SEAT Leon ;€ 14,480.-;148,500 km;08/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1536;t;;Blue  
+SEAT Leon ;€ 15,680.-;118,300 km;06/2019;85 kW (116 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);106 g/km (comb.);1537;t;;Blue  
+SEAT Leon ;€ 14,980.-;114,700 km;06/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1538;t;;Blue  
+SEAT Leon ;€ 15,480.-;114,500 km;09/2019;85 kW (116 hp);2;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1539;t;;Blue  
+Audi Q5 ;€ 28,919.-;72,548 km;01/2018;120 kW (163 hp);4;Automatic;Diesel;- (l/100 km);- (g/km);1540;t;;Blue  
+Opel Corsa ;€ 16,200.-;36,540 km;12/2018;66 kW (90 hp);4;Automatic;Gasoline;- (l/100 km);- (g/km);1619;t;;Blue  
+SEAT Leon ;€ 16,480.-;110,800 km;08/2019;85 kW (116 hp);5;Manual;Diesel;4.1 l/100 km (comb.);108 g/km (comb.);1541;t;;Blue  
+SsangYong Korando ;€ 12,490.-;62,134 km;01/2014;110 kW (150 hp);1;Manual;Diesel;5.8 l/100 km (comb.);- (g/km);1542;t;;Blue  
+Opel Crossland ;€ 12,990.-;70,404 km;01/2018;96 kW (131 hp);4;Manual;Gasoline;4.7 l/100 km (comb.);- (g/km);1543;t;;Blue  
+Kia Sportage ;€ 10,490.-;99,000 km;01/2012;85 kW (116 hp);2;Manual;Diesel;5.3 l/100 km (comb.);- (g/km);1544;t;;Blue  
+SEAT Ateca ;€ 24,480.-;40,000 km;06/2018;110 kW (150 hp);1;Automatic;Gasoline;5.4 l/100 km (comb.);125 g/km (comb.);1545;t;;Blue  
+SEAT Ateca ;€ 27,980.-;67,500 km;05/2019;110 kW (150 hp);1;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1546;t;;Blue  
+SEAT Ateca ;€ 25,480.-;128,100 km;04/2019;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1547;t;;Blue  
+SEAT Ateca ;€ 28,980.-;110,200 km;01/2019;140 kW (190 hp);4;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1548;t;;Blue  
+SEAT Ateca ;€ 27,980.-;102,400 km;02/2018;140 kW (190 hp);1;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1549;t;;Blue  
+SEAT Ateca ;€ 22,980.-;82,800 km;05/2020;110 kW (150 hp);3;Manual;Diesel;4.4 l/100 km (comb.);124 g/km (comb.);1550;t;;Blue  
+SEAT Ateca ;€ 29,980.-;62,000 km;02/2020;110 kW (150 hp);2;Automatic;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1551;t;;Blue  
+SEAT Ateca ;€ 29,480.-;80,100 km;07/2020;110 kW (150 hp);5;Manual;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1552;t;;Blue  
+SEAT Ateca ;€ 28,480.-;88,000 km;06/2020;110 kW (150 hp);5;Manual;Diesel;4.9 l/100 km (comb.);145 g/km (comb.);1553;t;;Blue  
+SEAT Ateca ;€ 27,980.-;75,000 km;12/2019;110 kW (150 hp);2;Automatic;Diesel;4.5 l/100 km (comb.);123 g/km (comb.);1554;t;;Blue  
+SEAT Ateca ;€ 25,480.-;130,500 km;02/2018;140 kW (190 hp);1;Automatic;Diesel;5 l/100 km (comb.);142 g/km (comb.);1555;t;;Blue  
+Ford Fiesta ;€ 6,990.-;159,995 km;09/2014;70 kW (95 hp);2;Manual;Diesel;3.6 l/100 km (comb.);- (g/km);1556;t;;Blue  
+Audi A3 ;€ 20,490.-;69,100 km;01/2018;110 kW (150 hp);1;Manual;Diesel;4.2 l/100 km (comb.);- (g/km);1557;t;;Blue  
+Audi Q5 ;€ 24,490.-;117,000 km;07/2014;180 kW (245 hp);5;Automatic;Diesel;6.4 l/100 km (comb.);- (g/km);1558;t;;Blue  
+Land Rover Range Rover Sport ;€ 26,490.-;222,014 km;01/2014;190 kW (258 hp);4;Automatic;Diesel;6.9 l/100 km (comb.);- (g/km);1559;t;;Blue  
+SEAT Ateca ;€ 19,980.-;119,300 km;04/2019;85 kW (116 hp);1;Manual;Diesel;4.2 l/100 km (comb.);120 g/km (comb.);1560;t;;Blue  
+SEAT Ateca ;€ 23,480.-;48,500 km;06/2019;85 kW (116 hp);3;Manual;Diesel;4.2 l/100 km (comb.);120 g/km (comb.);1561;t;;Blue  
+Toyota Corolla ;€ 22,990.-;22,627 km;12/2021;90 kW (122 hp);5;Automatic;Electric/Gasoline;- (l/100 km);- (g/km);1562;t;;Blue  
+Toyota C-HR ;€ 23,990.-;98,541 km;11/2018;90 kW (122 hp);3;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1563;t;;Blue  
+Toyota C-HR ;€ 22,990.-;69,400 km;08/2019;90 kW (122 hp);1;Automatic;Electric/Gasoline;4 l/100 km (comb.);- (g/km);1564;t;;Blue  
+Toyota Auris ;€ 16,990.-;93,225 km;07/2018;100 kW (136 hp);2;Automatic;Electric/Gasoline;4.5 l/100 km (comb.);- (g/km);1565;t;;Blue  
+SEAT Arona ;€ 19,480.-;50,100 km;08/2020;70 kW (95 hp);3;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1566;t;;Blue  
+SEAT Arona ;€ 19,480.-;16,300 km;10/2020;70 kW (95 hp);2;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1567;t;;Blue  
+Opel Crossland ;€ 15,995.-;115,340 km;10/2017;60 kW (82 hp);2;Manual;CNG;5.2 kg/100 km (comb.);- (g/km);1568;t;;Blue  
+SEAT Arona ;€ 19,980.-;13,000 km;06/2020;70 kW (95 hp);4;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1569;t;;Blue  
+Toyota Auris ;€ 17,000.-;31,400 km;07/2018;100 kW (136 hp);3;Automatic;Electric/Gasoline;4.3 l/100 km (comb.);- (g/km);1570;t;;Blue  
+Toyota Land Cruiser ;€ 28,800.-;406,000 km;07/2015;140 kW (190 hp);3;Automatic;Diesel;8.1 l/100 km (comb.);- (g/km);1571;t;;Blue  
+Mercedes-Benz Citan ;€ 33,588.-;1,268 km;11/2021;70 kW (95 hp);4;Manual;Diesel;- (l/100 km);140 g/km (comb.);1572;t;;Blue  
+SEAT Arona ;€ 19,480.-;40,200 km;07/2020;70 kW (95 hp);1;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1573;t;;Blue  
+SEAT Arona ;€ 19,980.-;40,300 km;02/2020;70 kW (95 hp);5;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1574;t;;Blue  
+Lancia Beta ;€ 15,500.-;140,000 km;06/1975;86 kW (117 hp);1;Manual;Gasoline;- (l/100 km);- (g/km);1575;t;;Blue  
+BMW 116 ;€ 10,990.-;134,750 km;07/2014;85 kW (116 hp);4;Manual;Diesel;3.8 l/100 km (comb.);- (g/km);1576;t;;Blue  
+Peugeot 508 ;€ 12,990.-;118,800 km;06/2017;88 kW (120 hp);1;Automatic;Diesel;4.2 l/100 km (comb.);- (g/km);1577;t;;Blue  
+Jeep Renegade ;€ 15,990.-;86,290 km;11/2018;88 kW (120 hp);5;Manual;Gasoline;5.7 l/100 km (comb.);- (g/km);1578;t;;Blue  
+Opel Astra ;€ 13,990.-;43,025 km;02/2019;77 kW (105 hp);2;Manual;Gasoline;4.3 l/100 km (comb.);- (g/km);1579;t;;Blue  
+SEAT Arona ;€ 17,480.-;73,900 km;09/2020;70 kW (95 hp);4;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1580;t;;Blue  
+BMW 118 ;€ 23,400.-;41,222 km;07/2019;110 kW (150 hp);5;Automatic;Diesel;4.4 l/100 km (comb.);- (g/km);1581;t;;Blue  
+SEAT Arona ;€ 18,980.-;23,400 km;11/2020;70 kW (95 hp);1;Manual;Diesel;4.9 l/100 km (comb.);108 g/km (comb.);1582;t;;Blue  
+Mercedes-Benz Vito ;€ 35,988.-;43,710 km;06/2020;100 kW (136 hp);3;Manual;Diesel;- (l/100 km);194 g/km (comb.);1583;t;;Blue  
+Citroen C4 ;€ 8,250.-;178,131 km;10/2012;80 kW (109 hp);1;Manual;Diesel;5.4 l/100 km (comb.);- (g/km);1584;t;;Blue  
